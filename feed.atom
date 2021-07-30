@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T09:54:09.819Z</id>
+    <id>urn:2021-07-30T09:54:57.582Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T09:54:09.819Z</updated>
+    <updated>2021-07-30T09:54:57.582Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -261,6 +261,18 @@ The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by be
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New features in the fish shell]]></title>
+        <id>https://freshman.tech/fish-shell/</id>
+        <link href="https://freshman.tech/fish-shell/"/>
+        <updated>2021-07-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published on LWN.net on September 29, 2020.
+Fish (the “friendly interactive shell”) has the explicit goal of being more user-friendly than other shells. It features a modern command-line interface with syntax highlighting, tab completion, and auto-suggestions out of the box (all with no configuration required). Unlike many of its competitors, it doesn’t care about being POSIX-compliant but attempts to blaze its own path.
+Since our last look at the project, way back in 2013, it has seen lots of new releases with features, bug fixes, and refinements aimed at appealing to a wide range of users.]]></summary>
+        <author>
+            <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
         <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
         <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
@@ -296,6 +308,16 @@ Katla    [N] is a mystery drama from Iceland. A year after the subglacial volcan
 Kim’s Convenience    [N] is one of the funniest TV shows I’ve watched in years. The story is about a Korean-Canadian family, running a convenien…]]></summary>
         <author>
             <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding TypeScript to your existing Rails App]]></title>
+        <id>https://freshman.tech/typescript-rails/</id>
+        <link href="https://freshman.tech/typescript-rails/"/>
+        <updated>2021-07-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever thought about trying TypeScript for your app’s front end? It’s enticing, but the thought of porting all that existing JS is just too much. But what if you could gradually introduce TypeScript into your existing app, only using it where it made sense? In this article, I’ll describe how to do just that.]]></summary>
+        <author>
+            <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
         </author>
     </entry>
     <entry>

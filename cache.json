@@ -690,6 +690,31 @@
       "feedUrl": "https://bitsofco.de/rss/",
       "siteUrl": "https://bitsofco.de/",
       "articles": []
+    },
+    {
+      "title": "Freshman — Articles and tutorials on Software development",
+      "feedUrl": "https://freshman.tech/index.xml",
+      "siteUrl": "https://freshman.tech/",
+      "articles": [
+        {
+          "id": "https://freshman.tech/fish-shell/",
+          "author": "ayo@freshman.tech (Ayooluwa Isaiah)",
+          "description": "This article was originally published on LWN.net on September 29, 2020.\nFish (the “friendly interactive shell”) has the explicit goal of being more user-friendly than other shells. It features a modern command-line interface with syntax highlighting, tab completion, and auto-suggestions out of the box (all with no configuration required). Unlike many of its competitors, it doesn’t care about being POSIX-compliant but attempts to blaze its own path.\nSince our last look at the project, way back in 2013, it has seen lots of new releases with features, bug fixes, and refinements aimed at appealing to a wide range of users.",
+          "link": "https://freshman.tech/fish-shell/",
+          "publishedOn": "2021-07-26T13:00:00.000Z",
+          "wordCount": 1858,
+          "title": "New features in the fish shell"
+        },
+        {
+          "id": "https://freshman.tech/typescript-rails/",
+          "author": "ayo@freshman.tech (Ayooluwa Isaiah)",
+          "description": "Have you ever thought about trying TypeScript for your app’s front end? It’s enticing, but the thought of porting all that existing JS is just too much. But what if you could gradually introduce TypeScript into your existing app, only using it where it made sense? In this article, I’ll describe how to do just that.",
+          "link": "https://freshman.tech/typescript-rails/",
+          "publishedOn": "2021-07-24T11:00:00.000Z",
+          "wordCount": 2996,
+          "title": "Adding TypeScript to your existing Rails App"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
