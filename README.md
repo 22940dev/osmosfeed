@@ -2,9 +2,9 @@
 Feed :  https://www.raymondcamden.com/feed.xml   
 tags : articles, 11ty, guides
 
-
-
-
+[bitsofcode](https://bitsofco.de)
+Feed : https://bitsofco.de/rss/
+tags : articles
 
 
 
