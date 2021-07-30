@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T10:02:30.793Z</id>
+    <id>urn:2021-07-30T10:02:59.658Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T10:02:30.793Z</updated>
+    <updated>2021-07-30T10:02:59.658Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -284,6 +284,16 @@ Since our last look at the project, way back in 2013, it has seen lots of new re
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to: React Table with Select]]></title>
+        <id>https://www.robinwieruch.de/react-table-select</id>
+        <link href="https://www.robinwieruch.de/react-table-select"/>
+        <updated>2021-07-26T11:56:46.000Z</updated>
+        <summary type="html"><![CDATA[How to use React Table Library with Select by using its useRowSelect plugin for selecting single or multiple rows in a table by checkbox or row click ...]]></summary>
+        <author>
+            <name>RWieruch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
         <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
         <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
@@ -430,6 +440,16 @@ The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can suppo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to: React Table with Double Click]]></title>
+        <id>https://www.robinwieruch.de/react-table-double-click</id>
+        <link href="https://www.robinwieruch.de/react-table-double-click"/>
+        <updated>2021-07-20T11:56:46.000Z</updated>
+        <summary type="html"><![CDATA[How to use React Table Library with a double click on a row ...]]></summary>
+        <author>
+            <name>RWieruch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
         <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
         <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
@@ -447,6 +467,16 @@ The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can suppo
         <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Colby Fayock)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conditional Hooks in React]]></title>
+        <id>https://www.robinwieruch.de/react-conditional-hooks</id>
+        <link href="https://www.robinwieruch.de/react-conditional-hooks"/>
+        <updated>2021-07-18T01:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Is it possible to use conditional React Hooks in React components? Technically no. However, in this example I want to show you how to use a Hook ...]]></summary>
+        <author>
+            <name>RWieruch</name>
         </author>
     </entry>
     <entry>
@@ -559,6 +589,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Freelance React Developer Checklist]]></title>
+        <id>https://www.robinwieruch.de/freelance-react-developer</id>
+        <link href="https://www.robinwieruch.de/freelance-react-developer"/>
+        <updated>2021-07-11T11:50:46.000Z</updated>
+        <summary type="html"><![CDATA[How do I start freelancing as a React developer? This checklist helps freelancers and companies hiring freelancers to negotiate the details of the project ...]]></summary>
+        <author>
+            <name>RWieruch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Graphing Movie Rating Distribution For No Good Reason]]></title>
         <id>https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason</id>
         <link href="https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason"/>
@@ -589,6 +629,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to: React Table with Search]]></title>
+        <id>https://www.robinwieruch.de/react-table-search</id>
+        <link href="https://www.robinwieruch.de/react-table-search"/>
+        <updated>2021-07-07T11:56:46.000Z</updated>
+        <summary type="html"><![CDATA[How to use React Table Library with search. If you want to search your table data ...]]></summary>
+        <author>
+            <name>RWieruch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
         <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
         <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
@@ -606,6 +656,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to: React Table with Pagination]]></title>
+        <id>https://www.robinwieruch.de/react-table-pagination</id>
+        <link href="https://www.robinwieruch.de/react-table-pagination"/>
+        <updated>2021-07-05T11:56:46.000Z</updated>
+        <summary type="html"><![CDATA[How to use React Table Library with Pagination by using its usePagination plugin for pages in a table ...]]></summary>
+        <author>
+            <name>RWieruch</name>
         </author>
     </entry>
     <entry>
