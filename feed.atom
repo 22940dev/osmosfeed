@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T05:13:40.929Z</id>
+    <id>urn:2021-07-30T08:58:31.356Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T05:13:40.929Z</updated>
+    <updated>2021-07-30T08:58:31.356Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -271,6 +271,34 @@ The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by be
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Link Bundle #4]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-4/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-4/"/>
+        <updated>2021-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Tomorrow War    [P] is an alien invasion/time-travel movie and was fun to watch. Ignore the critics, it has plot holes and is not original, but it’s a well-made movie.
+The Mitchells vs. the Machines    [N] is a funny and entertaining animated movie about a dysfunctional family’s road-trip meeting a robot apocalypse.
+Close Enough    [N] is a new, funny animated TV Show about a couple struggling with parenthood, friendship, and everyday challenges.
+Katla    [N] is a mystery drama from Iceland. A year after the subglacial volcano erupts, mysterious things happen in a nearly abandoned area at the foot of the volcano. It has a lot of WTF moments 😆
+Kim’s Convenience    [N] is one of the funniest TV shows I’ve watched in years. The story is about a Korean-Canadian family, running a convenien…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #4]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-4/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-4/"/>
+        <updated>2021-07-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Tomorrow War    [P] is an alien invasion/time-travel movie and was fun to watch. Ignore the critics, it has plot holes and is not original, but it’s a well-made movie.
+The Mitchells vs. the Machines    [N] is a funny and entertaining animated movie about a dysfunctional family’s road-trip meeting a robot apocalypse.
+Close Enough    [N] is a new, funny animated TV Show about a couple struggling with parenthood, friendship, and everyday challenges.
+Katla    [N] is a mystery drama from Iceland. A year after the subglacial volcano erupts, mysterious things happen in a nearly abandoned area at the foot of the volcano. It has a lot of WTF moments 😆
+Kim’s Convenience    [N] is one of the funniest TV shows I’ve watched in years. The story is about a Korean-Canadian family, running a convenien…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
         <id>https://css-tricks.com/?p=344019</id>
         <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
@@ -302,6 +330,26 @@ The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-
         <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVONthink and Obsidian – The Perfect Pair of Tools for Note-Taking]]></title>
+        <id>https://www.stefanimhoff.de/devonthink-obsidian-for-note-taking/</id>
+        <link href="https://www.stefanimhoff.de/devonthink-obsidian-for-note-taking/"/>
+        <updated>2021-07-23T07:08:49.000Z</updated>
+        <summary type="html"><![CDATA[With the release of the mobile versions of Obsidian last week, my note-taking workflow got even more comfortable.
+The mobile versions are fantastic. They support all plugins of the Desktop version, even community plugins.
+A few of the plugins do make not a lot of sense, though (like Sliding Panes on a mobile phone) and I hope a future version brings the option to turn off specific extensions just on mobile.
+The mobile version has mobile-only settings, to customize the toolbar and quick action.
+
+Synchronization
+To sync between Desktop and mobile devices the Obsidian vaults have to be moved in an iCloud system folder.
+The synchronization is super fast (I assume thanks to Apple CloudKit). It takes 2-3 seconds to see a change reflected live on another device.
+
+My Updated Setup
+I moved my Obsid…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
         </author>
     </entry>
     <entry>
@@ -506,6 +554,34 @@ The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can suppo
         <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #3]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-3/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-3/"/>
+        <updated>2021-07-01T09:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter’s Legacy    [N] is a new superhero TV Show that is much better than the rating would suggest. I’m honestly sad that it’s canceled, I wouldn’t even have noticed wasn’t there the short episode Jupiter’s Legacy Asks Big Questions. Netflix Cancelled It on Out of Frame. I bought the Graphic Novel to learn how the story continues.
+Against Environmental Anti-Humanism is an essay by Marian L. Tupy of HumanProgress. There is no reason for pessimism about the future of our species of the planet.
+The Samurai Genre in Movies explores the culture, history of the Samurai genre in cinema.
+Drawing Dr. Jordan B. Peterson is a stunning time-lapse of 86 hours drawing with charcoal and graphite.
+Bonsai Releaf is a new channel documenting the design, pruning, and shaping of bonsai trees. Restoring a Ne…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #3]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-3/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-3/"/>
+        <updated>2021-07-01T09:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter’s Legacy    [N] is a new superhero TV Show that is much better than the rating would suggest. I’m honestly sad that it’s canceled, I wouldn’t even have noticed wasn’t there the short episode Jupiter’s Legacy Asks Big Questions. Netflix Cancelled It on Out of Frame. I bought the Graphic Novel to learn how the story continues.
+Against Environmental Anti-Humanism is an essay by Marian L. Tupy of HumanProgress. There is no reason for pessimism about the future of our species of the planet.
+The Samurai Genre in Movies explores the culture, history of the Samurai genre in cinema.
+Drawing Dr. Jordan B. Peterson is a stunning time-lapse of 86 hours drawing with charcoal and graphite.
+Bonsai Releaf is a new channel documenting the design, pruning, and shaping of bonsai trees. Restoring a Ne…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
         </author>
     </entry>
 </feed>
