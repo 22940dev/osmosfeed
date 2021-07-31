@@ -19,7 +19,8 @@ Feed : https://www.robinwieruch.de/index.xml
 
 [Josh Comeau](https://www.joshwcomeau.com)
 
-
+[Robert Mosolgo](https://rmosolgo.github.io)
+Feed : https://rmosolgo.github.io
 
 
 # About
