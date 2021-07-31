@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T02:16:02.716Z</id>
+    <id>urn:2021-07-31T12:41:45.761Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T02:16:02.716Z</updated>
+    <updated>2021-07-31T12:41:45.761Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
+        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
+        <updated>2021-07-31T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project]]></title>
         <id>6053023028094f59be257c79</id>
@@ -343,6 +353,17 @@ Since our last look at the project, way back in 2013, it has seen lots of new re
         <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What makes a good ID?]]></title>
+        <id>https://rmosolgo.github.io/software/graphql/2021/07/26/what-makes-a-good-id.html</id>
+        <link href="https://rmosolgo.github.io/software/graphql/2021/07/26/what-makes-a-good-id.html"/>
+        <updated>2021-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At my job, we’re working on revamping the global ID system we use for GraphQL. Here are a few lessons I’ve learned through my participation in the project.
+In short, we’ve been considering, “what makes a good global identifier?” I’ve found a few takeaways. (Our sibling team pointed out...]]></summary>
+        <author>
+            <name>Robert Mosolgo</name>
         </author>
     </entry>
     <entry>
