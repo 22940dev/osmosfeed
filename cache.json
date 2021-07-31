@@ -907,6 +907,22 @@
           "title": "Podcast: “A tower of capabilities”, with special guest Chris Lattner"
         }
       ]
+    },
+    {
+      "title": "Swiftjective-C",
+      "feedUrl": "https://www.swiftjectivec.com/feed.xml",
+      "siteUrl": "https://swiftjectivec.com/",
+      "articles": [
+        {
+          "id": "https://swiftjectivec.com/Tableview-Diffable-Datasource-Drag-to-Reorder/",
+          "author": null,
+          "description": "The Scenario Reorder rows by dragging on them in a table view using diffable datasource.",
+          "link": "https://swiftjectivec.com/Tableview-Diffable-Datasource-Drag-to-Reorder/",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 887,
+          "title": "Drag to Reorder in UITableView with Diffable Datasource"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
