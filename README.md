@@ -26,6 +26,10 @@
 - Feed : https://blog.jessfraz.com/index.xml
 - tags : articles, writing, blog
 -----
+### [John Sundell](https://www.swiftbysundell.com)
+- Feed : https://swiftbysundell.com/rss
+- tags : swift, articles, podcasts
+-----
 # About
 
 This is repository hosts the UI and content of an RSS feed reader.
