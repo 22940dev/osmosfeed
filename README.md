@@ -1,30 +1,30 @@
-[Raymond Camden](https://www.raymondcamden.com)  
-Feed :  https://www.raymondcamden.com/feed.xml   
-tags : articles, 11ty, guides
+###[Raymond Camden](https://www.raymondcamden.com)  
+- Feed :  https://www.raymondcamden.com/feed.xml   
+- tags : articles, 11ty, guides
 -----
-[bitsofcode](https://bitsofco.de)
+###[bitsofcode](https://bitsofco.de)
 - Feed : https://bitsofco.de/rss/
 - tags : articles
 -----
-[Ayo Isaiah](https://freshman.tech)
+###[Ayo Isaiah](https://freshman.tech)
 - Feed : https://freshman.tech/index.xml
 - tags : articles
 -----
-[Alistapart](https://alistapart.com)
-Feed : https://alistapart.com/main/feed
-tags : articles, blog
+###[Alistapart](https://alistapart.com)
+- Feed : https://alistapart.com/main/feed
+- tags : articles, blog
 -----
-[Robin Wieruch](https://www.robinwieruch.de)
-Feed : https://www.robinwieruch.de/index.xml
+###[Robin Wieruch](https://www.robinwieruch.de)
+- Feed : https://www.robinwieruch.de/index.xml
 -----
-[Josh Comeau](https://www.joshwcomeau.com)
+###[Josh Comeau](https://www.joshwcomeau.com)
 -----
-[Robert Mosolgo](https://rmosolgo.github.io)
-Feed : https://rmosolgo.github.io
+###[Robert Mosolgo](https://rmosolgo.github.io)
+- Feed : https://rmosolgo.github.io
 -----
-[Jessie Franz](https://blog.jessfraz.com)
-Feed : https://blog.jessfraz.com/index.xml
-tags : articles, writing, blog
+###[Jessie Franz](https://blog.jessfraz.com)
+- Feed : https://blog.jessfraz.com/index.xml
+- tags : articles, writing, blog
 -----
 # About
 
