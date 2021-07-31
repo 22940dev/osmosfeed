@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T20:57:08.206Z</id>
+    <id>urn:2021-07-31T22:12:14.293Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T20:57:08.206Z</updated>
+    <updated>2021-07-31T22:12:14.293Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -280,6 +280,16 @@ The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Trick
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Throwing and asynchronous Swift properties]]></title>
+        <id>https://www.swiftbysundell.com/articles/throwing-async-properties</id>
+        <link href="https://www.swiftbysundell.com/articles/throwing-async-properties"/>
+        <updated>2021-07-27T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[How Swift 5.5 enables computed properties to become either throwing or asynchronous, and what sort of situations that these new capabilities could become useful in.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
         <id>https://css-tricks.com/?p=344815</id>
         <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
@@ -440,6 +450,16 @@ The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Attaching property wrappers to function arguments]]></title>
+        <id>https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments</id>
+        <link href="https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments"/>
+        <updated>2021-07-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[New in Swift 5.5: Property wrappers can now be applied directly to function arguments, just like how they can be used to add additional functionality to a property or local variable.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
         <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
         <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
@@ -540,6 +560,16 @@ I moved my Obsid…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Podcast: “Cross-platform SwiftUI”, with special guest Malin Sundberg]]></title>
+        <id>https://www.swiftbysundell.com/podcast/101</id>
+        <link href="https://www.swiftbysundell.com/podcast/101"/>
+        <updated>2021-07-15T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Malin Sundberg joins John to talk about her experiences of using SwiftUI to build and ship the time-tracking and invoicing app Orbit on most of Apple’s platforms, and what sort of things that can be good to keep in mind when using SwiftUI in a cross-platform context.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
         <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
         <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
@@ -596,6 +626,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stroking and filling a SwiftUI shape at the same time]]></title>
+        <id>https://www.swiftbysundell.com/articles/stroking-and-filling-a-swiftui-shape-at-the-same-time</id>
+        <link href="https://www.swiftbysundell.com/articles/stroking-and-filling-a-swiftui-shape-at-the-same-time"/>
+        <updated>2021-07-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to compose multiple SwiftUI views to render a shape that’s both stroked and filled at the same time.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
         </author>
     </entry>
     <entry>
@@ -679,6 +719,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mutating and non-mutating Swift contexts]]></title>
+        <id>https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts</id>
+        <link href="https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts"/>
+        <updated>2021-07-07T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[What sort of capabilities that a mutating Swift context has, and what the mutating and nonmutating keywords do.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to: React Table with Search]]></title>
         <id>https://www.robinwieruch.de/react-table-search</id>
         <link href="https://www.robinwieruch.de/react-table-search"/>
@@ -719,6 +769,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sponsor: ViRE]]></title>
+        <id>https://www.swiftbysundell.com/sponsor/vire-july-2021</id>
+        <link href="https://www.swiftbysundell.com/sponsor/vire-july-2021"/>
+        <updated>2021-07-05T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks a lot to ViRE for sponsoring Swift by Sundell.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
         <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
         <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
@@ -726,6 +786,16 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: “A tower of capabilities”, with special guest Chris Lattner]]></title>
+        <id>https://www.swiftbysundell.com/podcast/100</id>
+        <link href="https://www.swiftbysundell.com/podcast/100"/>
+        <updated>2021-07-02T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Lattner returns to the show to discuss Swift’s new concurrency features, the ongoing evolution of the language, and the importance of both language and API design. This, and much more, on this special 100th episode of the show.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
         </author>
     </entry>
     <entry>
