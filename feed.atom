@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T12:42:38.027Z</id>
+    <id>urn:2021-07-31T20:52:55.467Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T12:42:38.027Z</updated>
+    <updated>2021-07-31T20:52:55.467Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rewriting the GNU Coreutils in Rust]]></title>
+        <id>https://freshman.tech/rust-coreutils/</id>
+        <link href="https://freshman.tech/rust-coreutils/"/>
+        <updated>2021-07-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published on LWN.net on June 8, 2021.
+As movement toward memory-safe languages, and Rust in particular, continues to grow, it is worth looking at one of the larger scale efforts to port C code that has existed for decades to Rust. The uutils project aims to rewrite all of the individual utilities included in the GNU Coreutils project in Rust. Originally created by Jordi Boggiano in 2013, the project aims to provide drop-in replacements for the Coreutils programs, adding the data-race protection and memory safety that Rust provides.]]></summary>
+        <author>
+            <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
