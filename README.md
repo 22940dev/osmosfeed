@@ -42,6 +42,12 @@
 - Feed : https://lo-victoria.com/rss.xml
 - tags : hashnode
 -----
+### [Catalin Pit Hashnode Blog](https://catalins.tech)
+- Feed : https://catalins.tech/rss.xml
+- tags : hashnode
+-----
+
+
 
 
 # About
