@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T02:20:54.864Z</id>
+    <id>urn:2021-08-01T08:08:11.392Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T02:20:54.864Z</updated>
+    <updated>2021-08-01T08:08:11.392Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,6 +106,37 @@ The post A Shared ESLint Configuration appeared first on CSS-Tricks. You can sup
 The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript's freaking arguments object 😡]]></title>
+        <id>https://yurilee.hashnode.dev/javascripts-freaking-arguments-object</id>
+        <link href="https://yurilee.hashnode.dev/javascripts-freaking-arguments-object"/>
+        <updated>2021-07-30T12:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my blog post, yet again...🥲
+You're probably here because you're confused about this arguments object shit. 
+I don't blame you, this shit was confusing for me too😅 I spent like days  trying to understand it. 
+
+BUT don't freak out!! My confusion is exactly why I'm writing a blog post. Easy version. For dummies like me to understand.
+So don't worry, I got you 😆
+
+Contents
+🔠 Vocabulary
+🤔 Wtf is arguments object?
+👀 When to use?
+📏 arguments and length property
+👆 Assign values with arguments
+🤓 strict mode
+😎 non-strict mode
+🔠 Vocabulary
+🚨 If you're familiar with function terms, you don't need to read this 🚨
+Terms you should know:
+arguments (not the object) are values that are passed when you call your function. 
+For example, look at the code below:
+function example(a, b) {
+ …]]></summary>
+        <author>
+            <name>Yuri Lee</name>
         </author>
     </entry>
     <entry>
@@ -500,6 +531,39 @@ I moved my Obsid…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS units are confusing AF 😖]]></title>
+        <id>https://yurilee.hashnode.dev/css-units-are-confusing-af</id>
+        <link href="https://yurilee.hashnode.dev/css-units-are-confusing-af"/>
+        <updated>2021-07-22T13:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Welcome once again to my blog! 
+If you know anything about CSS, you probably know that CSS units are confusing AF...
+em?? rem??😰
+Can't we just use px?
+ch????? What the HELL is this? 🤯
+
+Today we're going to briefly learn about CSS units, since they're so freaking confusing!
+In this blog post, I'll do my best to briefly explain each unit, and its best usage.
+Contents
+px   
+%
+em
+rem
+vw/vh
+ch
+🐝 px (absolute) 
+Best usage: small details, for example, border size or shadow
+Ah....yes. Everyone's first CSS unit 😆
+We're all guilty of using px for every single thing at the beginning of our learning journeys...💀
+
+Hopefully, now we know that px is probably not the best unit to use.
+But we'll go over it pretty quick, since it's still very common. 
+🧐 What is px?
+px is an absolute unit that stands f…]]></summary>
+        <author>
+            <name>Yuri Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
         <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
         <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
@@ -507,6 +571,79 @@ I moved my Obsid…]]></summary>
         <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐️ Tech Trivia Time ⭐️ 
+🔥 Day 2 🔥]]></title>
+        <id>https://yurilee.hashnode.dev/tech-trivia-time-day-2</id>
+        <link href="https://yurilee.hashnode.dev/tech-trivia-time-day-2"/>
+        <updated>2021-07-21T13:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to ⭐️ Tech Trivia Time ⭐️
+
+These are programming trivia questions I've hosted on Twitter every day. You don’t have to code at all, they're just little warm-up exercises to stimulate y'all brains 🤓 🧠
+The reason I'm doing this on Twitter is not to start fights in the comments, but so that other developers (including me) can learn from each others' answers and logic! 
+It's a great way to help others and to contribute to the community, while still learning!
+The idea here is to help each other better understand, and maybe to learn a new thing every day. This is not a competition to see who is the smartest!
+BE NICE!
+Contents
+Tech Trivia question
+Answer/explanation
+🔥 Day 2 🔥
+Hope y'all ready.🔥
+What will console output below? 
+for (i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+console.l…]]></summary>
+        <author>
+            <name>Yuri Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐️ Tech Trivia Time⭐️ 
+🔥 Day 1 🔥]]></title>
+        <id>https://yurilee.hashnode.dev/tech-trivia-time-day-1</id>
+        <link href="https://yurilee.hashnode.dev/tech-trivia-time-day-1"/>
+        <updated>2021-07-21T13:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to ⭐️ Tech Trivia Time ⭐️
+
+These are programming trivia questions I've hosted on Twitter every day. You don’t have to code at all, they're just little warm-up exercises to stimulate y'all brains 🤓 🧠
+The reason I'm doing this on Twitter is not to start fights in the comments, but so that other developers (including me) can learn from each others' answers and logic! 
+It's a great way to help others and to contribute to the community, while still learning!
+The idea here is to help each other better understand, and maybe to learn a new thing every day. This is not a competition to see who is the smartest!
+BE NICE!
+Contents
+Tech Trivia question
+Answer/explanation
+🔥 Day 1 🔥
+This is the first TTT we're having so it'll be a simple one🔥
+What will console output below? 
+let sum = function(a, b) {
+    console.log(a + b);
+}
+
+console.log(sum(3, 2));
+
+
+🚨🚨🚨 ANSWER BELOW 🚨🚨🚨
+The code will return the number 5 and undefined. This is because the code didn't explicitly return any value! 
+It first logs (a + b), then it calls the function, which will return undefined:
+let sum = function(a, b) {
+    console.log(a + b);
+    //no return;
+} 
+
+console.log(sum(3, 2)); //returns 5 and undefined
+
+
+Hey, you!
+I write content about my programming learning journey, share resources, and do tutorial threads!
+Feel free to give me some feedback! 
+Find me on Twitter!]]></summary>
+        <author>
+            <name>Yuri Lee</name>
         </author>
     </entry>
     <entry>
@@ -537,6 +674,28 @@ I moved my Obsid…]]></summary>
         <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I went from 0 to 3.7k Twitter followers in 1 week]]></title>
+        <id>https://yurilee.hashnode.dev/how-i-went-from-0-to-37k-twitter-followers-in-1-week</id>
+        <link href="https://yurilee.hashnode.dev/how-i-went-from-0-to-37k-twitter-followers-in-1-week"/>
+        <updated>2021-07-19T13:48:06.000Z</updated>
+        <summary type="html"><![CDATA[My Twitter has been growing ever since I created it a week ago, and now Tech Twitter is demanding answers ASAP. It's finally the time to reveal my secrets, and conspiracies of whether or not I'm a bot😂
+
+In this blog post, I'll be talking about how I started Twitter, and some know-how's I've gathered so far!
+💛 Contents
+How I started Twitter
+Things that helped me
+Kindness goes a long way 
+ENGAGE with people
+Ask for feedback
+Be yourself 
+Share your journey 
+💛 How I started 
+Being self-taught, I decided to make a Twitter account to help people with their self-taught journey. I was hitting a very rough patch on my own learning; I was having difficulties understanding certain programming concepts, and found tutorials to be very difficult (especially docs). I wanted to help beginners like me t…]]></summary>
+        <author>
+            <name>Yuri Lee</name>
         </author>
     </entry>
     <entry>
@@ -796,16 +955,6 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: “A tower of capabilities”, with special guest Chris Lattner]]></title>
-        <id>https://www.swiftbysundell.com/podcast/100</id>
-        <link href="https://www.swiftbysundell.com/podcast/100"/>
-        <updated>2021-07-02T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris Lattner returns to the show to discuss Swift’s new concurrency features, the ongoing evolution of the language, and the importance of both language and API design. This, and much more, on this special 100th episode of the show.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
         </author>
     </entry>
 </feed>

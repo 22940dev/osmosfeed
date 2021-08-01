@@ -159,7 +159,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2524,
+          "wordCount": 2510,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -173,7 +173,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12532,
+          "wordCount": 12525,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -187,7 +187,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2947,
+          "wordCount": 2945,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -201,7 +201,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3081,
+          "wordCount": 3074,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -215,7 +215,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3566,
+          "wordCount": 3572,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -229,7 +229,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3083,
+          "wordCount": 3086,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -243,7 +243,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3400,
+          "wordCount": 3395,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -299,7 +299,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4473,
+          "wordCount": 4474,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -313,7 +313,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4800,
+          "wordCount": 4794,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -327,7 +327,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1066,
+          "wordCount": 1079,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -355,7 +355,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5303,
+          "wordCount": 5301,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -369,7 +369,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3247,
+          "wordCount": 3244,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -397,7 +397,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3613,
+          "wordCount": 3611,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -425,7 +425,7 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4771,
+          "wordCount": 4774,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
@@ -439,7 +439,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4060,
+          "wordCount": 4046,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -467,7 +467,7 @@
           "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
           "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
           "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1584,
+          "wordCount": 1585,
           "title": "Using HSL Colors In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
@@ -628,7 +628,7 @@
           "description": "With the release of the mobile versions of Obsidian last week, my note-taking workflow got even more comfortable.\nThe mobile versions are fantastic. They support all plugins of the Desktop version, even community plugins.\nA few of the plugins do make not a lot of sense, though (like Sliding Panes on a mobile phone) and I hope a future version brings the option to turn off specific extensions just on mobile.\nThe mobile version has mobile-only settings, to customize the toolbar and quick action.\n\nSynchronization\nTo sync between Desktop and mobile devices the Obsidian vaults have to be moved in an iCloud system folder.\nThe synchronization is super fast (I assume thanks to Apple CloudKit). It takes 2-3 seconds to see a change reflected live on another device.\n\nMy Updated Setup\nI moved my Obsid…",
           "link": "https://www.stefanimhoff.de/devonthink-obsidian-for-note-taking/",
           "publishedOn": "2021-07-23T07:08:49.000Z",
-          "wordCount": 522,
+          "wordCount": 521,
           "title": "DEVONthink and Obsidian – The Perfect Pair of Tools for Note-Taking"
         }
       ]
@@ -882,15 +882,6 @@
           "publishedOn": "2021-07-05T10:45:00.000Z",
           "wordCount": 231,
           "title": "Sponsor: ViRE"
-        },
-        {
-          "id": "https://www.swiftbysundell.com/podcast/100",
-          "author": null,
-          "description": "Chris Lattner returns to the show to discuss Swift’s new concurrency features, the ongoing evolution of the language, and the importance of both language and API design. This, and much more, on this special 100th episode of the show.",
-          "link": "https://www.swiftbysundell.com/podcast/100",
-          "publishedOn": "2021-07-02T15:35:00.000Z",
-          "wordCount": 206,
-          "title": "Podcast: “A tower of capabilities”, with special guest Chris Lattner"
         }
       ]
     },
@@ -907,6 +898,58 @@
           "publishedOn": "2021-07-26T00:00:00.000Z",
           "wordCount": 887,
           "title": "Drag to Reorder in UITableView with Diffable Datasource"
+        }
+      ]
+    },
+    {
+      "title": "@codingyuri's blog",
+      "feedUrl": "https://yurilee.hashnode.dev/rss.xml",
+      "siteUrl": "https://yurilee.hashnode.dev",
+      "articles": [
+        {
+          "id": "https://yurilee.hashnode.dev/javascripts-freaking-arguments-object",
+          "author": "Yuri Lee",
+          "description": "Welcome to my blog post, yet again...🥲\nYou're probably here because you're confused about this arguments object shit. \nI don't blame you, this shit was confusing for me too😅 I spent like days  trying to understand it. \n\nBUT don't freak out!! My confusion is exactly why I'm writing a blog post. Easy version. For dummies like me to understand.\nSo don't worry, I got you 😆\n\nContents\n🔠 Vocabulary\n🤔 Wtf is arguments object?\n👀 When to use?\n📏 arguments and length property\n👆 Assign values with arguments\n🤓 strict mode\n😎 non-strict mode\n🔠 Vocabulary\n🚨 If you're familiar with function terms, you don't need to read this 🚨\nTerms you should know:\narguments (not the object) are values that are passed when you call your function. \nFor example, look at the code below:\nfunction example(a, b) {\n …",
+          "link": "https://yurilee.hashnode.dev/javascripts-freaking-arguments-object",
+          "publishedOn": "2021-07-30T12:01:34.000Z",
+          "wordCount": 1523,
+          "title": "JavaScript's freaking arguments object 😡"
+        },
+        {
+          "id": "https://yurilee.hashnode.dev/css-units-are-confusing-af",
+          "author": "Yuri Lee",
+          "description": "Welcome once again to my blog! \nIf you know anything about CSS, you probably know that CSS units are confusing AF...\nem?? rem??😰\nCan't we just use px?\nch????? What the HELL is this? 🤯\n\nToday we're going to briefly learn about CSS units, since they're so freaking confusing!\nIn this blog post, I'll do my best to briefly explain each unit, and its best usage.\nContents\npx   \n%\nem\nrem\nvw/vh\nch\n🐝 px (absolute) \nBest usage: small details, for example, border size or shadow\nAh....yes. Everyone's first CSS unit 😆\nWe're all guilty of using px for every single thing at the beginning of our learning journeys...💀\n\nHopefully, now we know that px is probably not the best unit to use.\nBut we'll go over it pretty quick, since it's still very common. \n🧐 What is px?\npx is an absolute unit that stands f…",
+          "link": "https://yurilee.hashnode.dev/css-units-are-confusing-af",
+          "publishedOn": "2021-07-22T13:49:57.000Z",
+          "wordCount": 1627,
+          "title": "CSS units are confusing AF 😖"
+        },
+        {
+          "id": "https://yurilee.hashnode.dev/tech-trivia-time-day-2",
+          "author": "Yuri Lee",
+          "description": "Welcome to ⭐️ Tech Trivia Time ⭐️\n\nThese are programming trivia questions I've hosted on Twitter every day. You don’t have to code at all, they're just little warm-up exercises to stimulate y'all brains 🤓 🧠\nThe reason I'm doing this on Twitter is not to start fights in the comments, but so that other developers (including me) can learn from each others' answers and logic! \nIt's a great way to help others and to contribute to the community, while still learning!\nThe idea here is to help each other better understand, and maybe to learn a new thing every day. This is not a competition to see who is the smartest!\nBE NICE!\nContents\nTech Trivia question\nAnswer/explanation\n🔥 Day 2 🔥\nHope y'all ready.🔥\nWhat will console output below? \nfor (i = 0; i < 5; i++) {\n    console.log(i);\n}\n\nconsole.l…",
+          "link": "https://yurilee.hashnode.dev/tech-trivia-time-day-2",
+          "publishedOn": "2021-07-21T13:40:16.000Z",
+          "wordCount": 562,
+          "title": "⭐️ Tech Trivia Time ⭐️ \n🔥 Day 2 🔥"
+        },
+        {
+          "id": "https://yurilee.hashnode.dev/tech-trivia-time-day-1",
+          "author": "Yuri Lee",
+          "description": "Welcome to ⭐️ Tech Trivia Time ⭐️\n\nThese are programming trivia questions I've hosted on Twitter every day. You don’t have to code at all, they're just little warm-up exercises to stimulate y'all brains 🤓 🧠\nThe reason I'm doing this on Twitter is not to start fights in the comments, but so that other developers (including me) can learn from each others' answers and logic! \nIt's a great way to help others and to contribute to the community, while still learning!\nThe idea here is to help each other better understand, and maybe to learn a new thing every day. This is not a competition to see who is the smartest!\nBE NICE!\nContents\nTech Trivia question\nAnswer/explanation\n🔥 Day 1 🔥\nThis is the first TTT we're having so it'll be a simple one🔥\nWhat will console output below? \nlet sum = function(a, b) {\n    console.log(a + b);\n}\n\nconsole.log(sum(3, 2));\n\n\n🚨🚨🚨 ANSWER BELOW 🚨🚨🚨\nThe code will return the number 5 and undefined. This is because the code didn't explicitly return any value! \nIt first logs (a + b), then it calls the function, which will return undefined:\nlet sum = function(a, b) {\n    console.log(a + b);\n    //no return;\n} \n\nconsole.log(sum(3, 2)); //returns 5 and undefined\n\n\nHey, you!\nI write content about my programming learning journey, share resources, and do tutorial threads!\nFeel free to give me some feedback! \nFind me on Twitter!",
+          "link": "https://yurilee.hashnode.dev/tech-trivia-time-day-1",
+          "publishedOn": "2021-07-21T13:06:26.000Z",
+          "wordCount": 392,
+          "title": "⭐️ Tech Trivia Time⭐️ \n🔥 Day 1 🔥"
+        },
+        {
+          "id": "https://yurilee.hashnode.dev/how-i-went-from-0-to-37k-twitter-followers-in-1-week",
+          "author": "Yuri Lee",
+          "description": "My Twitter has been growing ever since I created it a week ago, and now Tech Twitter is demanding answers ASAP. It's finally the time to reveal my secrets, and conspiracies of whether or not I'm a bot😂\n\nIn this blog post, I'll be talking about how I started Twitter, and some know-how's I've gathered so far!\n💛 Contents\nHow I started Twitter\nThings that helped me\nKindness goes a long way \nENGAGE with people\nAsk for feedback\nBe yourself \nShare your journey \n💛 How I started \nBeing self-taught, I decided to make a Twitter account to help people with their self-taught journey. I was hitting a very rough patch on my own learning; I was having difficulties understanding certain programming concepts, and found tutorials to be very difficult (especially docs). I wanted to help beginners like me t…",
+          "link": "https://yurilee.hashnode.dev/how-i-went-from-0-to-37k-twitter-followers-in-1-week",
+          "publishedOn": "2021-07-19T13:48:06.000Z",
+          "wordCount": 1204,
+          "title": "How I went from 0 to 3.7k Twitter followers in 1 week"
         }
       ]
     }
