@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T22:16:52.551Z</id>
+    <id>urn:2021-08-01T02:20:54.864Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T22:16:52.551Z</updated>
+    <updated>2021-08-01T02:20:54.864Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -806,16 +806,6 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         <summary type="html"><![CDATA[Chris Lattner returns to the show to discuss Swift’s new concurrency features, the ongoing evolution of the language, and the importance of both language and API design. This, and much more, on this special 100th episode of the show.]]></summary>
         <author>
             <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
-        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
-        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
-        <updated>2021-07-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
         </author>
     </entry>
 </feed>
