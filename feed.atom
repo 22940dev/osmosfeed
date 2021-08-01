@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T08:22:19.953Z</id>
+    <id>urn:2021-08-01T08:23:13.414Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T08:22:19.953Z</updated>
+    <updated>2021-08-01T08:23:13.414Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -677,6 +677,24 @@ Kim’s Convenience    [N] is one of the funniest TV shows I’ve watched in yea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Project-Based Learning Approach]]></title>
+        <id>https://inshaweb.hashnode.dev/project-based-learning-approach</id>
+        <link href="https://inshaweb.hashnode.dev/project-based-learning-approach"/>
+        <updated>2021-07-24T15:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Do you know what's the best way to learn any programming language?
+The answer is quite simple and obvious: by building lots of projects  💪
+Learning Web Development can be challenging. But as programmers, we always strive for better ways to be more effective and productive.
+What is Project-Based Learning?
+-According to Robert Schuetz,
+ Project-Based Learning is an instructional approach designed to allow students to develop knowledge and skills through engaging projects set around challenges and problems they may face in the real world.
+Tutorials are great, but building projects is the best way to learn. Bridge the gap between theory and real-world code by working on projects.
+In this article, we'll come across a number of projects ranging from -> ( Beginner to advanced level ) for you.
+ L…]]></summary>
+        <author>
+            <name>Insha Ramin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adding TypeScript to your existing Rails App]]></title>
         <id>https://freshman.tech/typescript-rails/</id>
         <link href="https://freshman.tech/typescript-rails/"/>
@@ -1089,6 +1107,21 @@ It was July 8. I was excited to receive an email in the morning, that I finally 
 Most poor (1-2 star) reviews are emotionally driven and do not contain any constructive feedback. A simple sentimental analysis shows that most bad reviews were mostly showing apprehension, concern and disagreement before even really testing the produc…]]></summary>
         <author>
             <name>Victoria Lo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Cheatsheet List For Web Developers]]></title>
+        <id>https://inshaweb.hashnode.dev/the-ultimate-cheatsheet-list-for-web-developers</id>
+        <link href="https://inshaweb.hashnode.dev/the-ultimate-cheatsheet-list-for-web-developers"/>
+        <updated>2021-07-16T13:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Being developers, we work with many different languages. Which makes it humanly impossible to remember all its aspects. Yes, we do have MDN docs, but looking at them for every little issue can be time-consuming. This is when a "Cheat Sheet" comes super-handy.
+In this post, we'll go through some quick and useful cheat sheets that'll save you hours in wasted time each week.
+When it comes to Web development, HTML is the first choice. Web development generally comprises 3 fundamentals: basically HTML, CSS, and JAVASCRIPT.
+ HTML Cheat Sheet
+Looking for a cheat sheet that contains useful code examples and web developer tools, markup generators, and more? Well, you’re going to love this. 
+This single-page cheat sheet is for all your needs. It covers all the basic syntax along with proper examples…]]></summary>
+        <author>
+            <name>Insha Ramin</name>
         </author>
     </entry>
     <entry>

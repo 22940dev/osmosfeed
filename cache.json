@@ -1162,6 +1162,31 @@
           "title": "GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses"
         }
       ]
+    },
+    {
+      "title": "Insha's Blog",
+      "feedUrl": "https://inshaweb.hashnode.dev/rss.xml",
+      "siteUrl": "https://inshaweb.hashnode.dev",
+      "articles": [
+        {
+          "id": "https://inshaweb.hashnode.dev/project-based-learning-approach",
+          "author": "Insha Ramin",
+          "description": "Do you know what's the best way to learn any programming language?\nThe answer is quite simple and obvious: by building lots of projects  💪\nLearning Web Development can be challenging. But as programmers, we always strive for better ways to be more effective and productive.\nWhat is Project-Based Learning?\n-According to Robert Schuetz,\n Project-Based Learning is an instructional approach designed to allow students to develop knowledge and skills through engaging projects set around challenges and problems they may face in the real world.\nTutorials are great, but building projects is the best way to learn. Bridge the gap between theory and real-world code by working on projects.\nIn this article, we'll come across a number of projects ranging from -> ( Beginner to advanced level ) for you.\n L…",
+          "link": "https://inshaweb.hashnode.dev/project-based-learning-approach",
+          "publishedOn": "2021-07-24T15:26:49.000Z",
+          "wordCount": 682,
+          "title": "Project-Based Learning Approach"
+        },
+        {
+          "id": "https://inshaweb.hashnode.dev/the-ultimate-cheatsheet-list-for-web-developers",
+          "author": "Insha Ramin",
+          "description": "Being developers, we work with many different languages. Which makes it humanly impossible to remember all its aspects. Yes, we do have MDN docs, but looking at them for every little issue can be time-consuming. This is when a \"Cheat Sheet\" comes super-handy.\nIn this post, we'll go through some quick and useful cheat sheets that'll save you hours in wasted time each week.\nWhen it comes to Web development, HTML is the first choice. Web development generally comprises 3 fundamentals: basically HTML, CSS, and JAVASCRIPT.\n HTML Cheat Sheet\nLooking for a cheat sheet that contains useful code examples and web developer tools, markup generators, and more? Well, you’re going to love this. \nThis single-page cheat sheet is for all your needs. It covers all the basic syntax along with proper examples…",
+          "link": "https://inshaweb.hashnode.dev/the-ultimate-cheatsheet-list-for-web-developers",
+          "publishedOn": "2021-07-16T13:21:17.000Z",
+          "wordCount": 972,
+          "title": "The Ultimate Cheatsheet List For Web Developers"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
