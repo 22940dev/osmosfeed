@@ -34,7 +34,10 @@
 - Feed : https://yurilee.hashnode.dev/rss.xml
 - tags : hashnode
 -----
-
+### [Suhail Kakar Hashnode Blog](https://blog.suhailkakar.com)
+- Feed : https://blog.suhailkakar.com/rss.xml
+- tags : hashnode
+-----
 
 # About
 
