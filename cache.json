@@ -1128,6 +1128,40 @@
           "title": "6 Scientific Tips to Learn and Improve on Any Skills Efficiently"
         }
       ]
+    },
+    {
+      "title": "Catalin's Tech",
+      "feedUrl": "https://catalins.tech/rss.xml",
+      "siteUrl": "https://catalins.tech",
+      "articles": [
+        {
+          "id": "https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner",
+          "author": "Catalin Pit",
+          "description": "Contributing to open-source is a great way to improve your programming skills, help others and learn how to work in a collaborative environment.\nHowever, many people are put off by the complexity of the projects. They also think that contributing to open-source is all about coding.\nBut that is not true! You can contribute to open source projects in other ways, such as:\nWriting documentation\nCreating supporting materials\nReviewing code\nTranslating to other languages\nStructure and re-structure the code and project structure\nThus, in this article, you will learn how to make your first open-source contributions with the help of Hashnode documentation. Hashnode is a blogging platform that open-sourced their documentation, which is a great place to start your open-source journey.\nAbout Open Sour…",
+          "link": "https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner",
+          "publishedOn": "2021-07-29T14:20:26.000Z",
+          "wordCount": 2436,
+          "title": "Getting Started With Open-Source: How To Contribute As A Beginner"
+        },
+        {
+          "id": "https://catalins.tech/create-custom-api-endpoints-in-nuxt",
+          "author": "Catalin Pit",
+          "description": "Did you know you can create custom API endpoints in Nuxt.js? That means you do not have to spin a standalone server. Instead, you can do it straight in your Nuxt application!\nIn this article, you will see how to do it. You will create a simple Express server with an endpoint that allows you to get data from the database.\nTherefore, let's see how to set up a custom API server!\nserverMiddleware Property\nNuxt.js has a property called serverMiddleware that allows you to create additional API routes inside your application.\nHow does it work? Nuxt.js creates an instance of connect, which is a middleware layer for Node.js. Thanks to the connect instance, you can create a custom API with different endpoints.\nThe serverMiddleware property is handy when you want to have the API in the same place as …",
+          "link": "https://catalins.tech/create-custom-api-endpoints-in-nuxt",
+          "publishedOn": "2021-07-12T05:05:42.000Z",
+          "wordCount": 912,
+          "title": "Create Custom API Endpoints in Nuxt"
+        },
+        {
+          "id": "https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses",
+          "author": "Catalin Pit",
+          "description": "https://www.youtube.com/watch?v=bsOHkdYFSK4\nIn this tutorial, you are going to build a voting application for tech courses. The voting application allows people to vote courses from tech so people can find quality courses.\nIf you like a course and think it's a quality course, you can upvote it. The more upvotes a course has, the higher it appears on the page.\nTo build the application, you will use:\nGraphCMS\nNuxt.js\nTailwindCSS\nWithout further ado, let's start building the application!\nAbout GraphCMS\nGraphCMS is the first GraphQL native Headless CMS. It aims to eliminate the pain points of traditional content management by leveraging the power of GraphQL.\nLet's see how GraphQL aims to do that. Some of the most notable features of GraphCMS are as follows:\nit has a single GraphQL endpoint tha…",
+          "link": "https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses",
+          "publishedOn": "2021-07-07T12:50:59.000Z",
+          "wordCount": 7774,
+          "title": "GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
