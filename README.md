@@ -30,6 +30,12 @@
 - Feed : https://swiftbysundell.com/rss
 - tags : swift, articles, podcasts
 -----
+### [@codingyuri](https://yurilee.hashnode.dev)
+- Feed : https://yurilee.hashnode.dev/rss.xml
+- tags : hashnode
+-----
+
+
 # About
 
 This is repository hosts the UI and content of an RSS feed reader.
