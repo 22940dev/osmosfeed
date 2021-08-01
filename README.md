@@ -46,8 +46,10 @@
 - Feed : https://catalins.tech/rss.xml
 - tags : hashnode
 -----
-
-
+### [Insha Romin](https://inshaweb.hashnode.dev)
+- Feed : https://inshaweb.hashnode.dev/rss.xml
+- tags : hashnode
+-----
 
 
 # About
