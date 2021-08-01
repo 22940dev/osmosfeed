@@ -38,6 +38,11 @@
 - Feed : https://blog.suhailkakar.com/rss.xml
 - tags : hashnode
 -----
+### [Victoria Lo Hashnode Blog](https://lo-victoria.com)
+- Feed : https://lo-victoria.com/rss.xml
+- tags : hashnode
+-----
+
 
 # About
 
