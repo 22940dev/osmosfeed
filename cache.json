@@ -89,7 +89,7 @@
           "description": "Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. \nThere are new things like “arbitrarily chuck underscores …\nThe post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://h3manth.com/ES2021/",
           "publishedOn": "2021-07-27T23:18:12.000Z",
-          "wordCount": null,
+          "wordCount": 316,
           "title": "ES2021 Features"
         },
         {
@@ -1083,6 +1083,49 @@
           "publishedOn": "2021-07-09T04:40:11.000Z",
           "wordCount": 628,
           "title": "Turning Your Website Into A Mobile App using React Native"
+        }
+      ]
+    },
+    {
+      "title": "Articles by Victoria Lo",
+      "feedUrl": "https://lo-victoria.com/rss.xml",
+      "siteUrl": "https://lo-victoria.com",
+      "articles": [
+        {
+          "id": "https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers",
+          "author": "Victoria Lo",
+          "description": "Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. At the end of this series, you will be able to build a simple chat app with GraphQL, React and Apollo.\nSneak Peek:\n\nIf you haven't read Part 1, please do so here.\nSubscriptions\nIn Part 1, we learnt about the 2 operations GraphQL supports: queries and mutations. The third type is known as subscriptions. \nSubscriptions are the operation used to push data from the server to the client on a specified event. Like queries, they fetch data and return it, but only when a certain change happens. Thus, subscriptions work by having an active connection to your GraphQL server (i.e. via WebSocket), where it will listen for a …",
+          "link": "https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers",
+          "publishedOn": "2021-07-30T14:26:46.000Z",
+          "wordCount": 1339,
+          "title": "GraphQL for Beginners: Subscriptions, Schemas and Servers"
+        },
+        {
+          "id": "https://lo-victoria.com/graphql-for-beginners-introduction",
+          "author": "Victoria Lo",
+          "description": "Welcome to GraphQL for Beginners! The primary goal of this series is to introduce the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. At the end of this series, you will have a simple chat app built with GraphQL, React and Apollo.\nSneak Peek:\n\nPrerequisites\nNo prior knowledge in GraphQL and Apollo needed\nAny code editor\nIntermediate-beginner experience with React, JavaScript\nFor Windows: Git and Git Bash installed\nOptional: Get GraphQL in VS Code extension for syntax highlighting\n\nClick on image to download the extension.\nIntroduction to GraphQL\nBefore we even start building the app, we need to learn the technologies we will be using. In particular, GraphQL.\nWhat is GraphQL?\nGraphQL is a query language for APIs. It was developed by Facebook…",
+          "link": "https://lo-victoria.com/graphql-for-beginners-introduction",
+          "publishedOn": "2021-07-23T14:00:15.000Z",
+          "wordCount": 1633,
+          "title": "GraphQL for Beginners: Introduction"
+        },
+        {
+          "id": "https://lo-victoria.com/github-copilot-my-experience-with-my-ai-coding-partner",
+          "author": "Victoria Lo",
+          "description": "In this article, I want to share my experience of using GitHub Copilot for a week. My first impressions, some demonstration of how it works, and my current impressions of the product.\nFirst Impression\nIt was July 8. I was excited to receive an email in the morning, that I finally got access to Copilot. I immediately went to install it in the Visual Studio Marketplace. What I first noticed when I arrived there was that Copilot had a 3-star average rating. I investigated further and was shocked to see the reason behind these mediocre reviews:\n\nMost poor (1-2 star) reviews are emotionally driven and do not contain any constructive feedback. A simple sentimental analysis shows that most bad reviews were mostly showing apprehension, concern and disagreement before even really testing the produc…",
+          "link": "https://lo-victoria.com/github-copilot-my-experience-with-my-ai-coding-partner",
+          "publishedOn": "2021-07-16T14:34:23.000Z",
+          "wordCount": 1047,
+          "title": "GitHub Copilot: My Experience With My AI Coding Partner"
+        },
+        {
+          "id": "https://lo-victoria.com/6-scientific-tips-to-learn-and-improve-on-any-skills-efficiently",
+          "author": "Victoria Lo",
+          "description": "Learning a new skill or knowledge is never an easy feat. As with any career, we continuously learn new things to improve ourselves and level up our skills. At the end of the day, to get better at something requires learning tons of theory and a lot of practice. In this article, let's discuss some ways we can learn more effectively and efficiently. \n1. Eliminate distractions\nA good learning environment is important for focus. So, a simple way to create such an environment is to eliminate any distractions.\nWhen I am trying to learn something, I would turn off social media notifications and close any unrelated tabs in my browser. This is because a good deal of research have suggested that multitasking results in poor memory retention and reduce attention span.\nAlso, don't try to learn everyth…",
+          "link": "https://lo-victoria.com/6-scientific-tips-to-learn-and-improve-on-any-skills-efficiently",
+          "publishedOn": "2021-07-08T13:41:45.000Z",
+          "wordCount": 1251,
+          "title": "6 Scientific Tips to Learn and Improve on Any Skills Efficiently"
         }
       ]
     }
