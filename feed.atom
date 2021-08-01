@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T08:09:25.583Z</id>
+    <id>urn:2021-08-01T08:14:31.413Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T08:09:25.583Z</updated>
+    <updated>2021-08-01T08:14:31.413Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,6 +24,27 @@ As movement toward memory-safe languages, and Rust in particular, continues to g
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Create A Youtube Clone Using React Native  - Part 1]]></title>
+        <id>https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1</id>
+        <link href="https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1"/>
+        <updated>2021-07-31T04:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+YouTube is a free video-sharing website that makes watching video clips easy. You may even make your own videos and post them to enjoy with others. YouTube, which was founded in 2005, is currently one of the most popular apps on the Internet, with over 6 billion hours of video watched each month.
+React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. 
+Table of Contents
+In this part (1) we are going to 
+Download and Install Node JS
+Install Expo CLI
+Initialize our app with React Native Expo
+Change Folder Structure
+Create a bottom Tab navigation
+Installing Node JS
+Node.js i…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -150,6 +171,31 @@ function example(a, b) {
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Tomorrow - A New Look for Your Code Editor]]></title>
+        <id>https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor</id>
+        <link href="https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor"/>
+        <updated>2021-07-30T07:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Visual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year. 
+A week ago I have created my own theme (  Tomorrow  ), This theme was inspired by One Dark Pro and Material Theme. 
+
+Installation
+Open  Extensions sidebar panel in VS Code.  View → Extensions
+Search for  Tomorrow  - find the one by  Suhail Kakar
+Click  Install  to install it.
+Code > Preferences > Color Theme >  Tomorrow
+Recommended Settings
+If you want to give the same look as the above picture for your Code Editor you need to paste the below code into your VS Code Settings JSON
+{
+  "editor.fontSize": 17,
+  "editor.fontWeight": "500",
+  "editor.fontLigatures": true,
+  "editor.lineHeigh…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
         <id>60f0501b66c61b07d458df00</id>
         <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
@@ -256,6 +302,28 @@ Computers have trouble because between spoken and written language, speech is mo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Typescript vs Javascript : Which one should you use for your next project ?]]></title>
+        <id>https://blog.suhailkakar.com/typescript-vs-javascript-which-one-should-you-use-for-your-next-project</id>
+        <link href="https://blog.suhailkakar.com/typescript-vs-javascript-which-one-should-you-use-for-your-next-project"/>
+        <updated>2021-07-29T03:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+JavaScript is a scripting language for building dynamic web pages. It adhered to client-side development principles, thus it operates entirely within the user's web browser and requires no resources from the web server. Javascript may also be used with other technologies such as REST APIs, XML, and others.
+Typescript is a superset of Javascript. It is a statically built language for writing Javascript code that is straightforward and simple. It may be used with Node.js or any browser that supports ECMAScript 3 or above. 
+Difference Between Javascript and Typescript
+Typescript
+Javascript
+
+To make the code comprehensible for browsers, it will convert to JavaScript code.
+Can be directly used in browsers
+
+
+There is support for ES3, ES4, ES5 and ES6
+No support for compiling additio…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Safari 15 Opinions]]></title>
         <id>https://css-tricks.com/?p=345404</id>
         <link href="https://css-tricks.com/safari-15-opinions/"/>
@@ -285,6 +353,33 @@ The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared f
         <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Design Resources for Developers]]></title>
+        <id>https://blog.suhailkakar.com/best-design-resources-for-developers</id>
+        <link href="https://blog.suhailkakar.com/best-design-resources-for-developers"/>
+        <updated>2021-07-28T03:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Are you searching for the best design resources? This is a collection that every developer should bookmark since it contains the greatest resources for creating an eye-catching and aesthetically enhanced project.
+Introduction
+Every developer's job entails some kind of product design. It's not just about having a good appearance; it's also about having engaging visuals and a good overall presentation. Rather of spending time and money on a lengthy design process, it is preferable to leverage resources that offer ready-to-use components and features for a fantastic, amazing, and outstanding product.
+Table of Contents
+UI Graphics
+Fonts
+Colors
+Icons
+Logos
+Favicons
+Icon Fonts
+Stock Photos
+Stock Videos
+Stock Music & Sound Effects
+Vectors & Clipart
+Product & Image Mockups
+HTML & CSS Templates
+CSS…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -339,6 +434,39 @@ The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find Social Media Accounts in 5 Minutes with Sherlock]]></title>
+        <id>https://blog.suhailkakar.com/find-social-media-accounts-in-5-minutes-with-sherlock</id>
+        <link href="https://blog.suhailkakar.com/find-social-media-accounts-in-5-minutes-with-sherlock"/>
+        <updated>2021-07-27T03:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer
+Don't do this to anyone with ill intent, this is a legit hacking tool part of the hacking process called osens, where we gather information about our hacking targets. What we're doing is not technically illegal we're just gathering publicly available information on the internet but the lines can blur based on your intentions so just be careful use this as a learning tool.
+Introduction
+Sherlock is a powerful command line tool supplied by the Sherlock Project that may be used to locate usernames across a variety of social media platforms. It is a python open-source project available at GitHub. You just need to input the username and Sherlock will return all the social media account url of that username
+Requirement
+This best thing about this project is that you don't need any extra thing, You just need a web browser
+How To Use ?
+Open this  link  in your browser. This will open Google Cloud Console which we can use its shell to install Sherlock
+Make sure to check the Trust checkbox and click on Confirm and wait for 10 seconds 
+
+Once everything is done, go a head and paste the below code in the Cloud Shell 
+python3 -m pip install -r requirements.txt
+
+If all the packages are installed successfully, you should see something similar to below picture
+
+Now we can start using Sherlock, you just need to a username to get the social media account. In the Cloud Shell paste the below code and click enter ( change username with the account you want to get information, In my case suhailkakar) and will get all the social media profile of the username
+python3 sherlock --timeout 1 username
+
+
+
+Conclusion
+I hope you found this articles helpful. If you need any help please let me know at comment section
+Let's connect on  Twitter  and  LinkedIn  
+👋 Thanks for reading, See you next time]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -408,6 +536,22 @@ Since our last look at the project, way back in 2013, it has seen lots of new re
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 Easy Ways To Make Money As A Developer]]></title>
+        <id>https://blog.suhailkakar.com/5-easy-ways-to-make-money-as-a-developer</id>
+        <link href="https://blog.suhailkakar.com/5-easy-ways-to-make-money-as-a-developer"/>
+        <updated>2021-07-26T03:32:55.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll show you 5 easy ways to make money as a developer.
+1. Freelancing
+For many developers, freelancing is profitable source of income.  Some people take it as a full-time job, while others do it as a part-time job to earn additional cash. Some platforms like Fiverr, Upwork, and many more offer a great opportunity for anyone to start freelancing, but there is a lot of competition there, so be sure to stand out among them 
+
+2. Sell an Ebook
+Writing an ebook is one of those things that may pay off for a long time. You can write a highly useful ebook as a developer that covers a certain topic of software development. Alternatively, you may opt to describe a programming language in such a way that your readers will have a better understanding of it.
+Writing books is also a won…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What makes a good ID?]]></title>
         <id>https://rmosolgo.github.io/software/graphql/2021/07/26/what-makes-a-good-id.html</id>
         <link href="https://rmosolgo.github.io/software/graphql/2021/07/26/what-makes-a-good-id.html"/>
@@ -426,6 +570,47 @@ In short, we’ve been considering, “what makes a good global identifier?” I
         <summary type="html"><![CDATA[The Scenario Reorder rows by dragging on them in a table view using diffable datasource.]]></summary>
         <author>
             <name>Swiftjective-C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Install Node.js and NPM on Ubuntu]]></title>
+        <id>https://blog.suhailkakar.com/how-to-install-nodejs-and-npm-on-ubuntu</id>
+        <link href="https://blog.suhailkakar.com/how-to-install-nodejs-and-npm-on-ubuntu"/>
+        <updated>2021-07-25T10:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Node.js is an open-source, JavaScript runtime environment on Chrome’s V8 that lets you effortlessly develop fast and scalable web applications. It utilises an event-driven, non-blocking I/O model that makes it lightweight, efficient and excellent for data-intensive real-time applications that run across shared devices.
+Installation
+The easiest way to install Node.js and npm on Ubuntu is using Ubuntu repository, To install the Node.js and npm from the Ubuntu repository open terminal (Ctrl + Alt + T) and run the following commands 
+$ sudo apt update
+
+$ sudo apt install nodejs npm
+
+The above command will install a number of packages in order to compile and install native addons from npm.
+Once it is done verify the installation by running :
+$ nodejs --version && npm --version
+
+v12.21.0
+7.5.2
+
+In output you should see the Node.js and NPM version respectively. 
+At the time of writing, the Node.js version and NPM version included in the Ubuntu repositories is 12.21.0 and 7.5.2 respectively 
+Uninstall Node.js
+Sometimes, you may want uninstall Node.js. You can do that simply by running the below commands on your terminal. 
+$ sudo apt-get remove nodejs npm
+
+$ sudo apt update
+
+Conclusion
+That is it, In this article we learned,
+What is Node.js
+How to install Node.js using Ubuntu repository
+How to install NPM using Ubuntu repository
+How to uninstall Node.js.
+I hope you found this articles helpful. If you need any help please let me know at comment section
+Let's connect on  Twitter  and  LinkedIn  
+👋 Thanks for reading, See you next time]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -464,6 +649,19 @@ Kim’s Convenience    [N] is one of the funniest TV shows I’ve watched in yea
         <summary type="html"><![CDATA[Have you ever thought about trying TypeScript for your app’s front end? It’s enticing, but the thought of porting all that existing JS is just too much. But what if you could gradually introduce TypeScript into your existing app, only using it where it made sense? In this article, I’ll describe how to do just that.]]></summary>
         <author>
             <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is MongoDB and Why it is the most popular Database today?]]></title>
+        <id>https://blog.suhailkakar.com/what-is-mongodb-and-why-it-is-the-most-popular-database-today</id>
+        <link href="https://blog.suhailkakar.com/what-is-mongodb-and-why-it-is-the-most-popular-database-today"/>
+        <updated>2021-07-24T03:48:58.000Z</updated>
+        <summary type="html"><![CDATA[What is MongoDB
+MongoDB is a document-oriented NoSQL database for storing large amounts of data. MongoDB uses collections and documents instead of tables and rows, as in traditional relational databases. MongoDB is a database that first appeared in the mid-2000s.
+The NoSQL database is a replacement for traditional SQL databases, and it includes almost all of the functionality found in RDBMS (Relational Database Management Systems) systems. Due to its simple architecture, support for both horizontal and vertical scalability, and easy and simple control over the data, NoSQL databases have grown considerably more popular in recent years than in the past.
+It allows programmers to store data in the database according to their program's real requirements. We can't get this kind of functionality …]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -531,6 +729,22 @@ I moved my Obsid…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[21 Useful JavaScript Tips That'll Help You Save Time]]></title>
+        <id>https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time</id>
+        <link href="https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time"/>
+        <updated>2021-07-23T04:26:50.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.
+While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used. Many developers believe that JavaScript is inefficient and finicky, so they have made many improvements to the language over the years.
+Here are the 21 JavaScript tricks that makes you a JavaScript pro
+Use logical AND / OR for conditions
+var xyz = 23;  
+xyz == 10 && runFunction(); // is the same thing as if (xyz == 23) runFunction(); 
+xyz == 5 || runFunction(); // is the same thing as if (xyz != …]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS units are confusing AF 😖]]></title>
         <id>https://yurilee.hashnode.dev/css-units-are-confusing-af</id>
         <link href="https://yurilee.hashnode.dev/css-units-are-confusing-af"/>
@@ -571,6 +785,47 @@ px is an absolute unit that stands f…]]></summary>
         <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's why software engineers choose Linux over Windows for programming]]></title>
+        <id>https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming</id>
+        <link href="https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming"/>
+        <updated>2021-07-22T03:24:08.000Z</updated>
+        <summary type="html"><![CDATA[I was a big fan of Windows OS, and have been using it for years because it is user-friendly, well-designed, and convenient. However, since I started programming I found that a Linux distro (such as Ubuntu, Manjaro, and Arch) is the best Operating System to start with.
+In this article, I am going to share, why I most of the software engineers choose Linux over Windows for programming
+Pre-installed Compilers
+The primary reason behind the popularity of Linux is the availability of compilers or interpreter. You don't have to download them yourself. On the other hand, Windows does not come with pre-installed compilers.
+Open Source
+Unlike Windows OS which is commercial, Linux is an open source software that is freely available to download. There are hundreds of Linux distributions available out of which almost five-hundred distro are in active development.
+Community Support
+All newcomers can find help on any of the Linux forums. If you are stuck somewhere in your development process or need help in your coding process, just Google it and you can find several Linux based helpful resources.
+Performance
+Linux is much powerful and versatile than Windows. It is light-weight OS, which makes it faster than Windows. You will notice a significant improvement in speed on a Linux distro when you start working it.
+Secure
+Linux is considered to be more secure than Windows. No antivirus is needed. Since it is open source, several developers are working on it and everyone can contribute code. It is likely that someone will find a vulnerability long before hackers can target a Linux distro. 
+Shell
+If Linux does not have what you need, you can still get all the functionalities that you need from the command line. Simply enter the command and it will atomically download and install the package. Which saves a lot of efforts.]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Websites to Learn Coding for Free in 2020]]></title>
+        <id>https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020</id>
+        <link href="https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020"/>
+        <updated>2021-07-21T16:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Learning to code has grown over the years from just a hobby to a career. Today, you can learn coding online, entirely for free. Gone are the days where knowing a programming language was reserved for the select few or cost quite a hefty amount of money.
+Even if you have no desire to go into the development field, learning a programming language can be very beneficial:
+It’ll help you better manage websites
+It’ll reduce reliance on an outside developer for your own projects
+It’ll give you the freedom to build apps, websites, and other projects with ease
+Whether you want to start your own career as a programmer, learn how to build websites, or create projects for fun, this post is for you. Here are some of the Websites to Learn Coding for Free
+5. Plural Sight
+
+Plural Sight, formally known as …]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -654,6 +909,51 @@ Find me on Twitter!]]></summary>
         <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is React Native and Why you should use it as an App Developer ?]]></title>
+        <id>https://blog.suhailkakar.com/what-is-react-native-and-why-you-should-use-it-as-an-app-developer</id>
+        <link href="https://blog.suhailkakar.com/what-is-react-native-and-why-you-should-use-it-as-an-app-developer"/>
+        <updated>2021-07-21T11:11:47.000Z</updated>
+        <summary type="html"><![CDATA[According to Statista, React Native is the most popular technologies for cross-platform software development of mobile applications for two years in a row.
+Releasing an app on both App Store and Google Play is every business’s desire. But the trick is, before shipping a mobile app to the market, you have to choose a technology stack. Is it going to be React Native, Flutter or some other technologies ?
+What is React Native and Why you should use it ?
+React Native is a popular open-source library that runs on JavaScript.It is written with the combination of XML -Esque markup and JavaScript which is also known as JSX. React Native primarily focuses on the native rendering of applications that is majorly compatible with Android and iOS.
+Pros of React Native
+Large developer community
+Simplified UI
+Fast Applications
+Native rendering
+Performance
+Hot-reloading
+Popular apps made using React Native
+SoundCloud
+Instagram
+Facebook
+Flipkart
+Tesla
+Skype
+Wix
+Pinterest
+Conclusion
+Now, did you get the answer to your queries related to React Native App Development? Hope you have got a crystal-clear picture to what React Native is all about and why you should go for it for creating your mobile apps.]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy React JS Applications for Free on Firebase 2021]]></title>
+        <id>https://blog.suhailkakar.com/how-to-deploy-react-js-applications-for-free-on-firebase-2021</id>
+        <link href="https://blog.suhailkakar.com/how-to-deploy-react-js-applications-for-free-on-firebase-2021"/>
+        <updated>2021-07-20T13:51:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article , I’ll show you how to deploy react js applications for free on Firebase, First let’s understand what is Firebase
+What is Firebase
+Firebase is a Backend as a Service that started as a YC11 startup and grew up into a next-generation app-development platform on Google Cloud Platform. Firebase frees developers to focus crafting fantastic user experiences. You don’t need to manage servers. You don’t need to write APIs. Firebase is your server, your API and your datastore, all written so generically that you can modify it to suit most needs. Yeah, you’ll occasionally need to use other bits of the Google Cloud for your advanced applications. Firebase can’t be everything to everybody. But it gets pretty close.
+Getting Started
+Before deploying your app on Firebase, you need to have…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>
@@ -875,6 +1175,21 @@ Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
         <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Todd Libby)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning Your Website Into A Mobile App using React Native]]></title>
+        <id>https://blog.suhailkakar.com/turning-your-website-into-a-mobile-app-using-react-native</id>
+        <link href="https://blog.suhailkakar.com/turning-your-website-into-a-mobile-app-using-react-native"/>
+        <updated>2021-07-09T04:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Every day more and more people spend their time on mobile platforms, especially when it comes to shopping and entertainment. Successful companies such as Amazon that initially launched only a website, but now they have also established their mobile presence.
+There are 7,950,000,000+ mobile users around to world, and If you want to make your business successful, you should have mobile app beside your website.
+React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. But in this article we are going to convert our website's web view into app 😉
+
+Step 1 : Installing Node JS
+Node.js is a pl…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
         </author>
     </entry>
     <entry>

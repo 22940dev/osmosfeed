@@ -952,6 +952,139 @@
           "title": "How I went from 0 to 3.7k Twitter followers in 1 week"
         }
       ]
+    },
+    {
+      "title": "Suhail Kakar's Blog",
+      "feedUrl": "https://blog.suhailkakar.com/rss.xml",
+      "siteUrl": "https://blog.suhailkakar.com",
+      "articles": [
+        {
+          "id": "https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1",
+          "author": "Suhail Kakar",
+          "description": "Introduction\nYouTube is a free video-sharing website that makes watching video clips easy. You may even make your own videos and post them to enjoy with others. YouTube, which was founded in 2005, is currently one of the most popular apps on the Internet, with over 6 billion hours of video watched each month.\nReact Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. \nTable of Contents\nIn this part (1) we are going to \nDownload and Install Node JS\nInstall Expo CLI\nInitialize our app with React Native Expo\nChange Folder Structure\nCreate a bottom Tab navigation\nInstalling Node JS\nNode.js i…",
+          "link": "https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1",
+          "publishedOn": "2021-07-31T04:45:21.000Z",
+          "wordCount": 883,
+          "title": "Let's Create A Youtube Clone Using React Native  - Part 1"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor",
+          "author": "Suhail Kakar",
+          "description": "Introduction\nVisual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year. \nA week ago I have created my own theme (  Tomorrow  ), This theme was inspired by One Dark Pro and Material Theme. \n\nInstallation\nOpen  Extensions sidebar panel in VS Code.  View → Extensions\nSearch for  Tomorrow  - find the one by  Suhail Kakar\nClick  Install  to install it.\nCode > Preferences > Color Theme >  Tomorrow\nRecommended Settings\nIf you want to give the same look as the above picture for your Code Editor you need to paste the below code into your VS Code Settings JSON\n{\n  \"editor.fontSize\": 17,\n  \"editor.fontWeight\": \"500\",\n  \"editor.fontLigatures\": true,\n  \"editor.lineHeigh…",
+          "link": "https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor",
+          "publishedOn": "2021-07-30T07:34:42.000Z",
+          "wordCount": 468,
+          "title": "Introducing Tomorrow - A New Look for Your Code Editor"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/typescript-vs-javascript-which-one-should-you-use-for-your-next-project",
+          "author": "Suhail Kakar",
+          "description": "Introduction\nJavaScript is a scripting language for building dynamic web pages. It adhered to client-side development principles, thus it operates entirely within the user's web browser and requires no resources from the web server. Javascript may also be used with other technologies such as REST APIs, XML, and others.\nTypescript is a superset of Javascript. It is a statically built language for writing Javascript code that is straightforward and simple. It may be used with Node.js or any browser that supports ECMAScript 3 or above. \nDifference Between Javascript and Typescript\nTypescript\nJavascript\n\nTo make the code comprehensible for browsers, it will convert to JavaScript code.\nCan be directly used in browsers\n\n\nThere is support for ES3, ES4, ES5 and ES6\nNo support for compiling additio…",
+          "link": "https://blog.suhailkakar.com/typescript-vs-javascript-which-one-should-you-use-for-your-next-project",
+          "publishedOn": "2021-07-29T03:33:48.000Z",
+          "wordCount": 599,
+          "title": "Typescript vs Javascript : Which one should you use for your next project ?"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/best-design-resources-for-developers",
+          "author": "Suhail Kakar",
+          "description": "Are you searching for the best design resources? This is a collection that every developer should bookmark since it contains the greatest resources for creating an eye-catching and aesthetically enhanced project.\nIntroduction\nEvery developer's job entails some kind of product design. It's not just about having a good appearance; it's also about having engaging visuals and a good overall presentation. Rather of spending time and money on a lengthy design process, it is preferable to leverage resources that offer ready-to-use components and features for a fantastic, amazing, and outstanding product.\nTable of Contents\nUI Graphics\nFonts\nColors\nIcons\nLogos\nFavicons\nIcon Fonts\nStock Photos\nStock Videos\nStock Music & Sound Effects\nVectors & Clipart\nProduct & Image Mockups\nHTML & CSS Templates\nCSS…",
+          "link": "https://blog.suhailkakar.com/best-design-resources-for-developers",
+          "publishedOn": "2021-07-28T03:39:12.000Z",
+          "wordCount": 9758,
+          "title": "Best Design Resources for Developers"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/find-social-media-accounts-in-5-minutes-with-sherlock",
+          "author": "Suhail Kakar",
+          "description": "Disclaimer\nDon't do this to anyone with ill intent, this is a legit hacking tool part of the hacking process called osens, where we gather information about our hacking targets. What we're doing is not technically illegal we're just gathering publicly available information on the internet but the lines can blur based on your intentions so just be careful use this as a learning tool.\nIntroduction\nSherlock is a powerful command line tool supplied by the Sherlock Project that may be used to locate usernames across a variety of social media platforms. It is a python open-source project available at GitHub. You just need to input the username and Sherlock will return all the social media account url of that username\nRequirement\nThis best thing about this project is that you don't need any extra thing, You just need a web browser\nHow To Use ?\nOpen this  link  in your browser. This will open Google Cloud Console which we can use its shell to install Sherlock\nMake sure to check the Trust checkbox and click on Confirm and wait for 10 seconds \n\nOnce everything is done, go a head and paste the below code in the Cloud Shell \npython3 -m pip install -r requirements.txt\n\nIf all the packages are installed successfully, you should see something similar to below picture\n\nNow we can start using Sherlock, you just need to a username to get the social media account. In the Cloud Shell paste the below code and click enter ( change username with the account you want to get information, In my case suhailkakar) and will get all the social media profile of the username\npython3 sherlock --timeout 1 username\n\n\n\nConclusion\nI hope you found this articles helpful. If you need any help please let me know at comment section\nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
+          "link": "https://blog.suhailkakar.com/find-social-media-accounts-in-5-minutes-with-sherlock",
+          "publishedOn": "2021-07-27T03:57:07.000Z",
+          "wordCount": 492,
+          "title": "Find Social Media Accounts in 5 Minutes with Sherlock"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/5-easy-ways-to-make-money-as-a-developer",
+          "author": "Suhail Kakar",
+          "description": "In this article, I’ll show you 5 easy ways to make money as a developer.\n1. Freelancing\nFor many developers, freelancing is profitable source of income.  Some people take it as a full-time job, while others do it as a part-time job to earn additional cash. Some platforms like Fiverr, Upwork, and many more offer a great opportunity for anyone to start freelancing, but there is a lot of competition there, so be sure to stand out among them \n\n2. Sell an Ebook\nWriting an ebook is one of those things that may pay off for a long time. You can write a highly useful ebook as a developer that covers a certain topic of software development. Alternatively, you may opt to describe a programming language in such a way that your readers will have a better understanding of it.\nWriting books is also a won…",
+          "link": "https://blog.suhailkakar.com/5-easy-ways-to-make-money-as-a-developer",
+          "publishedOn": "2021-07-26T03:32:55.000Z",
+          "wordCount": 592,
+          "title": "5 Easy Ways To Make Money As A Developer"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/how-to-install-nodejs-and-npm-on-ubuntu",
+          "author": "Suhail Kakar",
+          "description": "Introduction\nNode.js is an open-source, JavaScript runtime environment on Chrome’s V8 that lets you effortlessly develop fast and scalable web applications. It utilises an event-driven, non-blocking I/O model that makes it lightweight, efficient and excellent for data-intensive real-time applications that run across shared devices.\nInstallation\nThe easiest way to install Node.js and npm on Ubuntu is using Ubuntu repository, To install the Node.js and npm from the Ubuntu repository open terminal (Ctrl + Alt + T) and run the following commands \n$ sudo apt update\n\n$ sudo apt install nodejs npm\n\nThe above command will install a number of packages in order to compile and install native addons from npm.\nOnce it is done verify the installation by running :\n$ nodejs --version && npm --version\n\nv12.21.0\n7.5.2\n\nIn output you should see the Node.js and NPM version respectively. \nAt the time of writing, the Node.js version and NPM version included in the Ubuntu repositories is 12.21.0 and 7.5.2 respectively \nUninstall Node.js\nSometimes, you may want uninstall Node.js. You can do that simply by running the below commands on your terminal. \n$ sudo apt-get remove nodejs npm\n\n$ sudo apt update\n\nConclusion\nThat is it, In this article we learned,\nWhat is Node.js\nHow to install Node.js using Ubuntu repository\nHow to install NPM using Ubuntu repository\nHow to uninstall Node.js.\nI hope you found this articles helpful. If you need any help please let me know at comment section\nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
+          "link": "https://blog.suhailkakar.com/how-to-install-nodejs-and-npm-on-ubuntu",
+          "publishedOn": "2021-07-25T10:59:05.000Z",
+          "wordCount": 331,
+          "title": "How To Install Node.js and NPM on Ubuntu"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/what-is-mongodb-and-why-it-is-the-most-popular-database-today",
+          "author": "Suhail Kakar",
+          "description": "What is MongoDB\nMongoDB is a document-oriented NoSQL database for storing large amounts of data. MongoDB uses collections and documents instead of tables and rows, as in traditional relational databases. MongoDB is a database that first appeared in the mid-2000s.\nThe NoSQL database is a replacement for traditional SQL databases, and it includes almost all of the functionality found in RDBMS (Relational Database Management Systems) systems. Due to its simple architecture, support for both horizontal and vertical scalability, and easy and simple control over the data, NoSQL databases have grown considerably more popular in recent years than in the past.\nIt allows programmers to store data in the database according to their program's real requirements. We can't get this kind of functionality …",
+          "link": "https://blog.suhailkakar.com/what-is-mongodb-and-why-it-is-the-most-popular-database-today",
+          "publishedOn": "2021-07-24T03:48:58.000Z",
+          "wordCount": 809,
+          "title": "What is MongoDB and Why it is the most popular Database today?"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time",
+          "author": "Suhail Kakar",
+          "description": "JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.\nWhile JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used. Many developers believe that JavaScript is inefficient and finicky, so they have made many improvements to the language over the years.\nHere are the 21 JavaScript tricks that makes you a JavaScript pro\nUse logical AND / OR for conditions\nvar xyz = 23;  \nxyz == 10 && runFunction(); // is the same thing as if (xyz == 23) runFunction(); \nxyz == 5 || runFunction(); // is the same thing as if (xyz != …",
+          "link": "https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time",
+          "publishedOn": "2021-07-23T04:26:50.000Z",
+          "wordCount": 1059,
+          "title": "21 Useful JavaScript Tips That'll Help You Save Time"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming",
+          "author": "Suhail Kakar",
+          "description": "I was a big fan of Windows OS, and have been using it for years because it is user-friendly, well-designed, and convenient. However, since I started programming I found that a Linux distro (such as Ubuntu, Manjaro, and Arch) is the best Operating System to start with.\nIn this article, I am going to share, why I most of the software engineers choose Linux over Windows for programming\nPre-installed Compilers\nThe primary reason behind the popularity of Linux is the availability of compilers or interpreter. You don't have to download them yourself. On the other hand, Windows does not come with pre-installed compilers.\nOpen Source\nUnlike Windows OS which is commercial, Linux is an open source software that is freely available to download. There are hundreds of Linux distributions available out of which almost five-hundred distro are in active development.\nCommunity Support\nAll newcomers can find help on any of the Linux forums. If you are stuck somewhere in your development process or need help in your coding process, just Google it and you can find several Linux based helpful resources.\nPerformance\nLinux is much powerful and versatile than Windows. It is light-weight OS, which makes it faster than Windows. You will notice a significant improvement in speed on a Linux distro when you start working it.\nSecure\nLinux is considered to be more secure than Windows. No antivirus is needed. Since it is open source, several developers are working on it and everyone can contribute code. It is likely that someone will find a vulnerability long before hackers can target a Linux distro. \nShell\nIf Linux does not have what you need, you can still get all the functionalities that you need from the command line. Simply enter the command and it will atomically download and install the package. Which saves a lot of efforts.",
+          "link": "https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming",
+          "publishedOn": "2021-07-22T03:24:08.000Z",
+          "wordCount": 492,
+          "title": "Here's why software engineers choose Linux over Windows for programming"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020",
+          "author": "Suhail Kakar",
+          "description": "Learning to code has grown over the years from just a hobby to a career. Today, you can learn coding online, entirely for free. Gone are the days where knowing a programming language was reserved for the select few or cost quite a hefty amount of money.\nEven if you have no desire to go into the development field, learning a programming language can be very beneficial:\nIt’ll help you better manage websites\nIt’ll reduce reliance on an outside developer for your own projects\nIt’ll give you the freedom to build apps, websites, and other projects with ease\nWhether you want to start your own career as a programmer, learn how to build websites, or create projects for fun, this post is for you. Here are some of the Websites to Learn Coding for Free\n5. Plural Sight\n\nPlural Sight, formally known as …",
+          "link": "https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020",
+          "publishedOn": "2021-07-21T16:19:12.000Z",
+          "wordCount": 934,
+          "title": "Top 5 Websites to Learn Coding for Free in 2020"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/what-is-react-native-and-why-you-should-use-it-as-an-app-developer",
+          "author": "Suhail Kakar",
+          "description": "According to Statista, React Native is the most popular technologies for cross-platform software development of mobile applications for two years in a row.\nReleasing an app on both App Store and Google Play is every business’s desire. But the trick is, before shipping a mobile app to the market, you have to choose a technology stack. Is it going to be React Native, Flutter or some other technologies ?\nWhat is React Native and Why you should use it ?\nReact Native is a popular open-source library that runs on JavaScript.It is written with the combination of XML -Esque markup and JavaScript which is also known as JSX. React Native primarily focuses on the native rendering of applications that is majorly compatible with Android and iOS.\nPros of React Native\nLarge developer community\nSimplified UI\nFast Applications\nNative rendering\nPerformance\nHot-reloading\nPopular apps made using React Native\nSoundCloud\nInstagram\nFacebook\nFlipkart\nTesla\nSkype\nWix\nPinterest\nConclusion\nNow, did you get the answer to your queries related to React Native App Development? Hope you have got a crystal-clear picture to what React Native is all about and why you should go for it for creating your mobile apps.",
+          "link": "https://blog.suhailkakar.com/what-is-react-native-and-why-you-should-use-it-as-an-app-developer",
+          "publishedOn": "2021-07-21T11:11:47.000Z",
+          "wordCount": 305,
+          "title": "What is React Native and Why you should use it as an App Developer ?"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/how-to-deploy-react-js-applications-for-free-on-firebase-2021",
+          "author": "Suhail Kakar",
+          "description": "In this article , I’ll show you how to deploy react js applications for free on Firebase, First let’s understand what is Firebase\nWhat is Firebase\nFirebase is a Backend as a Service that started as a YC11 startup and grew up into a next-generation app-development platform on Google Cloud Platform. Firebase frees developers to focus crafting fantastic user experiences. You don’t need to manage servers. You don’t need to write APIs. Firebase is your server, your API and your datastore, all written so generically that you can modify it to suit most needs. Yeah, you’ll occasionally need to use other bits of the Google Cloud for your advanced applications. Firebase can’t be everything to everybody. But it gets pretty close.\nGetting Started\nBefore deploying your app on Firebase, you need to have…",
+          "link": "https://blog.suhailkakar.com/how-to-deploy-react-js-applications-for-free-on-firebase-2021",
+          "publishedOn": "2021-07-20T13:51:03.000Z",
+          "wordCount": 496,
+          "title": "How to Deploy React JS Applications for Free on Firebase 2021"
+        },
+        {
+          "id": "https://blog.suhailkakar.com/turning-your-website-into-a-mobile-app-using-react-native",
+          "author": "Suhail Kakar",
+          "description": "Every day more and more people spend their time on mobile platforms, especially when it comes to shopping and entertainment. Successful companies such as Amazon that initially launched only a website, but now they have also established their mobile presence.\nThere are 7,950,000,000+ mobile users around to world, and If you want to make your business successful, you should have mobile app beside your website.\nReact Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. But in this article we are going to convert our website's web view into app 😉\n\nStep 1 : Installing Node JS\nNode.js is a pl…",
+          "link": "https://blog.suhailkakar.com/turning-your-website-into-a-mobile-app-using-react-native",
+          "publishedOn": "2021-07-09T04:40:11.000Z",
+          "wordCount": 628,
+          "title": "Turning Your Website Into A Mobile App using React Native"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
