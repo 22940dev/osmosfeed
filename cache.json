@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345756",
+          "author": "Chris Coyier",
+          "description": "They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. \nNative CSS Modules are …\nThe post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-modules-the-native-ones/",
+          "publishedOn": "2021-08-02T18:28:28.000Z",
+          "wordCount": 838,
+          "title": "CSS Modules (The Native Ones)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345178",
+          "author": "Bret Cameron",
+          "description": "With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …\nThe post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-code-a-playable-synth-keyboard/",
+          "publishedOn": "2021-08-02T14:36:09.000Z",
+          "wordCount": 2817,
+          "title": "How to Code a Playable Synth Keyboard"
+        },
+        {
           "id": "https://css-tricks.com/?p=345628",
           "author": "Chris Coyier",
           "description": "Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …\nThe post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -26,7 +44,7 @@
           "description": "The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …\nThe post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/",
           "publishedOn": "2021-07-30T14:54:36.000Z",
-          "wordCount": 5641,
+          "wordCount": 5804,
           "title": "Conjuring Generative Blobs With The CSS Paint API"
         },
         {
@@ -53,7 +71,7 @@
           "description": "I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …\nThe post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/developer-friendly-passwordless-auth/",
           "publishedOn": "2021-07-29T14:47:47.000Z",
-          "wordCount": 1196,
+          "wordCount": 1395,
           "title": "Developer-Friendly Passwordless Auth"
         },
         {
@@ -116,7 +134,7 @@
           "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
           "publishedOn": "2021-07-26T14:36:13.000Z",
-          "wordCount": 4317,
+          "wordCount": 4351,
           "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
         },
         {
@@ -127,24 +145,6 @@
           "publishedOn": "2021-07-26T14:36:04.000Z",
           "wordCount": 550,
           "title": "Slinkity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344019",
-          "author": "Farai Gandiya",
-          "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/",
-          "publishedOn": "2021-07-23T15:12:11.000Z",
-          "wordCount": 2365,
-          "title": "Web Features That May Not Work As You’d Expect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345209",
-          "author": "Chris Coyier",
-          "description": "Dave:\npetite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps \n…\nThe post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://daverupert.com/2021/07/petite-vue-review/",
-          "publishedOn": "2021-07-23T15:10:08.000Z",
-          "wordCount": 1060,
-          "title": "My petite-vue review"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
+          "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
+          "publishedOn": "2021-08-02T11:00:00.000Z",
+          "wordCount": 5991,
+          "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2510,
+          "wordCount": 2508,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -173,7 +187,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12538,
+          "wordCount": 12528,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -187,7 +201,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2947,
+          "wordCount": 2946,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -201,7 +215,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3080,
+          "wordCount": 3069,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -215,7 +229,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3571,
+          "wordCount": 3564,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -229,7 +243,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3086,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -243,7 +257,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3399,
+          "wordCount": 3397,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -299,7 +313,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4486,
+          "wordCount": 4472,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -313,7 +327,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4800,
+          "wordCount": 4795,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -327,7 +341,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1072,
+          "wordCount": 1079,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -355,7 +369,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5301,
+          "wordCount": 5300,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -369,7 +383,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3253,
+          "wordCount": 3256,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -397,7 +411,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3610,
+          "wordCount": 3609,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -411,7 +425,7 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2946,
+          "wordCount": 2962,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
@@ -425,7 +439,7 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4773,
+          "wordCount": 4782,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
@@ -439,7 +453,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4050,
+          "wordCount": 4061,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -467,7 +481,7 @@
           "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
           "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
           "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1583,
+          "wordCount": 1584,
           "title": "Using HSL Colors In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
@@ -482,6 +496,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61082bc93306a507d1bfc7b9",
+          "author": null,
+          "description": "The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is",
+          "link": "https://www.freecodecamp.org/news/how-does-the-internet-work/",
+          "publishedOn": "2021-08-02T17:39:24.000Z",
+          "wordCount": 362,
+          "title": "How does the internet work?"
+        },
         {
           "id": "6053023028094f59be257c79",
           "author": null,
@@ -551,7 +574,7 @@
           "description": "Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on",
           "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/",
           "publishedOn": "2021-07-29T15:52:57.000Z",
-          "wordCount": 4836,
+          "wordCount": 10161,
           "title": "Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud"
         },
         {
@@ -562,15 +585,6 @@
           "publishedOn": "2021-07-29T15:35:00.000Z",
           "wordCount": 4719,
           "title": "Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet"
-        },
-        {
-          "id": "61018d5c3306a507d1bfa74a",
-          "author": null,
-          "description": "There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional",
-          "link": "https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/",
-          "publishedOn": "2021-07-29T15:32:30.000Z",
-          "wordCount": 1406,
-          "title": "Python If Else Statement – Conditional Statements Explained"
         }
       ]
     },
@@ -578,7 +592,17 @@
       "title": "Blog on SaraSoueidan.com",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sarasoueidan.com/blog/curating-aaa/",
+          "author": null,
+          "description": "I’m speaking, MC’ing and curating the programme for Access All Areas — an upcoming accessibility-focussed conference. Here’s all about the event, and how you can join us to learn more about accessibility, and maybe even present and share your expertise at the event!\nAbout the conference (what, when, where)\nAccess All Areas (or aaa) is a new online conference—part of a series of focussed conferences created by the folks at Web Directions. This conference is focussed on accessibility for developers: understanding the different kinds of accessibility issues that our code may create, finding those issues using available auditing and testing tools, as well as techniques and technologies for addressing them.\nThis inclusive, remote-friendly conference will take place for the first time this year …",
+          "link": "https://sarasoueidan.com/blog/curating-aaa/",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 902,
+          "title": "I’m curating the programme for an upcoming accessibility-focussed conference ✨"
+        }
+      ]
     },
     {
       "title": "Lennart Jörgens - Software Engineer",
@@ -639,12 +663,21 @@
       "siteUrl": "https://www.raymondcamden.com/",
       "articles": [
         {
+          "id": "https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy",
+          "author": null,
+          "description": "I've covered in the past how to use the Adobe PDF Embed API with Eleventy (\"Using PDFs with the Jamstack\". While the Embed API is relatively simple to add to a page, I thought it would be kind of fun to build an Eleventy plugin to make it simpler. Last week, I released it: https://www.npmjs.com/package/eleventy-plugin-pdfembed.",
+          "link": "https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy",
+          "publishedOn": "2021-08-02T18:00:00.000Z",
+          "wordCount": 550,
+          "title": "An Adobe PDF Embed Plugin for Eleventy"
+        },
+        {
           "id": "https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy",
           "author": null,
           "description": "Let me begin by being very clear. This is not a very good idea. I just got back from a much delayed honeymoon with my wife (apparently right before the mask mandates all come crashing back) and haven't written code for a while so perhaps I was a bit desperate to create something useless. That being said, working on this did let me kick the tires a bit on a few Eleventy things and that's always a good idea.",
           "link": "https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy",
           "publishedOn": "2021-07-30T18:00:00.000Z",
-          "wordCount": 1056,
+          "wordCount": 1065,
           "title": "Page Level URL Fetching with Eleventy"
         },
         {
@@ -653,7 +686,7 @@
           "description": "This post was inspired by a follower on Twitter who saw this announcement by the GitHub folks:\n\nReleasing our first public project to the world! From our team within GitHub that explores the future of development, we're excited to share:\n✨✨ Flat Data ✨✨\nWe asked ourselves:\nHow easy can we make it to work with live-updating data?\nCheck it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3",
           "link": "https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data",
           "publishedOn": "2021-07-14T18:00:00.000Z",
-          "wordCount": 1494,
+          "wordCount": 1503,
           "title": "Integrating Eleventy with GitHub Flat Data"
         },
         {
@@ -662,7 +695,7 @@
           "description": "Ok, so let me start off by saying that a) I'm not sure this is a good idea and b) it may already exist and I just don't know about it. This all came about from me doing some research on an Eleventy tagged question on StackOverflow. If you aren't aware, Liquid has a tag built in called capture. It looks like so:",
           "link": "https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy",
           "publishedOn": "2021-07-12T18:00:00.000Z",
-          "wordCount": 846,
+          "wordCount": 855,
           "title": "Creating an Additive Capture Shortcode in Eleventy"
         },
         {
@@ -671,7 +704,7 @@
           "description": "I'm on vacation this week (one of the benefits of working for Adobe are two shutdowns during the year) and haven't really had a chance to write a lick of code (been busy grinding levels in Black Ops multiplayer), but yesterday I found myself working on a small demo for no real important reason outside of just wanting to see what would happen. For folks outside of America, the MPA (formally the MPAA) is the Motion Picture Association. They're responsible for assigning ratings to movies released in America. There's a lot to be said about these ratings, and if you haven't seen it, I highly recommend \"This Film is Not Yet Rated\" as it details some of the hypocritical ratings giving out by the association.",
           "link": "https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason",
           "publishedOn": "2021-07-09T18:00:00.000Z",
-          "wordCount": 1296,
+          "wordCount": 1305,
           "title": "Graphing Movie Rating Distribution For No Good Reason"
         }
       ]
@@ -747,12 +780,21 @@
       "siteUrl": "https://www.robinwieruch.de",
       "articles": [
         {
+          "id": "https://www.robinwieruch.de/react-tree-table",
+          "author": null,
+          "description": "How to create a React Tree, a React Tree View, or a React Tree List by using React Table Library ...",
+          "link": "https://www.robinwieruch.de/react-tree-table",
+          "publishedOn": "2021-08-01T11:56:46.000Z",
+          "wordCount": 961,
+          "title": "How to create a React Tree"
+        },
+        {
           "id": "https://www.robinwieruch.de/react-table-select",
           "author": null,
           "description": "How to use React Table Library with Select by using its useRowSelect plugin for selecting single or multiple rows in a table by checkbox or row click ...",
           "link": "https://www.robinwieruch.de/react-table-select",
           "publishedOn": "2021-07-26T11:56:46.000Z",
-          "wordCount": 1313,
+          "wordCount": 1315,
           "title": "How to: React Table with Select"
         },
         {
@@ -761,7 +803,7 @@
           "description": "How to use React Table Library with a double click on a row ...",
           "link": "https://www.robinwieruch.de/react-table-double-click",
           "publishedOn": "2021-07-20T11:56:46.000Z",
-          "wordCount": 447,
+          "wordCount": 449,
           "title": "How to: React Table with Double Click"
         },
         {
@@ -788,7 +830,7 @@
           "description": "How to use React Table Library with search. If you want to search your table data ...",
           "link": "https://www.robinwieruch.de/react-table-search",
           "publishedOn": "2021-07-07T11:56:46.000Z",
-          "wordCount": 659,
+          "wordCount": 664,
           "title": "How to: React Table with Search"
         },
         {
@@ -797,7 +839,7 @@
           "description": "How to use React Table Library with Pagination by using its usePagination plugin for pages in a table ...",
           "link": "https://www.robinwieruch.de/react-table-pagination",
           "publishedOn": "2021-07-05T11:56:46.000Z",
-          "wordCount": 745,
+          "wordCount": 747,
           "title": "How to: React Table with Pagination"
         }
       ]
@@ -830,6 +872,15 @@
       "siteUrl": "https://www.swiftbysundell.com",
       "articles": [
         {
+          "id": "https://www.swiftbysundell.com/podcast/102",
+          "author": null,
+          "description": "Jordan Morgan returns to the show to discuss some of the key new APIs and frameworks that were announced at WWDC21, and how they can be integrated into the apps that we build, now that about two months have passed since the conference took place.",
+          "link": "https://www.swiftbysundell.com/podcast/102",
+          "publishedOn": "2021-08-02T16:30:00.000Z",
+          "wordCount": 259,
+          "title": "Podcast: “WWDC21, two months later”, with special guest Jordan Morgan"
+        },
+        {
           "id": "https://www.swiftbysundell.com/articles/throwing-async-properties",
           "author": null,
           "description": "How Swift 5.5 enables computed properties to become either throwing or asynchronous, and what sort of situations that these new capabilities could become useful in.",
@@ -853,7 +904,7 @@
           "description": "Malin Sundberg joins John to talk about her experiences of using SwiftUI to build and ship the time-tracking and invoicing app Orbit on most of Apple’s platforms, and what sort of things that can be good to keep in mind when using SwiftUI in a cross-platform context.",
           "link": "https://www.swiftbysundell.com/podcast/101",
           "publishedOn": "2021-07-15T16:15:00.000Z",
-          "wordCount": 231,
+          "wordCount": 241,
           "title": "Podcast: “Cross-platform SwiftUI”, with special guest Malin Sundberg"
         },
         {
@@ -958,6 +1009,15 @@
       "feedUrl": "https://blog.suhailkakar.com/rss.xml",
       "siteUrl": "https://blog.suhailkakar.com",
       "articles": [
+        {
+          "id": "https://blog.suhailkakar.com/integrate-twilio-with-node-js-a-beginners-guide",
+          "author": "Suhail Kakar",
+          "description": "Introduction\nNode.js is an open-source, JavaScript runtime environment on Chrome’s V8 that lets you effortlessly develop fast and scalable web applications. It utilizes an event-driven, non-blocking I/O model that makes it lightweight, efficient, and excellent for data-intensive real-time applications that run across shared devices.\nTwilio Verify is a comprehensive solution for validating end-user phone numbers, which will be used to deliver a numeric code to the Android / iOS app through text message. Our server app will sit in between our app and Verify, allowing us to verify a user's phone number once they sign up for your mobile app.\nIn this article, we are going to integrate Twillio SMS Verify API in Node JS. \nInitializing Our Node JS Server\nThe first step is to create our Node JS ser…",
+          "link": "https://blog.suhailkakar.com/integrate-twilio-with-node-js-a-beginners-guide",
+          "publishedOn": "2021-08-02T04:39:00.000Z",
+          "wordCount": 806,
+          "title": "Integrate Twilio With Node JS - A Beginner's Guide"
+        },
         {
           "id": "https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1",
           "author": "Suhail Kakar",

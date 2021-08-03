@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T02:13:06.311Z</id>
+    <id>urn:2021-08-03T02:22:26.384Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T02:13:06.311Z</updated>
+    <updated>2021-08-03T02:22:26.384Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Modules (The Native Ones)]]></title>
+        <id>https://css-tricks.com/?p=345756</id>
+        <link href="https://css-tricks.com/css-modules-the-native-ones/"/>
+        <updated>2021-08-02T18:28:28.000Z</updated>
+        <summary type="html"><![CDATA[They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. 
+Native CSS Modules are …
+The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Adobe PDF Embed Plugin for Eleventy]]></title>
+        <id>https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy</id>
+        <link href="https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy"/>
+        <updated>2021-08-02T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've covered in the past how to use the Adobe PDF Embed API with Eleventy ("Using PDFs with the Jamstack". While the Embed API is relatively simple to add to a page, I thought it would be kind of fun to build an Eleventy plugin to make it simpler. Last week, I released it: https://www.npmjs.com/package/eleventy-plugin-pdfembed.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does the internet work?]]></title>
+        <id>61082bc93306a507d1bfc7b9</id>
+        <link href="https://www.freecodecamp.org/news/how-does-the-internet-work/"/>
+        <updated>2021-08-02T17:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: “WWDC21, two months later”, with special guest Jordan Morgan]]></title>
+        <id>https://www.swiftbysundell.com/podcast/102</id>
+        <link href="https://www.swiftbysundell.com/podcast/102"/>
+        <updated>2021-08-02T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Morgan returns to the show to discuss some of the key new APIs and frameworks that were announced at WWDC21, and how they can be integrated into the apps that we build, now that about two months have passed since the conference took place.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Playable Synth Keyboard]]></title>
+        <id>https://css-tricks.com/?p=345178</id>
+        <link href="https://css-tricks.com/how-to-code-a-playable-synth-keyboard/"/>
+        <updated>2021-08-02T14:36:09.000Z</updated>
+        <summary type="html"><![CDATA[With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …
+The post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bret Cameron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/</id>
+        <link href="https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/"/>
+        <updated>2021-08-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Twilio With Node JS - A Beginner's Guide]]></title>
+        <id>https://blog.suhailkakar.com/integrate-twilio-with-node-js-a-beginners-guide</id>
+        <link href="https://blog.suhailkakar.com/integrate-twilio-with-node-js-a-beginners-guide"/>
+        <updated>2021-08-02T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Node.js is an open-source, JavaScript runtime environment on Chrome’s V8 that lets you effortlessly develop fast and scalable web applications. It utilizes an event-driven, non-blocking I/O model that makes it lightweight, efficient, and excellent for data-intensive real-time applications that run across shared devices.
+Twilio Verify is a comprehensive solution for validating end-user phone numbers, which will be used to deliver a numeric code to the Android / iOS app through text message. Our server app will sit in between our app and Verify, allowing us to verify a user's phone number once they sign up for your mobile app.
+In this article, we are going to integrate Twillio SMS Verify API in Node JS. 
+Initializing Our Node JS Server
+The first step is to create our Node JS ser…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m curating the programme for an upcoming accessibility-focussed conference ✨]]></title>
+        <id>https://sarasoueidan.com/blog/curating-aaa/</id>
+        <link href="https://sarasoueidan.com/blog/curating-aaa/"/>
+        <updated>2021-08-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m speaking, MC’ing and curating the programme for Access All Areas — an upcoming accessibility-focussed conference. Here’s all about the event, and how you can join us to learn more about accessibility, and maybe even present and share your expertise at the event!
+About the conference (what, when, where)
+Access All Areas (or aaa) is a new online conference—part of a series of focussed conferences created by the folks at Web Directions. This conference is focussed on accessibility for developers: understanding the different kinds of accessibility issues that our code may create, finding those issues using available auditing and testing tools, as well as techniques and technologies for addressing them.
+This inclusive, remote-friendly conference will take place for the first time this year …]]></summary>
+        <author>
+            <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a React Tree]]></title>
+        <id>https://www.robinwieruch.de/react-tree-table</id>
+        <link href="https://www.robinwieruch.de/react-tree-table"/>
+        <updated>2021-08-01T11:56:46.000Z</updated>
+        <summary type="html"><![CDATA[How to create a React Tree, a React Tree View, or a React Tree List by using React Table Library ...]]></summary>
+        <author>
+            <name>RWieruch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rewriting the GNU Coreutils in Rust]]></title>
         <id>https://freshman.tech/rust-coreutils/</id>
@@ -260,16 +361,6 @@ The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You
         <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
         <updated>2021-07-29T15:35:00.000Z</updated>
         <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
-        <id>61018d5c3306a507d1bfa74a</id>
-        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
-        <updated>2021-07-29T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -715,30 +806,6 @@ The NoSQL database is a replacement for traditional SQL databases, and it includ
 It allows programmers to store data in the database according to their program's real requirements. We can't get this kind of functionality …]]></summary>
         <author>
             <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
-        <id>https://css-tricks.com/?p=344019</id>
-        <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
-        <updated>2021-07-23T15:12:11.000Z</updated>
-        <summary type="html"><![CDATA[As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…
-The post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Farai Gandiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My petite-vue review]]></title>
-        <id>https://css-tricks.com/?p=345209</id>
-        <link href="https://daverupert.com/2021/07/petite-vue-review/"/>
-        <updated>2021-07-23T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Dave:
-petite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps 
-…
-The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
