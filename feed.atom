@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T02:10:27.175Z</id>
+    <id>urn:2021-08-06T02:12:42.446Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T02:10:27.175Z</updated>
+    <updated>2021-08-06T02:12:42.446Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
+        <id>610be0ea3306a507d1bfe4b1</id>
+        <link href="https://www.freecodecamp.org/news/pre-tag-in-html-example-code/"/>
+        <updated>2021-08-05T21:33:51.000Z</updated>
+        <summary type="html"><![CDATA[The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain]]></title>
+        <id>6108233d3306a507d1bfc731</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/"/>
+        <updated>2021-08-05T16:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Buggy React Code Examples and How to Fix Them]]></title>
+        <id>https://css-tricks.com/?p=345418</id>
+        <link href="https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/"/>
+        <updated>2021-08-05T14:24:36.000Z</updated>
+        <summary type="html"><![CDATA[There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …
+The post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hugh Haworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML for Beginners]]></title>
+        <id>60db390127f80207bcdbb455</id>
+        <link href="https://www.freecodecamp.org/news/html-crash-course/"/>
+        <updated>2021-08-05T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainable Web Design, An Excerpt]]></title>
+        <id>https://alistapart.com/article/sustainable-web-design-excerpt/</id>
+        <link href="https://alistapart.com/article/sustainable-web-design-excerpt/"/>
+        <updated>2021-08-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. 
+But on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. 
+This shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Disabled Buttons]]></title>
+        <id>https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/</id>
+        <link href="https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/"/>
+        <updated>2021-08-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL]]></title>
+        <id>https://css-tricks.com/?p=345552</id>
+        <link href="https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/"/>
+        <updated>2021-08-05T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Flutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …
+The post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Fauna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Auth0 with React JS  - A step by step tutorial]]></title>
+        <id>https://blog.suhailkakar.com/integrate-auth0-with-react-js-a-step-by-step-tutorial</id>
+        <link href="https://blog.suhailkakar.com/integrate-auth0-with-react-js-a-step-by-step-tutorial"/>
+        <updated>2021-08-05T07:09:32.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago Hashnode announced that they are partnering with Auth0 for a hackathon with some prize money on the line, but In my point of view most of you guys didn't know much about Auth0 and their SDKs. so I thought it would be a good opportunity for you to learn about them now. Therefore in this article, I am going to teach you how to integrate Auth0 with React JS ( A popular JavaScript frontend library). 
+Creating a react app
+The first step is to create a simple react app which you can do just by running the command below in your terminal. 
+npx create-react-app react-auth0
+
+This might take a while and it depends on your computer specs but once it is done go to the new directory which is created ( In our case react-auth0 ) and run npm start or yarn start. This command will start the d…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
         <id>https://css-tricks.com/?p=345866</id>
@@ -202,17 +292,17 @@ Displays…]]></summary>
         <id>6109eca73306a507d1bfd3d2</id>
         <link href="https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/"/>
         <updated>2021-08-04T01:35:10.000Z</updated>
-        <summary type="html"><![CDATA[During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <summary type="html"><![CDATA[During technical interviews it is common for your interviewer to ask you to solve coding challenges. And you should have a good understanding of graph algorithms if you want to do well on these challenges. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code a Dictionary with React and Material UI]]></title>
+        <title type="html"><![CDATA[React and Material UI Course – Code a Dictionary]]></title>
         <id>6109e5233306a507d1bfd3ad</id>
         <link href="https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/"/>
         <updated>2021-08-04T01:03:03.000Z</updated>
-        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary]]></summary>
+        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. And you can improve your skills by building a dictionary project. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -238,36 +328,6 @@ Any company that uses GitHub for critical applications needs a backup that can b
 The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Rewind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript For Loop – How to Loop Through an Array in JS]]></title>
-        <id>61079f873306a507d1bfc360</id>
-        <link href="https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/"/>
-        <updated>2021-08-03T19:53:47.000Z</updated>
-        <summary type="html"><![CDATA[There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Communities to Join to Help You Grow Your Tech Career]]></title>
-        <id>6104ec2f3306a507d1bfbc24</id>
-        <link href="https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/"/>
-        <updated>2021-08-03T19:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access Clipboard in Android (and Clear it)]]></title>
-        <id>610948d93306a507d1bfd0d5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
-        <updated>2021-08-03T19:10:40.000Z</updated>
-        <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -664,17 +724,6 @@ The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
-        <id>https://css-tricks.com/?p=320544</id>
-        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
-        <updated>2021-07-28T14:37:34.000Z</updated>
-        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
-The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
         <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
         <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
@@ -709,18 +758,6 @@ HTML & CSS Templates
 CSS…]]></summary>
         <author>
             <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
-        <id>https://css-tricks.com/?p=345169</id>
-        <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
-        <updated>2021-07-27T23:18:33.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points …
-The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1560,47 +1597,6 @@ Also, don't try to learn everyth…]]></summary>
         <summary type="html"><![CDATA[What sort of capabilities that a mutating Swift context has, and what the mutating and nonmutating keywords do.]]></summary>
         <author>
             <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses]]></title>
-        <id>https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses</id>
-        <link href="https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses"/>
-        <updated>2021-07-07T12:50:59.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=bsOHkdYFSK4
-In this tutorial, you are going to build a voting application for tech courses. The voting application allows people to vote courses from tech so people can find quality courses.
-If you like a course and think it's a quality course, you can upvote it. The more upvotes a course has, the higher it appears on the page.
-To build the application, you will use:
-GraphCMS
-Nuxt.js
-TailwindCSS
-Without further ado, let's start building the application!
-About GraphCMS
-GraphCMS is the first GraphQL native Headless CMS. It aims to eliminate the pain points of traditional content management by leveraging the power of GraphQL.
-Let's see how GraphQL aims to do that. Some of the most notable features of GraphCMS are as follows:
-it has a single GraphQL endpoint tha…]]></summary>
-        <author>
-            <name>Catalin Pit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to: React Table with Search]]></title>
-        <id>https://www.robinwieruch.de/react-table-search</id>
-        <link href="https://www.robinwieruch.de/react-table-search"/>
-        <updated>2021-07-07T11:56:46.000Z</updated>
-        <summary type="html"><![CDATA[How to use React Table Library with search. If you want to search your table data ...]]></summary>
-        <author>
-            <name>RWieruch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
-        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
-        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
-        <updated>2021-07-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
         </author>
     </entry>
 </feed>
