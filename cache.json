@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346259",
+          "author": "Chris Coyier",
+          "description": "Great little project from Ross Moody: \nSVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.\n…\nThe post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svg-gobbler/",
+          "publishedOn": "2021-08-06T19:32:54.000Z",
+          "wordCount": 757,
+          "title": "SVG Gobbler"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345467",
+          "author": "Andy Ford",
+          "description": "I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …\nThe post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/",
+          "publishedOn": "2021-08-06T14:55:06.000Z",
+          "wordCount": 1799,
+          "title": "Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345878",
+          "author": "Chris Coyier",
+          "description": "Donnie D’Amato built a whole site around the thesis that “digital designers still expect to use the grid while experienced layout engineers have moved beyond it.” The idea isn’t that we should never literally use display: grid; but rather that …\nThe post gridless.design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://gridless.design/",
+          "publishedOn": "2021-08-06T14:48:14.000Z",
+          "wordCount": 65,
+          "title": "gridless.design"
+        },
+        {
           "id": "https://css-tricks.com/?p=345418",
           "author": "Hugh Haworth",
           "description": "There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …\nThe post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -22,11 +49,11 @@
         },
         {
           "id": "https://css-tricks.com/?p=345552",
-          "author": "Fauna",
+          "author": "Shadid Haque",
           "description": "(This is a sponsored post.)\nFlutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …\nThe post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/",
           "publishedOn": "2021-08-05T09:23:00.000Z",
-          "wordCount": 3141,
+          "wordCount": 3145,
           "title": "How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL"
         },
         {
@@ -35,7 +62,7 @@
           "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-08-04T23:44:06.000Z",
-          "wordCount": 4744,
+          "wordCount": 4736,
           "title": "The State Of Web Workers In 2021"
         },
         {
@@ -44,7 +71,7 @@
           "description": "Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …\nThe post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/",
           "publishedOn": "2021-08-04T14:13:45.000Z",
-          "wordCount": 1496,
+          "wordCount": 1515,
           "title": "Using CSS Shapes for Interesting User Controls and Navigation"
         },
         {
@@ -118,33 +145,6 @@
           "publishedOn": "2021-07-29T19:49:32.000Z",
           "wordCount": 1729,
           "title": "GitHub Explains the Open Graph Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344993",
-          "author": "Loren Sands-Ramshaw",
-          "description": "John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …\nThe post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/",
-          "publishedOn": "2021-07-29T14:54:00.000Z",
-          "wordCount": 1732,
-          "title": "So you want to self-publish books and courses on programming"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345260",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nI’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is …\nThe post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/developer-friendly-passwordless-auth/",
-          "publishedOn": "2021-07-29T14:47:47.000Z",
-          "wordCount": 1395,
-          "title": "Developer-Friendly Passwordless Auth"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345404",
-          "author": "Chris Coyier",
-          "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-opinions/",
-          "publishedOn": "2021-07-28T20:21:55.000Z",
-          "wordCount": 1390,
-          "title": "Safari 15 Opinions"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
+          "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
+          "publishedOn": "2021-08-06T10:00:00.000Z",
+          "wordCount": 571,
+          "title": "Four Useful VSCode Extensions For Web Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6565,
+          "wordCount": 6564,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -173,7 +187,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3319,
+          "wordCount": 3324,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -187,7 +201,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2939,
+          "wordCount": 2936,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -201,7 +215,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5977,
+          "wordCount": 5976,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -215,7 +229,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2515,
+          "wordCount": 2517,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -229,7 +243,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12533,
+          "wordCount": 12528,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -257,7 +271,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3077,
+          "wordCount": 3083,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -271,7 +285,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3554,
+          "wordCount": 3569,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -285,7 +299,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3075,
+          "wordCount": 3083,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -299,7 +313,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3396,
+          "wordCount": 3388,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -327,7 +341,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3054,
+          "wordCount": 3057,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -369,7 +383,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4786,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -411,7 +425,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5304,
+          "wordCount": 5305,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -425,7 +439,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3244,
+          "wordCount": 3251,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -453,7 +467,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3612,
+          "wordCount": 3613,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -467,24 +481,10 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2963,
+          "wordCount": 2961,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-          "author": "hello@smashingmagazine.com (Uma Victor)",
-          "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
-          "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-          "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4776,
-          "title": "Tools And Practices To Speed Up The Vue.js Development Process",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -496,6 +496,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61067c973306a507d1bfc1ba",
+          "author": null,
+          "description": "Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records",
+          "link": "https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/",
+          "publishedOn": "2021-08-06T21:25:14.000Z",
+          "wordCount": 827,
+          "title": "SQL Update Statement – Update Query in SQL"
+        },
+        {
+          "id": "610cebc13306a507d1bfeca9",
+          "author": null,
+          "description": "Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their",
+          "link": "https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/",
+          "publishedOn": "2021-08-06T21:17:04.000Z",
+          "wordCount": 754,
+          "title": "Row VS Column in Excel – What is the Difference?"
+        },
+        {
+          "id": "6107c0593306a507d1bfc565",
+          "author": null,
+          "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
+          "link": "https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/",
+          "publishedOn": "2021-08-06T16:10:39.000Z",
+          "wordCount": 837,
+          "title": "Insert Into SQL – SQL Insert Statement Example"
+        },
+        {
+          "id": "610658bf3306a507d1bfc110",
+          "author": null,
+          "description": "There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to",
+          "link": "https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/",
+          "publishedOn": "2021-08-06T15:18:55.000Z",
+          "wordCount": 1278,
+          "title": "JavaScript Switch Case – JS Switch Statement Example"
+        },
         {
           "id": "610be0ea3306a507d1bfe4b1",
           "author": null,
@@ -549,42 +585,6 @@
           "publishedOn": "2021-08-04T15:32:26.000Z",
           "wordCount": 1691,
           "title": "SQL Where – Clause Examples"
-        },
-        {
-          "id": "610a56153306a507d1bfd5f0",
-          "author": null,
-          "description": "Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work",
-          "link": "https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/",
-          "publishedOn": "2021-08-04T15:02:39.000Z",
-          "wordCount": 1158,
-          "title": "CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]"
-        },
-        {
-          "id": "610641743306a507d1bfbfd4",
-          "author": null,
-          "description": "You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in",
-          "link": "https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/",
-          "publishedOn": "2021-08-04T14:46:14.000Z",
-          "wordCount": 1675,
-          "title": "CSS Background Color – How to Change the Background Color in HTML"
-        },
-        {
-          "id": "6109eca73306a507d1bfd3d2",
-          "author": null,
-          "description": "During technical interviews it is common for your interviewer to ask you to solve coding challenges. And you should have a good understanding of graph algorithms if you want to do well on these challenges. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
-          "link": "https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/",
-          "publishedOn": "2021-08-04T01:35:10.000Z",
-          "wordCount": 25759,
-          "title": "Graph Algorithms for Technical Interviews"
-        },
-        {
-          "id": "6109e5233306a507d1bfd3ad",
-          "author": null,
-          "description": "React continues to be a popular front-end JavaScript library. And you can improve your skills by building a dictionary project. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to",
-          "link": "https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/",
-          "publishedOn": "2021-08-04T01:03:03.000Z",
-          "wordCount": 12949,
-          "title": "React and Material UI Course – Code a Dictionary"
         }
       ]
     },
@@ -663,12 +663,21 @@
       "siteUrl": "https://www.raymondcamden.com/",
       "articles": [
         {
+          "id": "https://www.raymondcamden.com/2021/08/06/check-out-begin",
+          "author": null,
+          "description": "In general, when I learn something new I like to share it here on my blog, and typically I wait till I have something of a decent handle on the topic. I have to be honest here and say that that isn't quite the case here. I'm still very early on my exploration of Begin and I wanted to share some initial thoughts.",
+          "link": "https://www.raymondcamden.com/2021/08/06/check-out-begin",
+          "publishedOn": "2021-08-06T18:00:00.000Z",
+          "wordCount": 1353,
+          "title": "Check out Begin"
+        },
+        {
           "id": "https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy",
           "author": null,
           "description": "I've covered in the past how to use the Adobe PDF Embed API with Eleventy (\"Using PDFs with the Jamstack\". While the Embed API is relatively simple to add to a page, I thought it would be kind of fun to build an Eleventy plugin to make it simpler. Last week, I released it: https://www.npmjs.com/package/eleventy-plugin-pdfembed.",
           "link": "https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy",
           "publishedOn": "2021-08-02T18:00:00.000Z",
-          "wordCount": 550,
+          "wordCount": 547,
           "title": "An Adobe PDF Embed Plugin for Eleventy"
         },
         {
@@ -677,7 +686,7 @@
           "description": "Let me begin by being very clear. This is not a very good idea. I just got back from a much delayed honeymoon with my wife (apparently right before the mask mandates all come crashing back) and haven't written code for a while so perhaps I was a bit desperate to create something useless. That being said, working on this did let me kick the tires a bit on a few Eleventy things and that's always a good idea.",
           "link": "https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy",
           "publishedOn": "2021-07-30T18:00:00.000Z",
-          "wordCount": 1065,
+          "wordCount": 1062,
           "title": "Page Level URL Fetching with Eleventy"
         },
         {
@@ -686,7 +695,7 @@
           "description": "This post was inspired by a follower on Twitter who saw this announcement by the GitHub folks:\n\nReleasing our first public project to the world! From our team within GitHub that explores the future of development, we're excited to share:\n✨✨ Flat Data ✨✨\nWe asked ourselves:\nHow easy can we make it to work with live-updating data?\nCheck it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3",
           "link": "https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data",
           "publishedOn": "2021-07-14T18:00:00.000Z",
-          "wordCount": 1503,
+          "wordCount": 1500,
           "title": "Integrating Eleventy with GitHub Flat Data"
         },
         {
@@ -695,7 +704,7 @@
           "description": "Ok, so let me start off by saying that a) I'm not sure this is a good idea and b) it may already exist and I just don't know about it. This all came about from me doing some research on an Eleventy tagged question on StackOverflow. If you aren't aware, Liquid has a tag built in called capture. It looks like so:",
           "link": "https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy",
           "publishedOn": "2021-07-12T18:00:00.000Z",
-          "wordCount": 855,
+          "wordCount": 852,
           "title": "Creating an Additive Capture Shortcode in Eleventy"
         },
         {
@@ -704,7 +713,7 @@
           "description": "I'm on vacation this week (one of the benefits of working for Adobe are two shutdowns during the year) and haven't really had a chance to write a lick of code (been busy grinding levels in Black Ops multiplayer), but yesterday I found myself working on a small demo for no real important reason outside of just wanting to see what would happen. For folks outside of America, the MPA (formally the MPAA) is the Motion Picture Association. They're responsible for assigning ratings to movies released in America. There's a lot to be said about these ratings, and if you haven't seen it, I highly recommend \"This Film is Not Yet Rated\" as it details some of the hypocritical ratings giving out by the association.",
           "link": "https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason",
           "publishedOn": "2021-07-09T18:00:00.000Z",
-          "wordCount": 1305,
+          "wordCount": 1302,
           "title": "Graphing Movie Rating Distribution For No Good Reason"
         }
       ]
@@ -863,6 +872,15 @@
       "siteUrl": "https://www.swiftbysundell.com",
       "articles": [
         {
+          "id": "https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement",
+          "author": null,
+          "description": "What Swift’s @unknown attribute does, and why the compiler tells us to use it when switching on certain enums.",
+          "link": "https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement",
+          "publishedOn": "2021-08-06T14:12:00.000Z",
+          "wordCount": 1071,
+          "title": "Using ‘@unknown default’ within switch statements"
+        },
+        {
           "id": "https://www.swiftbysundell.com/podcast/102",
           "author": null,
           "description": "Jordan Morgan returns to the show to discuss some of the key new APIs and frameworks that were announced at WWDC21, and how they can be integrated into the apps that we build, now that about two months have passed since the conference took place.",
@@ -877,7 +895,7 @@
           "description": "How Swift 5.5 enables computed properties to become either throwing or asynchronous, and what sort of situations that these new capabilities could become useful in.",
           "link": "https://www.swiftbysundell.com/articles/throwing-async-properties",
           "publishedOn": "2021-07-27T15:50:00.000Z",
-          "wordCount": 862,
+          "wordCount": 868,
           "title": "Throwing and asynchronous Swift properties"
         },
         {
@@ -906,15 +924,6 @@
           "publishedOn": "2021-07-13T15:00:00.000Z",
           "wordCount": 909,
           "title": "Stroking and filling a SwiftUI shape at the same time"
-        },
-        {
-          "id": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts",
-          "author": null,
-          "description": "What sort of capabilities that a mutating Swift context has, and what the mutating and nonmutating keywords do.",
-          "link": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts",
-          "publishedOn": "2021-07-07T15:35:00.000Z",
-          "wordCount": 1456,
-          "title": "Mutating and non-mutating Swift contexts"
         }
       ]
     },
@@ -1161,6 +1170,15 @@
       "siteUrl": "https://lo-victoria.com",
       "articles": [
         {
+          "id": "https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server",
+          "author": "Victoria Lo",
+          "description": "Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. \nIn this part, we will start building a GraphQL server for a simple chat app with React and Apollo Client. \nSneak Peek:\n\nIf you haven't read the previous part, please read it here.\nSetting up GraphQL Server\nFirst, we need a GraphQL server to receive and send queries to our client.\nTo recap about GraphQL servers, feel free to read Part 2 of the series.\nStep 1: Initialize project\nMake sure you have Node.js installed on your machine. If not, install it here.\nThen, create a new project with the following commands in the terminal:\nmkdir project   // create project folder\nmkdir project/server    // create server folder…",
+          "link": "https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server",
+          "publishedOn": "2021-08-06T15:18:37.000Z",
+          "wordCount": 2044,
+          "title": "GraphQL for Beginners: Setting Up GraphQL Server"
+        },
+        {
           "id": "https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers",
           "author": "Victoria Lo",
           "description": "Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. At the end of this series, you will be able to build a simple chat app with GraphQL, React and Apollo.\nSneak Peek:\n\nIf you haven't read Part 1, please do so here.\nSubscriptions\nIn Part 1, we learnt about the 2 operations GraphQL supports: queries and mutations. The third type is known as subscriptions. \nSubscriptions are the operation used to push data from the server to the client on a specified event. Like queries, they fetch data and return it, but only when a certain change happens. Thus, subscriptions work by having an active connection to your GraphQL server (i.e. via WebSocket), where it will listen for a …",
@@ -1186,15 +1204,6 @@
           "publishedOn": "2021-07-16T14:34:23.000Z",
           "wordCount": 1047,
           "title": "GitHub Copilot: My Experience With My AI Coding Partner"
-        },
-        {
-          "id": "https://lo-victoria.com/6-scientific-tips-to-learn-and-improve-on-any-skills-efficiently",
-          "author": "Victoria Lo",
-          "description": "Learning a new skill or knowledge is never an easy feat. As with any career, we continuously learn new things to improve ourselves and level up our skills. At the end of the day, to get better at something requires learning tons of theory and a lot of practice. In this article, let's discuss some ways we can learn more effectively and efficiently. \n1. Eliminate distractions\nA good learning environment is important for focus. So, a simple way to create such an environment is to eliminate any distractions.\nWhen I am trying to learn something, I would turn off social media notifications and close any unrelated tabs in my browser. This is because a good deal of research have suggested that multitasking results in poor memory retention and reduce attention span.\nAlso, don't try to learn everyth…",
-          "link": "https://lo-victoria.com/6-scientific-tips-to-learn-and-improve-on-any-skills-efficiently",
-          "publishedOn": "2021-07-08T13:41:45.000Z",
-          "wordCount": 1251,
-          "title": "6 Scientific Tips to Learn and Improve on Any Skills Efficiently"
         }
       ]
     },
