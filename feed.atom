@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T02:14:58.760Z</id>
+    <id>urn:2021-08-08T02:09:31.340Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T02:14:58.760Z</updated>
+    <updated>2021-08-08T02:09:31.340Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Include HTML Inside of HTML - Just Like React Components]]></title>
+        <id>https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components</id>
+        <link href="https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components"/>
+        <updated>2021-08-07T03:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Yes, you can include HTML inside of HTML, just like a react / angular component. In this short article, I am going to walk you through, how to include HTML inside of HTML. 
+Creating files
+Go ahead and create a new HTML file and add the following simple code inside of it
+<!-- index.html -->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Include HTML inside of HTML</title>
+</head>
+<body>
+
+</body>
+</html>
+
+now create a new file and name it nav.html ( You can name it anything since this will be the component that we will include in index.html). Once created you can either write your component or paste this simple navbar code
+<!-- nav.html -->
+
+<!D…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
         <id>61067c973306a507d1bfc1ba</id>
@@ -1591,31 +1621,6 @@ The serverMiddleware property is handy when you want to have the API in the same
         <summary type="html"><![CDATA[I'm on vacation this week (one of the benefits of working for Adobe are two shutdowns during the year) and haven't really had a chance to write a lick of code (been busy grinding levels in Black Ops multiplayer), but yesterday I found myself working on a small demo for no real important reason outside of just wanting to see what would happen. For folks outside of America, the MPA (formally the MPAA) is the Motion Picture Association. They're responsible for assigning ratings to movies released in America. There's a lot to be said about these ratings, and if you haven't seen it, I highly recommend "This Film is Not Yet Rated" as it details some of the hypocritical ratings giving out by the association.]]></summary>
         <author>
             <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
-        <updated>2021-07-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Todd Libby)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning Your Website Into A Mobile App using React Native]]></title>
-        <id>https://blog.suhailkakar.com/turning-your-website-into-a-mobile-app-using-react-native</id>
-        <link href="https://blog.suhailkakar.com/turning-your-website-into-a-mobile-app-using-react-native"/>
-        <updated>2021-07-09T04:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Every day more and more people spend their time on mobile platforms, especially when it comes to shopping and entertainment. Successful companies such as Amazon that initially launched only a website, but now they have also established their mobile presence.
-There are 7,950,000,000+ mobile users around to world, and If you want to make your business successful, you should have mobile app beside your website.
-React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. But in this article we are going to convert our website's web view into app 😉
-
-Step 1 : Installing Node JS
-Node.js is a pl…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
         </author>
     </entry>
 </feed>
