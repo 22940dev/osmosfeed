@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-08T02:09:31.340Z</id>
+    <id>urn:2021-08-09T02:10:52.995Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T02:09:31.340Z</updated>
+    <updated>2021-08-09T02:10:52.995Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uploading Multiple Files with Fetch]]></title>
+        <id>https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch</id>
+        <link href="https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch"/>
+        <updated>2021-08-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This afternoon I was going through my "blog ideas" list and cleaning up entries I've changed my mind on. I came across something I added many months ago - using the Fetch API to upload multiple files at once. The reason it's stuck in my "todo" pile for so long is that I wasn't aware of a good service I could use to post my files against. I've done it before in Node.js and I know it's something I could do locally in an hour, but honestly I just didn't want to. That probably sounds a bit lazy but it's honest. Today though I came across httpbin.org, an online service that lets you hit it with various types of HTTP methods and even supports file uploads. (Obviously it doesn't make those files available, it just reports back on the upload.) Even better, it supports CORS which means I could use CodePen. So with no more excuses at my disposal, today I finally built a simple demo.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Cheat Sheet For Beginners - 2021]]></title>
+        <id>https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021</id>
+        <link href="https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021"/>
+        <updated>2021-08-08T12:11:02.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript. While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used.
+Here you can find the completed JavaScript cheat sheet 👇 
+Arrays
+Functions
+Description
+
+
+concat()
+Concatenate different arrays into one.
+
+
+join()
+Joins all the elements of one array as a string
+
+
+indexof()
+Returns the index (first position) of an element in the array
+
+
+lastindexof()
+Returns the last position of an element in the array
+
+
+sort()
+Alphabetic sort of array elements
+
+
+reverse()
+Sort e…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authority Cannot Replace Critical Thinking]]></title>
+        <id>https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/</id>
+        <link href="https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/"/>
+        <updated>2021-08-08T06:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:
+One of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.
+Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark
+Mikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:
+Does it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authority Cannot Replace Critical Thinking]]></title>
+        <id>https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/</id>
+        <link href="https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/"/>
+        <updated>2021-08-08T06:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:
+One of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.
+Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark
+Mikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:
+Does it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Include HTML Inside of HTML - Just Like React Components]]></title>
         <id>https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components</id>
@@ -1611,16 +1687,6 @@ The serverMiddleware property is handy when you want to have the API in the same
         <summary type="html"><![CDATA[How do I start freelancing as a React developer? This checklist helps freelancers and companies hiring freelancers to negotiate the details of the project ...]]></summary>
         <author>
             <name>RWieruch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphing Movie Rating Distribution For No Good Reason]]></title>
-        <id>https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason</id>
-        <link href="https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason"/>
-        <updated>2021-07-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm on vacation this week (one of the benefits of working for Adobe are two shutdowns during the year) and haven't really had a chance to write a lick of code (been busy grinding levels in Black Ops multiplayer), but yesterday I found myself working on a small demo for no real important reason outside of just wanting to see what would happen. For folks outside of America, the MPA (formally the MPAA) is the Motion Picture Association. They're responsible for assigning ratings to movies released in America. There's a lot to be said about these ratings, and if you haven't seen it, I highly recommend "This Film is Not Yet Rated" as it details some of the hypocritical ratings giving out by the association.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
         </author>
     </entry>
 </feed>

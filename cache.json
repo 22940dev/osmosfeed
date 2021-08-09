@@ -17,7 +17,7 @@
           "description": "Great little project from Ross Moody: \nSVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.\n…\nThe post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svg-gobbler/",
           "publishedOn": "2021-08-06T19:32:54.000Z",
-          "wordCount": 757,
+          "wordCount": 792,
           "title": "SVG Gobbler"
         },
         {
@@ -62,7 +62,7 @@
           "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-08-04T23:44:06.000Z",
-          "wordCount": 4741,
+          "wordCount": 4752,
           "title": "The State Of Web Workers In 2021"
         },
         {
@@ -159,7 +159,7 @@
           "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
           "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 577,
+          "wordCount": 586,
           "title": "Four Useful VSCode Extensions For Web Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
@@ -173,7 +173,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6566,
+          "wordCount": 6568,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -187,7 +187,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3320,
+          "wordCount": 3319,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -201,7 +201,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2940,
+          "wordCount": 2941,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -215,7 +215,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5980,
+          "wordCount": 5978,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -243,7 +243,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12530,
+          "wordCount": 12528,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -257,7 +257,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2952,
+          "wordCount": 2950,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -271,7 +271,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3073,
+          "wordCount": 3079,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -285,7 +285,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3572,
+          "wordCount": 3564,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -299,7 +299,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3080,
+          "wordCount": 3081,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -313,7 +313,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3395,
+          "wordCount": 3397,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -341,7 +341,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3059,
+          "wordCount": 3063,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -369,7 +369,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4474,
+          "wordCount": 4482,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -383,7 +383,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4795,
+          "wordCount": 4800,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -397,7 +397,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1079,
+          "wordCount": 1072,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -425,7 +425,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5307,
+          "wordCount": 5305,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -439,7 +439,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3259,
+          "wordCount": 3265,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -467,7 +467,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3613,
+          "wordCount": 3618,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -616,13 +616,32 @@
       "title": "Stefan Imhoff",
       "feedUrl": "https://www.stefanimhoff.de/feed-quotes.xml",
       "siteUrl": "https://www.stefanimhoff.de",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
+          "author": null,
+          "description": "Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:\nOne of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.\nCarl Sagan, The Demon-Haunted World: Science as a Candle in the Dark\nMikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:\nDoes it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …",
+          "link": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
+          "publishedOn": "2021-08-08T06:12:05.000Z",
+          "wordCount": 370,
+          "title": "Authority Cannot Replace Critical Thinking"
+        }
+      ]
     },
     {
       "title": "Stefan Imhoff",
       "feedUrl": "https://www.stefanimhoff.de/index.xml",
       "siteUrl": "https://www.stefanimhoff.de",
       "articles": [
+        {
+          "id": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
+          "author": null,
+          "description": "Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:\nOne of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.\nCarl Sagan, The Demon-Haunted World: Science as a Candle in the Dark\nMikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:\nDoes it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …",
+          "link": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
+          "publishedOn": "2021-08-08T06:12:05.000Z",
+          "wordCount": 370,
+          "title": "Authority Cannot Replace Critical Thinking"
+        },
         {
           "id": "https://www.stefanimhoff.de/links/bundle-4/",
           "author": null,
@@ -649,12 +668,21 @@
       "siteUrl": "https://www.raymondcamden.com/",
       "articles": [
         {
+          "id": "https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch",
+          "author": null,
+          "description": "This afternoon I was going through my \"blog ideas\" list and cleaning up entries I've changed my mind on. I came across something I added many months ago - using the Fetch API to upload multiple files at once. The reason it's stuck in my \"todo\" pile for so long is that I wasn't aware of a good service I could use to post my files against. I've done it before in Node.js and I know it's something I could do locally in an hour, but honestly I just didn't want to. That probably sounds a bit lazy but it's honest. Today though I came across httpbin.org, an online service that lets you hit it with various types of HTTP methods and even supports file uploads. (Obviously it doesn't make those files available, it just reports back on the upload.) Even better, it supports CORS which means I could use CodePen. So with no more excuses at my disposal, today I finally built a simple demo.",
+          "link": "https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch",
+          "publishedOn": "2021-08-08T18:00:00.000Z",
+          "wordCount": 1011,
+          "title": "Uploading Multiple Files with Fetch"
+        },
+        {
           "id": "https://www.raymondcamden.com/2021/08/06/check-out-begin",
           "author": null,
           "description": "In general, when I learn something new I like to share it here on my blog, and typically I wait till I have something of a decent handle on the topic. I have to be honest here and say that that isn't quite the case here. I'm still very early on my exploration of Begin and I wanted to share some initial thoughts.",
           "link": "https://www.raymondcamden.com/2021/08/06/check-out-begin",
           "publishedOn": "2021-08-06T18:00:00.000Z",
-          "wordCount": 1353,
+          "wordCount": 1348,
           "title": "Check out Begin"
         },
         {
@@ -663,7 +691,7 @@
           "description": "I've covered in the past how to use the Adobe PDF Embed API with Eleventy (\"Using PDFs with the Jamstack\". While the Embed API is relatively simple to add to a page, I thought it would be kind of fun to build an Eleventy plugin to make it simpler. Last week, I released it: https://www.npmjs.com/package/eleventy-plugin-pdfembed.",
           "link": "https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy",
           "publishedOn": "2021-08-02T18:00:00.000Z",
-          "wordCount": 547,
+          "wordCount": 542,
           "title": "An Adobe PDF Embed Plugin for Eleventy"
         },
         {
@@ -672,7 +700,7 @@
           "description": "Let me begin by being very clear. This is not a very good idea. I just got back from a much delayed honeymoon with my wife (apparently right before the mask mandates all come crashing back) and haven't written code for a while so perhaps I was a bit desperate to create something useless. That being said, working on this did let me kick the tires a bit on a few Eleventy things and that's always a good idea.",
           "link": "https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy",
           "publishedOn": "2021-07-30T18:00:00.000Z",
-          "wordCount": 1062,
+          "wordCount": 1057,
           "title": "Page Level URL Fetching with Eleventy"
         },
         {
@@ -681,7 +709,7 @@
           "description": "This post was inspired by a follower on Twitter who saw this announcement by the GitHub folks:\n\nReleasing our first public project to the world! From our team within GitHub that explores the future of development, we're excited to share:\n✨✨ Flat Data ✨✨\nWe asked ourselves:\nHow easy can we make it to work with live-updating data?\nCheck it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3",
           "link": "https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data",
           "publishedOn": "2021-07-14T18:00:00.000Z",
-          "wordCount": 1500,
+          "wordCount": 1495,
           "title": "Integrating Eleventy with GitHub Flat Data"
         },
         {
@@ -690,17 +718,8 @@
           "description": "Ok, so let me start off by saying that a) I'm not sure this is a good idea and b) it may already exist and I just don't know about it. This all came about from me doing some research on an Eleventy tagged question on StackOverflow. If you aren't aware, Liquid has a tag built in called capture. It looks like so:",
           "link": "https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy",
           "publishedOn": "2021-07-12T18:00:00.000Z",
-          "wordCount": 852,
+          "wordCount": 847,
           "title": "Creating an Additive Capture Shortcode in Eleventy"
-        },
-        {
-          "id": "https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason",
-          "author": null,
-          "description": "I'm on vacation this week (one of the benefits of working for Adobe are two shutdowns during the year) and haven't really had a chance to write a lick of code (been busy grinding levels in Black Ops multiplayer), but yesterday I found myself working on a small demo for no real important reason outside of just wanting to see what would happen. For folks outside of America, the MPA (formally the MPAA) is the Motion Picture Association. They're responsible for assigning ratings to movies released in America. There's a lot to be said about these ratings, and if you haven't seen it, I highly recommend \"This Film is Not Yet Rated\" as it details some of the hypocritical ratings giving out by the association.",
-          "link": "https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason",
-          "publishedOn": "2021-07-09T18:00:00.000Z",
-          "wordCount": 1302,
-          "title": "Graphing Movie Rating Distribution For No Good Reason"
         }
       ]
     },
@@ -863,7 +882,7 @@
           "description": "What Swift’s @unknown attribute does, and why the compiler tells us to use it when switching on certain enums.",
           "link": "https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement",
           "publishedOn": "2021-08-06T14:12:00.000Z",
-          "wordCount": 1071,
+          "wordCount": 1058,
           "title": "Using ‘@unknown default’ within switch statements"
         },
         {
@@ -881,7 +900,7 @@
           "description": "How Swift 5.5 enables computed properties to become either throwing or asynchronous, and what sort of situations that these new capabilities could become useful in.",
           "link": "https://www.swiftbysundell.com/articles/throwing-async-properties",
           "publishedOn": "2021-07-27T15:50:00.000Z",
-          "wordCount": 868,
+          "wordCount": 842,
           "title": "Throwing and asynchronous Swift properties"
         },
         {
@@ -890,7 +909,7 @@
           "description": "New in Swift 5.5: Property wrappers can now be applied directly to function arguments, just like how they can be used to add additional functionality to a property or local variable.",
           "link": "https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments",
           "publishedOn": "2021-07-23T11:30:00.000Z",
-          "wordCount": 512,
+          "wordCount": 499,
           "title": "Attaching property wrappers to function arguments"
         },
         {
@@ -908,7 +927,7 @@
           "description": "How to compose multiple SwiftUI views to render a shape that’s both stroked and filled at the same time.",
           "link": "https://www.swiftbysundell.com/articles/stroking-and-filling-a-swiftui-shape-at-the-same-time",
           "publishedOn": "2021-07-13T15:00:00.000Z",
-          "wordCount": 909,
+          "wordCount": 896,
           "title": "Stroking and filling a SwiftUI shape at the same time"
         }
       ]
@@ -987,12 +1006,21 @@
       "siteUrl": "https://blog.suhailkakar.com",
       "articles": [
         {
+          "id": "https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021",
+          "author": "Suhail Kakar",
+          "description": "JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript. While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used.\nHere you can find the completed JavaScript cheat sheet 👇 \nArrays\nFunctions\nDescription\n\n\nconcat()\nConcatenate different arrays into one.\n\n\njoin()\nJoins all the elements of one array as a string\n\n\nindexof()\nReturns the index (first position) of an element in the array\n\n\nlastindexof()\nReturns the last position of an element in the array\n\n\nsort()\nAlphabetic sort of array elements\n\n\nreverse()\nSort e…",
+          "link": "https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021",
+          "publishedOn": "2021-08-08T12:11:02.000Z",
+          "wordCount": 1769,
+          "title": "JavaScript Cheat Sheet For Beginners - 2021"
+        },
+        {
           "id": "https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components",
           "author": "Suhail Kakar",
           "description": "Yes, you can include HTML inside of HTML, just like a react / angular component. In this short article, I am going to walk you through, how to include HTML inside of HTML. \nCreating files\nGo ahead and create a new HTML file and add the following simple code inside of it\n<!-- index.html -->\n\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Include HTML inside of HTML</title>\n</head>\n<body>\n\n</body>\n</html>\n\nnow create a new file and name it nav.html ( You can name it anything since this will be the component that we will include in index.html). Once created you can either write your component or paste this simple navbar code\n<!-- nav.html -->\n\n<!D…",
           "link": "https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components",
           "publishedOn": "2021-08-07T03:19:30.000Z",
-          "wordCount": 486,
+          "wordCount": 487,
           "title": "Include HTML Inside of HTML - Just Like React Components"
         },
         {
@@ -1001,7 +1029,7 @@
           "description": "A few days ago Hashnode announced that they are partnering with Auth0 for a hackathon with some prize money on the line, but In my point of view most of you guys didn't know much about Auth0 and their SDKs. so I thought it would be a good opportunity for you to learn about them now. Therefore in this article, I am going to teach you how to integrate Auth0 with React JS ( A popular JavaScript frontend library). \nCreating a react app\nThe first step is to create a simple react app which you can do just by running the command below in your terminal. \nnpx create-react-app react-auth0\n\nThis might take a while and it depends on your computer specs but once it is done go to the new directory which is created ( In our case react-auth0 ) and run npm start or yarn start. This command will start the d…",
           "link": "https://blog.suhailkakar.com/integrate-auth0-with-react-js-a-step-by-step-tutorial",
           "publishedOn": "2021-08-05T07:09:32.000Z",
-          "wordCount": 1375,
+          "wordCount": 1376,
           "title": "Integrate Auth0 with React JS  - A step by step tutorial"
         },
         {
@@ -1010,7 +1038,7 @@
           "description": "If you're not using the terminal, Linux commands may appear scary at first by once you start using them you will understand them very easily On a Linux system, there are numerous commands for executing operations and procedures.\nHaving a list of commands on hand is useful whether you are new to Linux or an experienced user.\nFile Permission commands\nCommand\n\nDescription\n\n\n\n\n\n\n\n\n\nls-l\n\nto show file type and access permission\n\n\n\n\n\nr\n\nread permission\n\n\n\n\n\nw\n\nwrite permission\n\n\n\n\n\nx\n\nexecute permission\n\n\n\n\n\n-=\n\nno permission\n\n\n\n\n\nChown user\n\nFor changing the ownership of a file/directory\n\n\n\n\n\nChown user:group filename\n\nchange the user as well as group for a file or directory\n\n\n\n\n\n\n\n\n\nHardware commands\nCommand\n\nDescription\n\n\n\n\n\n\n\n\n\ndmesg\n\nDisplays bootup messages\n\n\n\n\n\ncat /proc/cpuinfo\n\nDisplays…",
           "link": "https://blog.suhailkakar.com/linux-cheat-sheet-for-beginners",
           "publishedOn": "2021-08-04T03:33:55.000Z",
-          "wordCount": 1468,
+          "wordCount": 1469,
           "title": "Linux Cheat Sheet For Beginners"
         },
         {
@@ -1019,7 +1047,7 @@
           "description": "Introduction\nIf you want to work on open-source software that runs on the majority of devices across the world, React Native is an excellent choice.. You've come to the correct spot if you want to study React Native right now and are seeking the greatest online courses, training materials, tutorials, and classes. \nBTW, if you would like to learn React Native in-depth and are searching for additional in-depth online courses, I recommend Mosh Hamedani's The Ultimate React Native Series\n\n3 Best Courses to Learn React Native For Free in 2021\nReact Native Tutorial for Beginners - Academind\nThis is the free version of the React Native course provided by Maximilian Schwarzmüller on Udemy. It is the perfect course for the beginner to help them get started with React Native. This free course consis…",
           "link": "https://blog.suhailkakar.com/3-best-courses-to-learn-react-native-for-free",
           "publishedOn": "2021-08-03T09:33:34.000Z",
-          "wordCount": 523,
+          "wordCount": 524,
           "title": "3 Best Courses to Learn React Native For Free"
         },
         {
@@ -1028,7 +1056,7 @@
           "description": "Introduction\nNode.js is an open-source, JavaScript runtime environment on Chrome’s V8 that lets you effortlessly develop fast and scalable web applications. It utilizes an event-driven, non-blocking I/O model that makes it lightweight, efficient, and excellent for data-intensive real-time applications that run across shared devices.\nTwilio Verify is a comprehensive solution for validating end-user phone numbers, which will be used to deliver a numeric code to the Android / iOS app through text message. Our server app will sit in between our app and Verify, allowing us to verify a user's phone number once they sign up for your mobile app.\nIn this article, we are going to integrate Twillio SMS Verify API in Node JS. \nInitializing Our Node JS Server\nThe first step is to create our Node JS ser…",
           "link": "https://blog.suhailkakar.com/integrate-twilio-with-node-js-a-beginners-guide",
           "publishedOn": "2021-08-02T04:39:00.000Z",
-          "wordCount": 805,
+          "wordCount": 806,
           "title": "Integrate Twilio With Node JS - A Beginner's Guide"
         },
         {
@@ -1037,7 +1065,7 @@
           "description": "Introduction\nYouTube is a free video-sharing website that makes watching video clips easy. You may even make your own videos and post them to enjoy with others. YouTube, which was founded in 2005, is currently one of the most popular apps on the Internet, with over 6 billion hours of video watched each month.\nReact Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. \nTable of Contents\nIn this part (1) we are going to \nDownload and Install Node JS\nInstall Expo CLI\nInitialize our app with React Native Expo\nChange Folder Structure\nCreate a bottom Tab navigation\nInstalling Node JS\nNode.js i…",
           "link": "https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1",
           "publishedOn": "2021-07-31T04:45:21.000Z",
-          "wordCount": 882,
+          "wordCount": 883,
           "title": "Let's Create A Youtube Clone Using React Native  - Part 1"
         },
         {
@@ -1046,7 +1074,7 @@
           "description": "Introduction\nVisual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year. \nA week ago I have created my own theme (  Tomorrow  ), This theme was inspired by One Dark Pro and Material Theme. \n\nInstallation\nOpen  Extensions sidebar panel in VS Code.  View → Extensions\nSearch for  Tomorrow  - find the one by  Suhail Kakar\nClick  Install  to install it.\nCode > Preferences > Color Theme >  Tomorrow\nRecommended Settings\nIf you want to give the same look as the above picture for your Code Editor you need to paste the below code into your VS Code Settings JSON\n{\n  \"editor.fontSize\": 17,\n  \"editor.fontWeight\": \"500\",\n  \"editor.fontLigatures\": true,\n  \"editor.lineHeigh…",
           "link": "https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor",
           "publishedOn": "2021-07-30T07:34:42.000Z",
-          "wordCount": 467,
+          "wordCount": 468,
           "title": "Introducing Tomorrow - A New Look for Your Code Editor"
         },
         {
@@ -1055,7 +1083,7 @@
           "description": "Introduction\nJavaScript is a scripting language for building dynamic web pages. It adhered to client-side development principles, thus it operates entirely within the user's web browser and requires no resources from the web server. Javascript may also be used with other technologies such as REST APIs, XML, and others.\nTypescript is a superset of Javascript. It is a statically built language for writing Javascript code that is straightforward and simple. It may be used with Node.js or any browser that supports ECMAScript 3 or above. \nDifference Between Javascript and Typescript\nTypescript\nJavascript\n\nTo make the code comprehensible for browsers, it will convert to JavaScript code.\nCan be directly used in browsers\n\n\nThere is support for ES3, ES4, ES5 and ES6\nNo support for compiling additio…",
           "link": "https://blog.suhailkakar.com/typescript-vs-javascript-which-one-should-you-use-for-your-next-project",
           "publishedOn": "2021-07-29T03:33:48.000Z",
-          "wordCount": 598,
+          "wordCount": 599,
           "title": "Typescript vs Javascript : Which one should you use for your next project ?"
         },
         {
@@ -1064,7 +1092,7 @@
           "description": "Are you searching for the best design resources? This is a collection that every developer should bookmark since it contains the greatest resources for creating an eye-catching and aesthetically enhanced project.\nIntroduction\nEvery developer's job entails some kind of product design. It's not just about having a good appearance; it's also about having engaging visuals and a good overall presentation. Rather of spending time and money on a lengthy design process, it is preferable to leverage resources that offer ready-to-use components and features for a fantastic, amazing, and outstanding product.\nTable of Contents\nUI Graphics\nFonts\nColors\nIcons\nLogos\nFavicons\nIcon Fonts\nStock Photos\nStock Videos\nStock Music & Sound Effects\nVectors & Clipart\nProduct & Image Mockups\nHTML & CSS Templates\nCSS…",
           "link": "https://blog.suhailkakar.com/best-design-resources-for-developers",
           "publishedOn": "2021-07-28T03:39:12.000Z",
-          "wordCount": 9757,
+          "wordCount": 9758,
           "title": "Best Design Resources for Developers"
         },
         {
@@ -1073,7 +1101,7 @@
           "description": "Disclaimer\nDon't do this to anyone with ill intent, this is a legit hacking tool part of the hacking process called osens, where we gather information about our hacking targets. What we're doing is not technically illegal we're just gathering publicly available information on the internet but the lines can blur based on your intentions so just be careful use this as a learning tool.\nIntroduction\nSherlock is a powerful command line tool supplied by the Sherlock Project that may be used to locate usernames across a variety of social media platforms. It is a python open-source project available at GitHub. You just need to input the username and Sherlock will return all the social media account url of that username\nRequirement\nThis best thing about this project is that you don't need any extra thing, You just need a web browser\nHow To Use ?\nOpen this  link  in your browser. This will open Google Cloud Console which we can use its shell to install Sherlock\nMake sure to check the Trust checkbox and click on Confirm and wait for 10 seconds \n\nOnce everything is done, go a head and paste the below code in the Cloud Shell \npython3 -m pip install -r requirements.txt\n\nIf all the packages are installed successfully, you should see something similar to below picture\n\nNow we can start using Sherlock, you just need to a username to get the social media account. In the Cloud Shell paste the below code and click enter ( change username with the account you want to get information, In my case suhailkakar) and will get all the social media profile of the username\npython3 sherlock --timeout 1 username\n\n\n\nConclusion\nI hope you found this articles helpful. If you need any help please let me know at comment section\nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
           "link": "https://blog.suhailkakar.com/find-social-media-accounts-in-5-minutes-with-sherlock",
           "publishedOn": "2021-07-27T03:57:07.000Z",
-          "wordCount": 491,
+          "wordCount": 492,
           "title": "Find Social Media Accounts in 5 Minutes with Sherlock"
         },
         {
@@ -1082,7 +1110,7 @@
           "description": "In this article, I’ll show you 5 easy ways to make money as a developer.\n1. Freelancing\nFor many developers, freelancing is profitable source of income.  Some people take it as a full-time job, while others do it as a part-time job to earn additional cash. Some platforms like Fiverr, Upwork, and many more offer a great opportunity for anyone to start freelancing, but there is a lot of competition there, so be sure to stand out among them \n\n2. Sell an Ebook\nWriting an ebook is one of those things that may pay off for a long time. You can write a highly useful ebook as a developer that covers a certain topic of software development. Alternatively, you may opt to describe a programming language in such a way that your readers will have a better understanding of it.\nWriting books is also a won…",
           "link": "https://blog.suhailkakar.com/5-easy-ways-to-make-money-as-a-developer",
           "publishedOn": "2021-07-26T03:32:55.000Z",
-          "wordCount": 591,
+          "wordCount": 592,
           "title": "5 Easy Ways To Make Money As A Developer"
         },
         {
@@ -1091,7 +1119,7 @@
           "description": "Introduction\nNode.js is an open-source, JavaScript runtime environment on Chrome’s V8 that lets you effortlessly develop fast and scalable web applications. It utilises an event-driven, non-blocking I/O model that makes it lightweight, efficient and excellent for data-intensive real-time applications that run across shared devices.\nInstallation\nThe easiest way to install Node.js and npm on Ubuntu is using Ubuntu repository, To install the Node.js and npm from the Ubuntu repository open terminal (Ctrl + Alt + T) and run the following commands \n$ sudo apt update\n\n$ sudo apt install nodejs npm\n\nThe above command will install a number of packages in order to compile and install native addons from npm.\nOnce it is done verify the installation by running :\n$ nodejs --version && npm --version\n\nv12.21.0\n7.5.2\n\nIn output you should see the Node.js and NPM version respectively. \nAt the time of writing, the Node.js version and NPM version included in the Ubuntu repositories is 12.21.0 and 7.5.2 respectively \nUninstall Node.js\nSometimes, you may want uninstall Node.js. You can do that simply by running the below commands on your terminal. \n$ sudo apt-get remove nodejs npm\n\n$ sudo apt update\n\nConclusion\nThat is it, In this article we learned,\nWhat is Node.js\nHow to install Node.js using Ubuntu repository\nHow to install NPM using Ubuntu repository\nHow to uninstall Node.js.\nI hope you found this articles helpful. If you need any help please let me know at comment section\nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
           "link": "https://blog.suhailkakar.com/how-to-install-nodejs-and-npm-on-ubuntu",
           "publishedOn": "2021-07-25T10:59:05.000Z",
-          "wordCount": 330,
+          "wordCount": 331,
           "title": "How To Install Node.js and NPM on Ubuntu"
         },
         {
@@ -1100,7 +1128,7 @@
           "description": "What is MongoDB\nMongoDB is a document-oriented NoSQL database for storing large amounts of data. MongoDB uses collections and documents instead of tables and rows, as in traditional relational databases. MongoDB is a database that first appeared in the mid-2000s.\nThe NoSQL database is a replacement for traditional SQL databases, and it includes almost all of the functionality found in RDBMS (Relational Database Management Systems) systems. Due to its simple architecture, support for both horizontal and vertical scalability, and easy and simple control over the data, NoSQL databases have grown considerably more popular in recent years than in the past.\nIt allows programmers to store data in the database according to their program's real requirements. We can't get this kind of functionality …",
           "link": "https://blog.suhailkakar.com/what-is-mongodb-and-why-it-is-the-most-popular-database-today",
           "publishedOn": "2021-07-24T03:48:58.000Z",
-          "wordCount": 808,
+          "wordCount": 809,
           "title": "What is MongoDB and Why it is the most popular Database today?"
         },
         {
@@ -1109,7 +1137,7 @@
           "description": "JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.\nWhile JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used. Many developers believe that JavaScript is inefficient and finicky, so they have made many improvements to the language over the years.\nHere are the 21 JavaScript tricks that makes you a JavaScript pro\nUse logical AND / OR for conditions\nvar xyz = 23;  \nxyz == 10 && runFunction(); // is the same thing as if (xyz == 23) runFunction(); \nxyz == 5 || runFunction(); // is the same thing as if (xyz != …",
           "link": "https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time",
           "publishedOn": "2021-07-23T04:26:50.000Z",
-          "wordCount": 1058,
+          "wordCount": 1059,
           "title": "21 Useful JavaScript Tips That'll Help You Save Time"
         },
         {
@@ -1118,7 +1146,7 @@
           "description": "I was a big fan of Windows OS, and have been using it for years because it is user-friendly, well-designed, and convenient. However, since I started programming I found that a Linux distro (such as Ubuntu, Manjaro, and Arch) is the best Operating System to start with.\nIn this article, I am going to share, why I most of the software engineers choose Linux over Windows for programming\nPre-installed Compilers\nThe primary reason behind the popularity of Linux is the availability of compilers or interpreter. You don't have to download them yourself. On the other hand, Windows does not come with pre-installed compilers.\nOpen Source\nUnlike Windows OS which is commercial, Linux is an open source software that is freely available to download. There are hundreds of Linux distributions available out of which almost five-hundred distro are in active development.\nCommunity Support\nAll newcomers can find help on any of the Linux forums. If you are stuck somewhere in your development process or need help in your coding process, just Google it and you can find several Linux based helpful resources.\nPerformance\nLinux is much powerful and versatile than Windows. It is light-weight OS, which makes it faster than Windows. You will notice a significant improvement in speed on a Linux distro when you start working it.\nSecure\nLinux is considered to be more secure than Windows. No antivirus is needed. Since it is open source, several developers are working on it and everyone can contribute code. It is likely that someone will find a vulnerability long before hackers can target a Linux distro. \nShell\nIf Linux does not have what you need, you can still get all the functionalities that you need from the command line. Simply enter the command and it will atomically download and install the package. Which saves a lot of efforts.",
           "link": "https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming",
           "publishedOn": "2021-07-22T03:24:08.000Z",
-          "wordCount": 491,
+          "wordCount": 492,
           "title": "Here's why software engineers choose Linux over Windows for programming"
         },
         {
@@ -1127,7 +1155,7 @@
           "description": "Learning to code has grown over the years from just a hobby to a career. Today, you can learn coding online, entirely for free. Gone are the days where knowing a programming language was reserved for the select few or cost quite a hefty amount of money.\nEven if you have no desire to go into the development field, learning a programming language can be very beneficial:\nIt’ll help you better manage websites\nIt’ll reduce reliance on an outside developer for your own projects\nIt’ll give you the freedom to build apps, websites, and other projects with ease\nWhether you want to start your own career as a programmer, learn how to build websites, or create projects for fun, this post is for you. Here are some of the Websites to Learn Coding for Free\n5. Plural Sight\n\nPlural Sight, formally known as …",
           "link": "https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020",
           "publishedOn": "2021-07-21T16:19:12.000Z",
-          "wordCount": 933,
+          "wordCount": 934,
           "title": "Top 5 Websites to Learn Coding for Free in 2020"
         },
         {
@@ -1136,7 +1164,7 @@
           "description": "According to Statista, React Native is the most popular technologies for cross-platform software development of mobile applications for two years in a row.\nReleasing an app on both App Store and Google Play is every business’s desire. But the trick is, before shipping a mobile app to the market, you have to choose a technology stack. Is it going to be React Native, Flutter or some other technologies ?\nWhat is React Native and Why you should use it ?\nReact Native is a popular open-source library that runs on JavaScript.It is written with the combination of XML -Esque markup and JavaScript which is also known as JSX. React Native primarily focuses on the native rendering of applications that is majorly compatible with Android and iOS.\nPros of React Native\nLarge developer community\nSimplified UI\nFast Applications\nNative rendering\nPerformance\nHot-reloading\nPopular apps made using React Native\nSoundCloud\nInstagram\nFacebook\nFlipkart\nTesla\nSkype\nWix\nPinterest\nConclusion\nNow, did you get the answer to your queries related to React Native App Development? Hope you have got a crystal-clear picture to what React Native is all about and why you should go for it for creating your mobile apps.",
           "link": "https://blog.suhailkakar.com/what-is-react-native-and-why-you-should-use-it-as-an-app-developer",
           "publishedOn": "2021-07-21T11:11:47.000Z",
-          "wordCount": 304,
+          "wordCount": 305,
           "title": "What is React Native and Why you should use it as an App Developer ?"
         },
         {
@@ -1145,7 +1173,7 @@
           "description": "In this article , I’ll show you how to deploy react js applications for free on Firebase, First let’s understand what is Firebase\nWhat is Firebase\nFirebase is a Backend as a Service that started as a YC11 startup and grew up into a next-generation app-development platform on Google Cloud Platform. Firebase frees developers to focus crafting fantastic user experiences. You don’t need to manage servers. You don’t need to write APIs. Firebase is your server, your API and your datastore, all written so generically that you can modify it to suit most needs. Yeah, you’ll occasionally need to use other bits of the Google Cloud for your advanced applications. Firebase can’t be everything to everybody. But it gets pretty close.\nGetting Started\nBefore deploying your app on Firebase, you need to have…",
           "link": "https://blog.suhailkakar.com/how-to-deploy-react-js-applications-for-free-on-firebase-2021",
           "publishedOn": "2021-07-20T13:51:03.000Z",
-          "wordCount": 495,
+          "wordCount": 496,
           "title": "How to Deploy React JS Applications for Free on Firebase 2021"
         }
       ]
