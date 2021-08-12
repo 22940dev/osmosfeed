@@ -12,12 +12,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346388",
+          "author": "Chris Coyier",
+          "description": "Heck of a CSS trick here from Dongsung Kim. \nThere are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% \n…\nThe post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kidi.ng/wanna-see-a-whiter-white/",
+          "publishedOn": "2021-08-11T19:09:36.000Z",
+          "wordCount": 351,
+          "title": "Wanna see a whiter white?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345889",
+          "author": "Mike Neumegen",
+          "description": "You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …\nThe post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
+          "publishedOn": "2021-08-11T14:31:20.000Z",
+          "wordCount": 3744,
+          "title": "Static vs. Dynamic vs. Jamstack: Where’s The Line?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346384",
+          "author": "Chris Coyier",
+          "description": "We took a surface level look at Pipedream the other day, which really does look cool. It’s like a much more modern and fancy version of what Yahoo Pipes was. A better comparison might be Zapier, except you …\nThe post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.napkin.io/",
+          "publishedOn": "2021-08-11T14:31:13.000Z",
+          "wordCount": 104,
+          "title": "Napkin"
+        },
+        {
           "id": "https://css-tricks.com/?p=346392",
           "author": "Chris Coyier",
           "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/view-source-on-mobile/",
+          "link": "https://neatnik.net/view-source/",
           "publishedOn": "2021-08-10T21:26:34.000Z",
-          "wordCount": 566,
+          "wordCount": 150,
           "title": "View Source (on Mobile)"
         },
         {
@@ -35,7 +62,7 @@
           "description": "(This is a sponsored post.)\nGot a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …\nThe post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/",
           "publishedOn": "2021-08-10T14:54:56.000Z",
-          "wordCount": 1293,
+          "wordCount": 1321,
           "title": "WooCommerce With Apple Pay and Google Pay"
         },
         {
@@ -53,7 +80,7 @@
           "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/",
           "publishedOn": "2021-08-09T21:23:44.000Z",
-          "wordCount": 2127,
+          "wordCount": 2217,
           "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
         },
         {
@@ -118,33 +145,6 @@
           "publishedOn": "2021-08-05T14:24:36.000Z",
           "wordCount": 3842,
           "title": "Three Buggy React Code Examples and How to Fix Them"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345552",
-          "author": "Shadid Haque",
-          "description": "(This is a sponsored post.)\nFlutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …\nThe post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/",
-          "publishedOn": "2021-08-05T09:23:00.000Z",
-          "wordCount": 3145,
-          "title": "How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345866",
-          "author": "Chris Coyier",
-          "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
-          "publishedOn": "2021-08-04T23:44:06.000Z",
-          "wordCount": 4735,
-          "title": "The State Of Web Workers In 2021"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345274",
-          "author": "Preethi",
-          "description": "Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …\nThe post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/",
-          "publishedOn": "2021-08-04T14:13:45.000Z",
-          "wordCount": 1515,
-          "title": "Using CSS Shapes for Interesting User Controls and Navigation"
         }
       ]
     },
@@ -153,6 +153,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.",
+          "link": "https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/",
+          "publishedOn": "2021-08-11T13:25:00.000Z",
+          "wordCount": 851,
+          "title": "New Smashing Workshops on Front-End & Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
+          "author": "hello@smashingmagazine.com (Daniel Don)",
+          "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
+          "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
+          "publishedOn": "2021-08-11T11:40:00.000Z",
+          "wordCount": 5019,
+          "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/",
           "author": "hello@smashingmagazine.com (Henrik Fricke)",
@@ -187,7 +215,7 @@
           "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
           "publishedOn": "2021-08-09T11:00:00.000Z",
-          "wordCount": 6866,
+          "wordCount": 6867,
           "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
@@ -215,7 +243,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6569,
+          "wordCount": 6571,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -229,7 +257,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3324,
+          "wordCount": 3322,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -243,7 +271,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2939,
+          "wordCount": 2941,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -257,7 +285,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5976,
+          "wordCount": 5980,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -271,7 +299,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2522,
+          "wordCount": 2517,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -285,7 +313,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12536,
+          "wordCount": 12548,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -299,7 +327,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2948,
+          "wordCount": 2950,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -313,7 +341,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3072,
+          "wordCount": 3074,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -327,7 +355,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3565,
+          "wordCount": 3562,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -341,7 +369,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3088,
+          "wordCount": 3087,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -355,7 +383,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3394,
+          "wordCount": 3398,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -383,7 +411,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3059,
+          "wordCount": 3058,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -411,7 +439,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4472,
+          "wordCount": 4488,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -439,7 +467,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1064,
+          "wordCount": 1079,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -467,40 +495,12 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5307,
+          "wordCount": 5306,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
-          "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
-          "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3256,
-          "title": "Building A Dynamic Header With Intersection Observer",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.",
-          "link": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
-          "publishedOn": "2021-07-13T10:30:00.000Z",
-          "wordCount": 4181,
-          "title": "How To Migrate From jQuery To Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ece22577-f23c-4e9c-a41c-f9000f14ae9d/migrate-jquery-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -510,6 +510,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61025c793306a507d1bfad64",
+          "author": null,
+          "description": "I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core",
+          "link": "https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/",
+          "publishedOn": "2021-08-11T23:50:28.000Z",
+          "wordCount": 1356,
+          "title": "Binary Search Tree Algorithms for JavaScript Beginners"
+        },
+        {
+          "id": "610d4a303306a507d1bff2ea",
+          "author": null,
+          "description": "One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/",
+          "publishedOn": "2021-08-11T23:31:34.000Z",
+          "wordCount": 1442,
+          "title": "How to Implement iOS-Specific Components and APIs"
+        },
+        {
+          "id": "611091a63306a507d1c00a1c",
+          "author": null,
+          "description": "Podcasts are a great way to consume digital information. They've become quite popular because you can listen to them anywhere, any time.  Podcasts deliver educational, entertaining, and engaging content on all kinds of topics – tech topics included. The hosts and their guests talk and share ideas, each in their own",
+          "link": "https://www.freecodecamp.org/news/best-podcasts-for-flutter-developers/",
+          "publishedOn": "2021-08-11T20:51:56.000Z",
+          "wordCount": 750,
+          "title": "Best Podcasts for Flutter Developers"
+        },
+        {
+          "id": "611126603306a507d1c00fd2",
+          "author": null,
+          "description": "Imagine that you're interviewing for your dream job and the interviewer drops this question for you: “So can you distinguish between a static web page and a dynamic web page?” What would your reaction be? If you don’t know the answer to that question, or are struggling to think",
+          "link": "https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/",
+          "publishedOn": "2021-08-11T19:54:10.000Z",
+          "wordCount": 1413,
+          "title": "Static vs Dynamic Web Pages – What&#x27;s the Difference?"
+        },
+        {
+          "id": "610eb7f03306a507d1c001f5",
+          "author": null,
+          "description": "We use props to pass information/data from a parent component to child components. In this article, I will explain everything you need to know about props and why you should use props in Vue.js. Here's a brief outline of what we'll cover in this guide: What are props",
+          "link": "https://www.freecodecamp.org/news/how-to-use-props-in-vuejs/",
+          "publishedOn": "2021-08-11T19:51:52.000Z",
+          "wordCount": 1221,
+          "title": "How to Use Props in Vue.js"
+        },
+        {
+          "id": "6112913c72231b077cdacc4d",
+          "author": null,
+          "description": "In HTML, you use the <img> tag to add images to websites. It is an inline and empty element, which means that it doesn't start on a new line and doesn't take a closing tag (unlike the paragraph (<p>) tag, for instance).  The <img>",
+          "link": "https://www.freecodecamp.org/news/img-html-image-tag-tutorial/",
+          "publishedOn": "2021-08-11T15:28:58.000Z",
+          "wordCount": 1466,
+          "title": "&lt;img&gt; HTML – Image Tag Tutorial"
+        },
+        {
+          "id": "610ee8443306a507d1c00249",
+          "author": null,
+          "description": "Lately I've been seeing many tweets and articles about Prisma. It's a modern ORM (Object-Relational-Mapping tool) that works with Node.jsand TypeScript. Yes, this library will help you build and manage your Node.js database – and it's compatible with TypeScript! It will generate all the types of your entities automatically.",
+          "link": "https://www.freecodecamp.org/news/build-nodejs-database-using-prisma-orm/",
+          "publishedOn": "2021-08-11T15:24:42.000Z",
+          "wordCount": 1997,
+          "title": "How to Build a Node.js Database using Prisma and SQLite"
+        },
+        {
+          "id": "610d8f383306a507d1bff9c3",
+          "author": null,
+          "description": "OpenGL can be used to create complex 2D and 3D graphics effects.  We just released an advanced OpenGL course on the freeCodeCamp.org YouTube channel. Victor Gordan created this course. Before this course he created one of the most popular OpenGL course on YouTube. Now, he will help you take",
+          "link": "https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/",
+          "publishedOn": "2021-08-11T12:40:12.000Z",
+          "wordCount": 8532,
+          "title": "Create Complex Graphics with OpenGL"
+        },
         {
           "id": "610e151e3306a507d1bffb32",
           "author": null,
@@ -527,78 +599,6 @@
           "publishedOn": "2021-08-10T21:02:00.000Z",
           "wordCount": 2257,
           "title": "Learn Web Development Basics – HTML, CSS, and JavaScript Explained for Beginners"
-        },
-        {
-          "id": "610642353306a507d1bfbfe4",
-          "author": null,
-          "description": "Python is a great programming language to learn and you can use it in a variety of areas in software development. You can use Python for web development, data analysis, machine learning, artificial intelligence, and more.  With the vast amount of resources to choose from, sometimes it is hard to",
-          "link": "https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/",
-          "publishedOn": "2021-08-10T20:37:56.000Z",
-          "wordCount": 1163,
-          "title": "The Best Way to Learn Python – Python Programming Tutorial for Beginners"
-        },
-        {
-          "id": "6108f8453306a507d1bfce17",
-          "author": null,
-          "description": "When coding in Python, have you ever had to check if any item or all items in an iterable evaluate to True? The next time you need to do so, be sure to use the nifty functions any() and all(). In this tutorial, we'll learn about Python's any() and all(",
-          "link": "https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/",
-          "publishedOn": "2021-08-10T20:26:25.000Z",
-          "wordCount": 1541,
-          "title": "Python any() and all() Functions – Explained with Examples"
-        },
-        {
-          "id": "61122afb72231b077cdac810",
-          "author": null,
-          "description": "When you're starting your coding journey, one of the most exciting – and at times overwhelming – things about it is just how much there is to learn.  You'll discover different languages, frameworks, libraries, inventions and conventions.  One technology often requires knowledge of another one, and everything seems to be interconnected and",
-          "link": "https://www.freecodecamp.org/news/what-is-coding/",
-          "publishedOn": "2021-08-10T19:54:45.000Z",
-          "wordCount": 2455,
-          "title": "What is Coding? Computer Coding Definition"
-        },
-        {
-          "id": "610ef4fc3306a507d1c00257",
-          "author": null,
-          "description": "One of the best things about VS Code is the rich library of extensions you can use to speed up your coding and make your life easier.  Some of these extensions are paid, but there are tons of quality options that are available for free in the VS Code Marketplace.",
-          "link": "https://www.freecodecamp.org/news/10-vscode-extensions-to-increase-productivity/",
-          "publishedOn": "2021-08-10T18:32:00.000Z",
-          "wordCount": 928,
-          "title": "10 VS Code Extensions to Increase Your Productivity"
-        },
-        {
-          "id": "610ce4f83306a507d1bfeba5",
-          "author": null,
-          "description": "Web scraping is the process of extracting specific data from the internet automatically. It has many use cases, like getting data for a machine learning project, creating a price comparison tool, or any other innovative idea that requires an immense amount of data. While you can theoretically do data extraction",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/",
-          "publishedOn": "2021-08-10T17:42:52.000Z",
-          "wordCount": 2677,
-          "title": "Python Web Scraping Tutorial – How to Scrape Data From Any Website with Python"
-        },
-        {
-          "id": "5fff3e3798be260817e495df",
-          "author": null,
-          "description": "Distributed Denial of Service (DDoS) attacks aim to take an organization or service offline and originate from multiple, distributed hosts.  The difficult part of defending against DDoS attacks is that the hosts are distributed – if it were a single host or small group, you could easily block the traffic with",
-          "link": "https://www.freecodecamp.org/news/protect-against-ddos-attacks/",
-          "publishedOn": "2021-08-10T17:36:54.000Z",
-          "wordCount": 1641,
-          "title": "How to Protect Against DDoS Attacks"
-        },
-        {
-          "id": "60f7aef31d2b080797b80a01",
-          "author": null,
-          "description": "Formatting a string is something you'll do all the time when you're coding in Python. For every variable, tuple, and dictionary and the logic that we define, we eventually have to either print or display it in some form.  And each of these, without exception, require us to format the",
-          "link": "https://www.freecodecamp.org/news/how-to-format-a-string-in-python/",
-          "publishedOn": "2021-08-10T17:19:00.000Z",
-          "wordCount": 1636,
-          "title": "How to Format a String in Python"
-        },
-        {
-          "id": "610abfc03306a507d1bfde47",
-          "author": null,
-          "description": "Big O notation is an important tools for computer scientists to analyze the cost of an algorithm. Most software engineers should have an understanding of it. We just released a course on the freeCodeCamp.org YouTube channel that will help you understand Big O Notation. Georgio Tunson, aka selikapro, created",
-          "link": "https://www.freecodecamp.org/news/learn-big-o-notation/",
-          "publishedOn": "2021-08-10T13:12:34.000Z",
-          "wordCount": 17118,
-          "title": "Learn Big O Notation"
         }
       ]
     },
@@ -635,7 +635,7 @@
           "description": "The Tomorrow War    [P] is an alien invasion/time-travel movie and was fun to watch. Ignore the critics, it has plot holes and is not original, but it’s a well-made movie.\nThe Mitchells vs. the Machines    [N] is a funny and entertaining animated movie about a dysfunctional family’s road-trip meeting a robot apocalypse.\nClose Enough    [N] is a new, funny animated TV Show about a couple struggling with parenthood, friendship, and everyday challenges.\nKatla    [N] is a mystery drama from Iceland. A year after the subglacial volcano erupts, mysterious things happen in a nearly abandoned area at the foot of the volcano. It has a lot of WTF moments 😆\nKim’s Convenience    [N] is one of the funniest TV shows I’ve watched in years. The story is about a Korean-Canadian family, running a convenien…",
           "link": "https://www.stefanimhoff.de/links/bundle-4/",
           "publishedOn": "2021-07-25T10:00:00.000Z",
-          "wordCount": 622,
+          "wordCount": 621,
           "title": "Link Bundle #4"
         }
       ]
@@ -676,7 +676,7 @@
           "description": "The Tomorrow War    [P] is an alien invasion/time-travel movie and was fun to watch. Ignore the critics, it has plot holes and is not original, but it’s a well-made movie.\nThe Mitchells vs. the Machines    [N] is a funny and entertaining animated movie about a dysfunctional family’s road-trip meeting a robot apocalypse.\nClose Enough    [N] is a new, funny animated TV Show about a couple struggling with parenthood, friendship, and everyday challenges.\nKatla    [N] is a mystery drama from Iceland. A year after the subglacial volcano erupts, mysterious things happen in a nearly abandoned area at the foot of the volcano. It has a lot of WTF moments 😆\nKim’s Convenience    [N] is one of the funniest TV shows I’ve watched in years. The story is about a Korean-Canadian family, running a convenien…",
           "link": "https://www.stefanimhoff.de/links/bundle-4/",
           "publishedOn": "2021-07-25T10:00:00.000Z",
-          "wordCount": 622,
+          "wordCount": 621,
           "title": "Link Bundle #4"
         },
         {
@@ -695,6 +695,15 @@
       "feedUrl": "https://www.raymondcamden.com/feed.xml",
       "siteUrl": "https://www.raymondcamden.com/",
       "articles": [
+        {
+          "id": "https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog",
+          "author": null,
+          "description": "Over a year ago I wrote up my experience on adding Algolia to my blog (\"Adding Algolia Search to Eleventy and Netlify - Part Two\". This process was different then my initial post on the topic (\"Adding Algolia Search to Eleventy and Netlify\") as I had to set up things a bit differently to handle the large size of my site.",
+          "link": "https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog",
+          "publishedOn": "2021-08-11T18:00:00.000Z",
+          "wordCount": 909,
+          "title": "More Work on Algolia and My Blog"
+        },
         {
           "id": "https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch",
           "author": null,
@@ -739,15 +748,6 @@
           "publishedOn": "2021-07-14T18:00:00.000Z",
           "wordCount": 1495,
           "title": "Integrating Eleventy with GitHub Flat Data"
-        },
-        {
-          "id": "https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy",
-          "author": null,
-          "description": "Ok, so let me start off by saying that a) I'm not sure this is a good idea and b) it may already exist and I just don't know about it. This all came about from me doing some research on an Eleventy tagged question on StackOverflow. If you aren't aware, Liquid has a tag built in called capture. It looks like so:",
-          "link": "https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy",
-          "publishedOn": "2021-07-12T18:00:00.000Z",
-          "wordCount": 847,
-          "title": "Creating an Additive Capture Shortcode in Eleventy"
         }
       ]
     },
@@ -1034,6 +1034,15 @@
       "siteUrl": "https://blog.suhailkakar.com",
       "articles": [
         {
+          "id": "https://blog.suhailkakar.com/how-i-increased-my-blogs-traffic-to-over-29000-page-views",
+          "author": "Suhail Kakar",
+          "description": "The most typical question asked by new bloggers is, \"How can I gain more visitors to my blog?\"\nIt's been around 20 days since I started blogging on Hashnode ( My main blog ), DEV, and Devdojo, and I reached more than 29,000 page views. Since then, I've been getting a lot of questions about how I increased my traffic, therefore I'll put it all out in this article. \n\n\n\nAs you can see, I received  11,109 visitors in DEV, 15,149 visitors in Hashnode, and 2,817 in Devdojo which is a total of 29,075. And the strategies that I used are\n1. Publishing articles consistently\nI published a new blog article every day ( or at least 1 article per two days ) and I've never gone more than a week without blogging. \nAfter doing some research, I discovered that the more often I published an article, the more …",
+          "link": "https://blog.suhailkakar.com/how-i-increased-my-blogs-traffic-to-over-29000-page-views",
+          "publishedOn": "2021-08-11T03:41:46.000Z",
+          "wordCount": 722,
+          "title": "How I Increased My Blogs Traffic To Over 29,000 Page Views In My First 20 Days Blogging | Hashnode + Dev + Devdojo"
+        },
+        {
           "id": "https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021",
           "author": "Suhail Kakar",
           "description": "JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript. While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used.\nHere you can find the completed JavaScript cheat sheet 👇 \nArrays\nFunctions\nDescription\n\n\nconcat()\nConcatenate different arrays into one.\n\n\njoin()\nJoins all the elements of one array as a string\n\n\nindexof()\nReturns the index (first position) of an element in the array\n\n\nlastindexof()\nReturns the last position of an element in the array\n\n\nsort()\nAlphabetic sort of array elements\n\n\nreverse()\nSort e…",
@@ -1260,7 +1269,7 @@
           "description": "Do you know you can make money by selling your APIs? Building and selling APIs is a great way to create a new source of passive income.\nThus, in this article, you will see how to do that! First, you will create an API from scratch, and then you will sell it on RapidAPI!\nWhat's an API?\nLet's start by refreshing our memory on what an API is. The acronym API stands for Application Programming Interface, and it's a way for two computer programs to communicate between them.\nIn simple terms, it's a piece of software offering its services to other programs through a pre-defined set of functions. The other programs do not need to know about the API implementation because the functions describe how the API can be used. You communicate with APIs through requests, and there are four types of requests…",
           "link": "https://catalins.tech/make-money-as-a-developer-by-selling-apis",
           "publishedOn": "2021-08-10T12:51:56.000Z",
-          "wordCount": 3463,
+          "wordCount": 3483,
           "title": "Make Money As A Developer By Selling APIs"
         },
         {
@@ -1269,7 +1278,7 @@
           "description": "Contributing to open-source is a great way to improve your programming skills, help others and learn how to work in a collaborative environment.\nHowever, many people are put off by the complexity of the projects. They also think that contributing to open-source is all about coding.\nBut that is not true! You can contribute to open source projects in other ways, such as:\nWriting documentation\nCreating supporting materials\nReviewing code\nTranslating to other languages\nStructure and re-structure the code and project structure\nThus, in this article, you will learn how to make your first open-source contributions with the help of Hashnode documentation. Hashnode is a blogging platform that open-sourced their documentation, which is a great place to start your open-source journey.\nAbout Open Sour…",
           "link": "https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner",
           "publishedOn": "2021-07-29T14:20:26.000Z",
-          "wordCount": 2435,
+          "wordCount": 2455,
           "title": "Getting Started With Open-Source: How To Contribute As A Beginner"
         }
       ]
