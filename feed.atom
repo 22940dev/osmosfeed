@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T02:10:54.362Z</id>
+    <id>urn:2021-08-14T00:42:29.860Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T02:10:54.362Z</updated>
+    <updated>2021-08-14T00:42:29.860Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unicode Arrows]]></title>
+        <id>https://css-tricks.com/?p=346665</id>
+        <link href="https://unicodearrows.com/"/>
+        <updated>2021-08-13T18:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. 
+Reminds …
+The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Cool Front End Thing Generator]]></title>
+        <id>https://css-tricks.com/?p=345944</id>
+        <link href="https://css-tricks.com/building-a-cool-front-end-thing-generator/"/>
+        <updated>2021-08-13T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …
+The post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Polacek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL for Beginners: Build Real-Time Chat App with Apollo Client and React]]></title>
+        <id>https://lo-victoria.com/graphql-for-beginners-build-real-time-chat-app-with-apollo-client-and-react</id>
+        <link href="https://lo-victoria.com/graphql-for-beginners-build-real-time-chat-app-with-apollo-client-and-react"/>
+        <updated>2021-08-13T14:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. 
+In this part, we will complete our simple chat app by building our front-end with React and Apollo Client. 
+If you haven't read the previous part, please read it here.
+Step 1: Create a React App
+To recap, our project folder currently has a server folder in it. Let's create a client folder now for our React app.
+In our client folder, we can create a new React app:
+npx create-react-app my-app
+
+Now, your project folder should look something like this:
+
+Step 2: Install packages
+To connect our React app to our GraphQL server, we need to install a few packages:
+@apollo/client:  to set up Apollo Client in our React app…]]></summary>
+        <author>
+            <name>Victoria Lo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optional chaining '?.' in JavaScript]]></title>
+        <id>https://inshaweb.hashnode.dev/optional-chaining-in-javascript</id>
+        <link href="https://inshaweb.hashnode.dev/optional-chaining-in-javascript"/>
+        <updated>2021-08-13T06:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Hey Readers 👋
+In this article, we’ll learn about the optional chaining (?.) that simplifies the way to access values through nested objects.
+What the heck is Optional chaining?  🥴
+The optional chaining ?.  is a recent addition to the language which is a secure way to access nested object properties, even if an intermediate property doesn’t exist. 
+With the optional chaining if a certain property doesn't exist then undefined is returned immediately.
+The optional chaining ?. syntax has three forms:
+obj?.prop – returns obj.prop if obj exists, otherwise undefined.
+obj?.[prop] – returns obj[prop] if obj exists, otherwise undefined.
+obj.method?.() – calls obj.method() if obj.method exists, otherwise returns undefined
+To understand the concept better let's have a look at a few of the use cases.…]]></summary>
+        <author>
+            <name>Insha Ramin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A guide to designing accessible, WCAG-compliant focus indicators]]></title>
+        <id>https://sarasoueidan.com/blog/focus-indicators/</id>
+        <link href="https://sarasoueidan.com/blog/focus-indicators/"/>
+        <updated>2021-08-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is a modified, text-only excerpt from my Practical Accessibility video course. I wanted to share this guide to designing accessible focus indicators because focus styles are a recurring discussion I have with designers I work with on most projects, so I thought it would be useful to provide this guide as a helpful reference. This guide is aimed at both designers who want to learn about accessibility considerations for designing focus indicators, as well as developers who want to implement them.
+Imagine you visit a Web site and you want to browse it for some content. You want to buy something; or maybe book a flight somewhere. And as you move your cursor onto the page, it suddenly disappears. Your hand may be still on the mouse, and you’re moving the mouse across the screen and ac…]]></summary>
+        <author>
+            <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stay alert]]></title>
         <id>https://css-tricks.com/?p=346608</id>
@@ -488,17 +563,6 @@ The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Nuxt Features past v2.10]]></title>
-        <id>https://css-tricks.com/?p=346290</id>
-        <link href="https://css-tricks.com/new-nuxt-features-past-v2-10/"/>
-        <updated>2021-08-06T15:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Nuxt offers an incredible developer experience, with a lot of performance and application setup best practices baked in. In recent releases, they’ve been working on taking this developer experience to the next level, with some newer features that speed up …
-The post New Nuxt Features past v2.10 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sarah Drasner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GraphQL for Beginners: Setting Up GraphQL Server]]></title>
         <id>https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server</id>
         <link href="https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server"/>
@@ -518,17 +582,6 @@ mkdir project   // create project folder
 mkdir project/server    // create server folder…]]></summary>
         <author>
             <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()]]></title>
-        <id>https://css-tricks.com/?p=345467</id>
-        <link href="https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/"/>
-        <updated>2021-08-06T14:55:06.000Z</updated>
-        <summary type="html"><![CDATA[I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …
-The post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andy Ford</name>
         </author>
     </entry>
     <entry>
@@ -1699,22 +1752,6 @@ When I first started designing websites, my go-to software was Photoshop. I crea
 Ethan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…]]></summary>
         <author>
             <name>by</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Eleventy with GitHub Flat Data]]></title>
-        <id>https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data</id>
-        <link href="https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data"/>
-        <updated>2021-07-14T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post was inspired by a follower on Twitter who saw this announcement by the GitHub folks:
-
-Releasing our first public project to the world! From our team within GitHub that explores the future of development, we're excited to share:
-✨✨ Flat Data ✨✨
-We asked ourselves:
-How easy can we make it to work with live-updating data?
-Check it out!https://t.co/njLvo3CxNj pic.twitter.com/jBDnnUD4y3]]></summary>
-        <author>
-            <name>Raymond Camden</name>
         </author>
     </entry>
 </feed>
