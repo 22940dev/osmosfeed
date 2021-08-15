@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-14T00:42:29.860Z</id>
+    <id>urn:2021-08-15T00:46:06.376Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:42:29.860Z</updated>
+    <updated>2021-08-15T00:46:06.376Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1709,49 +1709,6 @@ This single-page cheat sheet is for all your needs. It covers all the basic synt
         <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: “Cross-platform SwiftUI”, with special guest Malin Sundberg]]></title>
-        <id>https://www.swiftbysundell.com/podcast/101</id>
-        <link href="https://www.swiftbysundell.com/podcast/101"/>
-        <updated>2021-07-15T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Malin Sundberg joins John to talk about her experiences of using SwiftUI to build and ship the time-tracking and invoicing app Orbit on most of Apple’s platforms, and what sort of things that can be good to keep in mind when using SwiftUI in a cross-platform context.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
-        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
-        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
-        <updated>2021-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
-        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
-        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
-        <updated>2021-07-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing for the Unexpected]]></title>
-        <id>https://alistapart.com/article/designing-for-the-unexpected/</id>
-        <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
-        <updated>2021-07-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situations you can’t imagine? Or design products that work on devices yet to be invented?
-Flash, Photoshop, and responsive design
-When I first started designing websites, my go-to software was Photoshop. I created a 960px canvas and set about creating a layout that I would later drop content in. The development phase was about attaining pixel-perfect accuracy using fixed widths, fixed heights, and absolute positioning.
-Ethan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…]]></summary>
-        <author>
-            <name>by</name>
         </author>
     </entry>
 </feed>
