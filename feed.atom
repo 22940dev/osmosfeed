@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T00:46:06.376Z</id>
+    <id>urn:2021-08-16T00:45:06.857Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:46:06.376Z</updated>
+    <updated>2021-08-16T00:45:06.857Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Defining dynamic colors in Swift]]></title>
+        <id>https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift</id>
+        <link href="https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift"/>
+        <updated>2021-08-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Various techniques that let us define fully dynamic colors that adapt to the user’s selected color scheme, using either SwiftUI or UIKit.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #5]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-5/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-5/"/>
+        <updated>2021-08-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 3rd season of How to Sell Drugs Online (Fast)    [N] was released.
+I discovered by accident that one of my favorite Japanese TV shows, Midnight Diner: Tokyo Stories    [N] from 2016, had a predecessor of the name Midnight Diner    [N] in 2009. Same actors, more seasons, and the stories and character development are much more complex.
+Forging a Copper Damascus Bowie Knife
+The Joe Rogan Experience #1684 – Abby Martin – Abby Martin is a journalist, host of “The Empire Files” video series, and director of the 2019 documentary “Gaza Fights for Freedom.”
+Ryan Long made a funny political satire video: The Editor Who Removes Scenes for China
+The European Commission tries to outlaw and ban memes, because humor is an effective weapon against authoritarians and to challenge power.
+The Joe Rogan E…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #5]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-5/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-5/"/>
+        <updated>2021-08-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 3rd season of How to Sell Drugs Online (Fast)    [N] was released.
+I discovered by accident that one of my favorite Japanese TV shows, Midnight Diner: Tokyo Stories    [N] from 2016, had a predecessor of the name Midnight Diner    [N] in 2009. Same actors, more seasons, and the stories and character development are much more complex.
+Forging a Copper Damascus Bowie Knife
+The Joe Rogan Experience #1684 – Abby Martin – Abby Martin is a journalist, host of “The Empire Files” video series, and director of the 2019 documentary “Gaza Fights for Freedom.”
+Ryan Long made a funny political satire video: The Editor Who Removes Scenes for China
+The European Commission tries to outlaw and ban memes, because humor is an effective weapon against authoritarians and to challenge power.
+The Joe Rogan E…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unicode Arrows]]></title>
         <id>https://css-tricks.com/?p=346665</id>
         <link href="https://unicodearrows.com/"/>
         <updated>2021-08-13T18:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. 
-Reminds …
+        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. …
 The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -1670,45 +1711,6 @@ Being self-taught, I decided to make a Twitter account to help people with their
         <summary type="html"><![CDATA[Is it possible to use conditional React Hooks in React components? Technically no. However, in this example I want to show you how to use a Hook ...]]></summary>
         <author>
             <name>RWieruch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot: My Experience With My AI Coding Partner]]></title>
-        <id>https://lo-victoria.com/github-copilot-my-experience-with-my-ai-coding-partner</id>
-        <link href="https://lo-victoria.com/github-copilot-my-experience-with-my-ai-coding-partner"/>
-        <updated>2021-07-16T14:34:23.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I want to share my experience of using GitHub Copilot for a week. My first impressions, some demonstration of how it works, and my current impressions of the product.
-First Impression
-It was July 8. I was excited to receive an email in the morning, that I finally got access to Copilot. I immediately went to install it in the Visual Studio Marketplace. What I first noticed when I arrived there was that Copilot had a 3-star average rating. I investigated further and was shocked to see the reason behind these mediocre reviews:
-
-Most poor (1-2 star) reviews are emotionally driven and do not contain any constructive feedback. A simple sentimental analysis shows that most bad reviews were mostly showing apprehension, concern and disagreement before even really testing the produc…]]></summary>
-        <author>
-            <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Cheatsheet List For Web Developers]]></title>
-        <id>https://inshaweb.hashnode.dev/the-ultimate-cheatsheet-list-for-web-developers</id>
-        <link href="https://inshaweb.hashnode.dev/the-ultimate-cheatsheet-list-for-web-developers"/>
-        <updated>2021-07-16T13:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Being developers, we work with many different languages. Which makes it humanly impossible to remember all its aspects. Yes, we do have MDN docs, but looking at them for every little issue can be time-consuming. This is when a "Cheat Sheet" comes super-handy.
-In this post, we'll go through some quick and useful cheat sheets that'll save you hours in wasted time each week.
-When it comes to Web development, HTML is the first choice. Web development generally comprises 3 fundamentals: basically HTML, CSS, and JAVASCRIPT.
- HTML Cheat Sheet
-Looking for a cheat sheet that contains useful code examples and web developer tools, markup generators, and more? Well, you’re going to love this. 
-This single-page cheat sheet is for all your needs. It covers all the basic syntax along with proper examples…]]></summary>
-        <author>
-            <name>Insha Ramin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
-        <updated>2021-07-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>
