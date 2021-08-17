@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346418",
+          "author": "Chris Coyier",
+          "description": "Brian Kardell shares a bit about the progress of bringing \"Tabs\" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.\nThe post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/SpicySections.html",
+          "publishedOn": "2021-08-16T23:31:01.000Z",
+          "wordCount": 1914,
+          "title": "Tabs in HTML?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346686",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed dug into shape “cutouts” the other day. Imagine a shape with another smaller shape carved out of it. In his typical comprehensive way, Ahmad laid out the situation well—looking at tricky situations that complicate things. \nThe first thing …\nThe post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/thinking-about-the-cut-out-effect/",
+          "publishedOn": "2021-08-16T20:49:09.000Z",
+          "wordCount": 2944,
+          "title": "Cutouts"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346318",
+          "author": "Alvaro Montoro",
+          "description": "HTML is not a programming language.\nI’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …\nThe post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-is-not-a-programming-language/",
+          "publishedOn": "2021-08-16T14:44:35.000Z",
+          "wordCount": 3453,
+          "title": "HTML is Not a Programming Language?"
+        },
+        {
           "id": "https://css-tricks.com/?p=346665",
           "author": "Chris Coyier",
           "description": "Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. …\nThe post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -35,7 +62,7 @@
           "description": "A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …\nThe post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://dev.to/richharris/stay-alert-d",
           "publishedOn": "2021-08-12T21:10:22.000Z",
-          "wordCount": 9521,
+          "wordCount": 9929,
           "title": "Stay alert"
         },
         {
@@ -62,7 +89,7 @@
           "description": "You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …\nThe post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
           "publishedOn": "2021-08-11T14:31:20.000Z",
-          "wordCount": 3893,
+          "wordCount": 4034,
           "title": "Static vs. Dynamic vs. Jamstack: Where’s The Line?"
         },
         {
@@ -118,33 +145,6 @@
           "publishedOn": "2021-08-09T21:23:44.000Z",
           "wordCount": 2300,
           "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346316",
-          "author": "Chris Coyier",
-          "description": "We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …\nThe post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
-          "publishedOn": "2021-08-09T20:37:39.000Z",
-          "wordCount": 1999,
-          "title": "The Large, Small, and Dynamic Viewports"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345642",
-          "author": "Temani Afif",
-          "description": "In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …\nThe post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/",
-          "publishedOn": "2021-08-09T14:27:18.000Z",
-          "wordCount": 2667,
-          "title": "Exploring the CSS Paint API: Image Fragmentation Effect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346259",
-          "author": "Chris Coyier",
-          "description": "Great little project from Ross Moody: \nSVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.\n…\nThe post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-gobbler/",
-          "publishedOn": "2021-08-06T19:32:54.000Z",
-          "wordCount": 792,
-          "title": "SVG Gobbler"
         }
       ]
     },
@@ -153,6 +153,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
+          "author": "hello@smashingmagazine.com (Cache Merril)",
+          "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
+          "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
+          "publishedOn": "2021-08-16T06:55:00.000Z",
+          "wordCount": 2962,
+          "title": "How To Develop Your Business’ Technology Roadmap",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "author": "hello@smashingmagazine.com (Janet John)",
@@ -187,7 +201,7 @@
           "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
           "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
           "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5017,
+          "wordCount": 5043,
           "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
@@ -229,7 +243,7 @@
           "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
           "publishedOn": "2021-08-09T11:00:00.000Z",
-          "wordCount": 6871,
+          "wordCount": 6880,
           "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
@@ -243,7 +257,7 @@
           "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
           "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 572,
+          "wordCount": 586,
           "title": "Four Useful VSCode Extensions For Web Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
@@ -257,7 +271,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6568,
+          "wordCount": 6579,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -271,7 +285,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3327,
+          "wordCount": 3332,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -285,7 +299,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2946,
+          "wordCount": 2956,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -299,7 +313,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5981,
+          "wordCount": 5996,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -313,7 +327,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2520,
+          "wordCount": 2529,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -327,7 +341,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12545,
+          "wordCount": 12543,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -341,7 +355,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2952,
+          "wordCount": 2964,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -355,7 +369,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3089,
+          "wordCount": 3102,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -369,7 +383,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3557,
+          "wordCount": 3582,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -383,7 +397,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3096,
+          "wordCount": 3114,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -397,7 +411,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3409,
+          "wordCount": 3408,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -425,7 +439,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3058,
+          "wordCount": 3073,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -453,7 +467,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4476,
+          "wordCount": 4503,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -469,94 +483,94 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
-          "id": "610655c93306a507d1bfc0e6",
+          "id": "6119348e72231b077cdb0a55",
           "author": null,
-          "description": "There are many benefits to coding in an online IDE or code editor. With these tools you don't need to set anything up locally, you can easily share your work, and they are often free to use. In this article, you'll learn what a code editor and an IDE are.",
-          "link": "https://www.freecodecamp.org/news/javascript-online-html-css-js-code-editor-list-browser-ide-tools/",
-          "publishedOn": "2021-08-12T19:31:16.000Z",
-          "wordCount": 1339,
-          "title": "JavaScript Online – HTML, CSS, and JS Code Editor List [Browser IDE Tools]"
+          "description": "Are you preparing for coding interviews? I designed a crash course series to help you out.  I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the second course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,",
+          "link": "https://www.freecodecamp.org/news/coding-interview-tree-traversal-crash-course-the-only-one-youll-ever-need/",
+          "publishedOn": "2021-08-16T23:49:03.000Z",
+          "wordCount": 1639,
+          "title": "Coding Interview Tree Traversal Crash Course – The Only One You&#x27;ll Ever Need"
         },
         {
-          "id": "6115261272231b077cdaebfe",
+          "id": "6114c87172231b077cdae3f2",
           "author": null,
-          "description": "When you're learning about web development, you probably hear about HTML and CSS pretty quickly. Well, what are these tools and how do you use them?  You can think of HTML as the structure and framing of a house. And when you want to make that structure look good, you",
-          "link": "https://www.freecodecamp.org/news/html-and-css-inline-style-external-stylesheet-css-code-examples/",
-          "publishedOn": "2021-08-12T18:47:27.000Z",
-          "wordCount": 1580,
-          "title": "HTML and CSS – Inline Style, External Stylesheet, CSS Code Examples"
+          "description": "Let's begin with a quick question: How did you land on this article and this site today?  Well, quite literally, by clicking or tapping on a link, right? That's how powerful this element is – it will get you to any part of the Internet just by clicking on a link.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-beginners/",
+          "publishedOn": "2021-08-16T23:33:49.000Z",
+          "wordCount": 1475,
+          "title": "What is a Hyperlink? HTML Links Explained with Examples"
         },
         {
-          "id": "6107c0203306a507d1bfc551",
+          "id": "611a2ac772231b077cdb0e58",
           "author": null,
-          "description": "In this day and age, it seems like everyone is learning to code. Maybe you want to know how websites work, or you think back fondly on the old blogging platforms where you could hack together some HTML to personalize them. Or maybe you are curious to learn what all",
-          "link": "https://www.freecodecamp.org/news/coding-websites-where-you-can-learn-how-to-code-for-free/",
-          "publishedOn": "2021-08-12T18:11:29.000Z",
-          "wordCount": 1627,
-          "title": "Coding Websites Where You Can Learn How to Code for Free"
+          "description": "If you're a JavaScript beginner, you might be struggling to understand what a promise really is.  I recently published this as a thread on Twitter and was blown away by the responses. So I decided to expand this into an introductory tutorial on JavaScript promises. I have read a lot",
+          "link": "https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/",
+          "publishedOn": "2021-08-16T22:56:20.000Z",
+          "wordCount": 1738,
+          "title": "What is a Promise? JavaScript Promises for Beginners"
         },
         {
-          "id": "610fefc23306a507d1c00896",
+          "id": "61167e3d72231b077cdafc14",
           "author": null,
-          "description": "Authentication is an important feature and basic requirement in web applications these days. And developers spend lots of time building authentication modules for every application they create.  But this manual approach can get tiring and is a bit unproductive. This is where Laravel really shines. It, along with Laravel Breeze,",
-          "link": "https://www.freecodecamp.org/news/basic-authentication-in-laravel8-using-laravel-breeze/",
-          "publishedOn": "2021-08-12T15:48:12.000Z",
-          "wordCount": 1088,
-          "title": "Laravel Authentication Tutorial – How to Set Up Basic Auth in Laravel 8"
+          "description": "There are many repetitive tasks that we have to do every day. And they can be a bit boring, difficult, and monotonous.  But instead of laboring away at those daily tasks, you can delegate them so someone or something else does them for you. That way, you can have more",
+          "link": "https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/",
+          "publishedOn": "2021-08-16T20:18:40.000Z",
+          "wordCount": 2038,
+          "title": "How to Use GitHub Actions to Automate Android App Development"
         },
         {
-          "id": "610e15c63306a507d1bffb45",
+          "id": "611772ea72231b077cdafd56",
           "author": null,
-          "description": "Flutter is a Dart-based toolkit that helps you build the front end of your apps. It really shines in cross-platform mobile app development and aims to be a viable option for web and desktop as well.  In its mobile app flavor, Flutter provides many UI abstractions to build interfaces. You",
-          "link": "https://www.freecodecamp.org/news/how-to-install-and-setup-flutter-on-ubuntu/",
-          "publishedOn": "2021-08-12T15:43:09.000Z",
-          "wordCount": 2173,
-          "title": "How to Install and Set Up Flutter on Ubuntu 16.04+"
+          "description": "Whenever you visit a website, you'll probably click on something like a link or button.  Links take you to a certain part of the page, another page of the website, or another website entirely. Buttons, on the other hand, are usually manipulated by JavaScript events so they can trigger certain",
+          "link": "https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/",
+          "publishedOn": "2021-08-16T17:58:05.000Z",
+          "wordCount": 2613,
+          "title": "HTML Button onclick – JavaScript Click Event Tutorial"
         },
         {
-          "id": "6112e3c972231b077cdad299",
+          "id": "6107bffb3306a507d1bfc543",
           "author": null,
-          "description": "Clean Architecture is a term coined by Robert C. Martin. The main idea is that entities and use cases are independent of frameworks, UI, the database, and external services. A Clean Architecture style has a positive effect on maintainability because: We can test domain entities and use cases without a",
-          "link": "https://www.freecodecamp.org/news/modern-clean-architecture/",
-          "publishedOn": "2021-08-12T15:28:31.000Z",
-          "wordCount": 2243,
-          "title": "How to Build Modern Clean Architecture"
+          "description": "If you are analysing data in Excel and need to set the value of a cell conditionally, you can use an IF statement to do so. The syntax is IF(logical_test, [value_if_true], [value_if_false]), where: logical_test is an expression that evaluates to TRUE or FALSE,",
+          "link": "https://www.freecodecamp.org/news/if-statement-excel-if-function-examples/",
+          "publishedOn": "2021-08-16T16:10:37.000Z",
+          "wordCount": 808,
+          "title": "IF Statement Excel – If Function Examples"
         },
         {
-          "id": "6113ee6272231b077cdadbd3",
+          "id": "6106498a3306a507d1bfbff1",
           "author": null,
-          "description": "Forms are one of the most important parts of the web. Without them, there wouldn't be an easy way to collect data, search for resources, or sign up to receive valuable information.  You can embed forms on websites with the HTML form element. Inside the form element, several inputs are",
-          "link": "https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/",
-          "publishedOn": "2021-08-12T15:17:38.000Z",
-          "wordCount": 1950,
-          "title": "HTML Form – Input Type and Submit Button Example"
+          "description": "You have just decided to learn how to code and you want to pursue a career in web development. But what exactly is web development? Where can you start learning? How much do web developers make? How do you get a job as a web developer? When I first started",
+          "link": "https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-career-path/",
+          "publishedOn": "2021-08-16T16:10:01.000Z",
+          "wordCount": 1538,
+          "title": "What is Web Development? How to Become a Web Developer [2021 Career Path]"
         },
         {
-          "id": "610aec303306a507d1bfdf07",
+          "id": "6114b68972231b077cdae2e6",
           "author": null,
-          "description": "FastAPI makes it quicker and easier to develop APIs with Python. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to use FastAPI.  Tomi Tokko developed this course. Tomi has made many popular courses both on his own channel and the freeCodeCamp",
-          "link": "https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/",
-          "publishedOn": "2021-08-12T13:07:37.000Z",
-          "wordCount": 8996,
-          "title": "FastAPI Course – Code APIs Quickly"
+          "description": "Node.js is one of the most popular back-end technologies out there right now. It is friendly, robust, and well-maintained and it's not going anywhere anytime soon.  To help you learn how to use it effectively, in this article we will create a simple server using Node with Babel configured",
+          "link": "https://www.freecodecamp.org/news/setup-babel-in-nodejs/",
+          "publishedOn": "2021-08-16T13:58:10.000Z",
+          "wordCount": 1038,
+          "title": "How to Setup Babel in Node.js"
         },
         {
-          "id": "61025c793306a507d1bfad64",
+          "id": "6040a6a7a7946308b768148c",
           "author": null,
-          "description": "I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core",
-          "link": "https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/",
-          "publishedOn": "2021-08-11T23:50:28.000Z",
-          "wordCount": 1356,
-          "title": "Binary Search Tree Algorithms for JavaScript Beginners"
+          "description": "Are you struggling to learn to code? If you are, I want to help. So I have collected some tips from my personal experience to guide you so that you won't struggle unnecessarily again.‌‌ Why is Learning to Code Hard?Learning to code can be very hard especially for beginners.",
+          "link": "https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/",
+          "publishedOn": "2021-08-16T13:58:01.000Z",
+          "wordCount": 2566,
+          "title": "Why Learning to Code is Hard – And How to Make it Easier"
         },
         {
-          "id": "610d4a303306a507d1bff2ea",
+          "id": "6114ce1f72231b077cdae411",
           "author": null,
-          "description": "One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/",
-          "publishedOn": "2021-08-11T23:31:34.000Z",
-          "wordCount": 1442,
-          "title": "How to Implement iOS-Specific Components and APIs"
+          "description": "Have you ever noticed the \"HTTP\" or \"HTTPS\" at the beginning of a URL in your browser? Well, what is HTTP and what is HTTPS? How are they different?  In order to understand the differences, it helps to demistify to meaning of these two terms and",
+          "link": "https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/",
+          "publishedOn": "2021-08-16T13:57:44.000Z",
+          "wordCount": 1813,
+          "title": "What is HTTPS? HTTP vs HTTPS Meaning and How it Works"
         }
       ]
     },
@@ -832,15 +846,6 @@
           "publishedOn": "2021-07-20T11:56:46.000Z",
           "wordCount": 451,
           "title": "How to: React Table with Double Click"
-        },
-        {
-          "id": "https://www.robinwieruch.de/react-conditional-hooks",
-          "author": null,
-          "description": "Is it possible to use conditional React Hooks in React components? Technically no. However, in this example I want to show you how to use a Hook ...",
-          "link": "https://www.robinwieruch.de/react-conditional-hooks",
-          "publishedOn": "2021-07-18T01:55:46.000Z",
-          "wordCount": 1078,
-          "title": "Conditional Hooks in React"
         }
       ]
     },
@@ -877,7 +882,7 @@
           "description": "Various techniques that let us define fully dynamic colors that adapt to the user’s selected color scheme, using either SwiftUI or UIKit.",
           "link": "https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift",
           "publishedOn": "2021-08-15T10:00:00.000Z",
-          "wordCount": 1428,
+          "wordCount": 1434,
           "title": "Defining dynamic colors in Swift"
         },
         {
@@ -886,7 +891,7 @@
           "description": "What Swift’s @unknown attribute does, and why the compiler tells us to use it when switching on certain enums.",
           "link": "https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement",
           "publishedOn": "2021-08-06T14:12:00.000Z",
-          "wordCount": 1063,
+          "wordCount": 1066,
           "title": "Using ‘@unknown default’ within switch statements"
         },
         {
@@ -904,7 +909,7 @@
           "description": "How Swift 5.5 enables computed properties to become either throwing or asynchronous, and what sort of situations that these new capabilities could become useful in.",
           "link": "https://www.swiftbysundell.com/articles/throwing-async-properties",
           "publishedOn": "2021-07-27T15:50:00.000Z",
-          "wordCount": 842,
+          "wordCount": 848,
           "title": "Throwing and asynchronous Swift properties"
         },
         {
@@ -913,7 +918,7 @@
           "description": "New in Swift 5.5: Property wrappers can now be applied directly to function arguments, just like how they can be used to add additional functionality to a property or local variable.",
           "link": "https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments",
           "publishedOn": "2021-07-23T11:30:00.000Z",
-          "wordCount": 499,
+          "wordCount": 502,
           "title": "Attaching property wrappers to function arguments"
         }
       ]
@@ -940,18 +945,27 @@
       "siteUrl": "https://yurilee.hashnode.dev",
       "articles": [
         {
+          "id": "https://yurilee.hashnode.dev/10-basic-mac-terminallinux-commands",
+          "author": "Yuri Lee",
+          "description": "Welcome to my blog, dude! 😆\n\nToday, we're going to take a look at some basic Mac Terminal/Linux commands in my experience. \nSo, don't roast me friends😅  I'm a n00b at this stuff, so I haven't used shit like cat, grep, pbcopy or pbpaste yet.\n\nWithout further ado, let's get fuckin started!!\n✨ Contents ✨\npwd\nls\nmkdir\ncd\ntouch\nrm\ncp\nmv\nman\nsudo\n1. pwd 🗺📍 \nYou can use the pwd command to find out your current location in the filesystem/name of the folder currently open in your terminal window. \nThe output of pwd will look something like this:\n\nAfter executing the pwd command, the terminal tells us that we're in the folder called Yuri inside of the folder Users at root.\n2. ls 📝 \nThe ls command is used to list all the folders/files under the location specified, or if not specified, under the …",
+          "link": "https://yurilee.hashnode.dev/10-basic-mac-terminallinux-commands",
+          "publishedOn": "2021-08-16T09:26:37.000Z",
+          "wordCount": 1182,
+          "title": "10 Basic Mac Terminal/Linux commands"
+        },
+        {
           "id": "https://yurilee.hashnode.dev/javascripts-freaking-arguments-object",
           "author": "Yuri Lee",
           "description": "Welcome to my blog post, yet again...🥲\nYou're probably here because you're confused about this arguments object shit. \nI don't blame you, this shit was confusing for me too😅 I spent like days  trying to understand it. \n\nBUT don't freak out!! My confusion is exactly why I'm writing a blog post. Easy version. For dummies like me to understand.\nSo don't worry, I got you 😆\n\nContents\n🔠 Vocabulary\n🤔 Wtf is arguments object?\n👀 When to use?\n📏 arguments and length property\n👆 Assign values with arguments\n🤓 strict mode\n😎 non-strict mode\n🔠 Vocabulary\n🚨 If you're familiar with function terms, you don't need to read this 🚨\nTerms you should know:\narguments (not the object) are values that are passed when you call your function. \nFor example, look at the code below:\nfunction example(a, b) {\n …",
           "link": "https://yurilee.hashnode.dev/javascripts-freaking-arguments-object",
           "publishedOn": "2021-07-30T12:01:34.000Z",
-          "wordCount": 1522,
+          "wordCount": 1524,
           "title": "JavaScript's freaking arguments object 😡"
         },
         {
           "id": "https://yurilee.hashnode.dev/css-units-are-confusing-af",
           "author": "Yuri Lee",
-          "description": "Welcome once again to my blog! \nIf you know anything about CSS, you probably know that CSS units are confusing AF...\nem?? rem??😰\nCan't we just use px?\nch????? What the HELL is this? 🤯\n\nToday we're going to briefly learn about CSS units, since they're so freaking confusing!\nIn this blog post, I'll do my best to briefly explain each unit, and its best usage.\nContents\npx   \n%\nem\nrem\nvw/vh\nch\n🐝 px (absolute) \nBest usage: small details, for example, border size or shadow\nAh....yes. Everyone's first CSS unit 😆\nWe're all guilty of using px for every single thing at the beginning of our learning journeys...💀\n\nHopefully, now we know that px is probably not the best unit to use.\nBut we'll go over it pretty quick, since it's still very common. \n🧐 What is px?\npx is an absolute unit that stands f…",
+          "description": "Welcome once again to my blog!\nIf you know anything about CSS, you probably know that CSS units are confusing AF...\nem?? rem??😰\nCan't we just use px?\nch????? What the HELL is this? 🤯\n\nToday we're going to briefly learn about CSS units, since they're so freaking confusing!\nIn this blog post, I'll do my best to briefly explain each unit, and its best usage.\nContents\npx   \n%\nem\nrem\nvw/vh\nch\n🐝 px (absolute) \nBest usage: small details, for example, border size or shadow\nAh....yes. Everyone's first CSS unit 😆\nWe're all guilty of using px for every single thing at the beginning of our learning journeys...💀\n\nHopefully, now we know that px is probably not the best unit to use.\nBut we'll go over it pretty quick, since it's still very common. \n🧐 What is px?\npx is an absolute unit that stands fo…",
           "link": "https://yurilee.hashnode.dev/css-units-are-confusing-af",
           "publishedOn": "2021-07-22T13:49:57.000Z",
           "wordCount": 1626,
@@ -991,6 +1005,15 @@
       "feedUrl": "https://blog.suhailkakar.com/rss.xml",
       "siteUrl": "https://blog.suhailkakar.com",
       "articles": [
+        {
+          "id": "https://blog.suhailkakar.com/stop-using-while-importing-components-instead-use-this-method",
+          "author": "Suhail Kakar",
+          "description": "Introduction 📚\nWhen you go to GitHub and see some other developers code, most of them are importing their components like this👇\nimport Button from \"../../../components/Buttons/Button\"\n\nThis is called relative import. Relative import will start with either ./,/ or ../.\nI am not telling that this is the wrong way and even there is no issue if you import like that, but if you have a very big and complex project, relative imports will look a lot messy similar to this. \nimport Button from \"../../../../../../components/Buttons/Button\"\n\nHowever, there is a very better and cleaner way to import these components. This method is called absolute import. An absolute import will look this like 👇\nimport Button from \"components/Buttons/Button\"\n\nAdding absolute imports to React Apps (CRA) 💡\nOpen your project in any code editor and create a new file in your project's root directory named jsconfig.json. Once you created the file paste the below JSON inside of it. \n{\n  \"compilerOptions\": {\n    \"baseUrl\": \"src\"\n  }\n}\n\nThis will instruct Webpack to use the src directory as a base one.\nConclusion ⌛\nI hope you found this short article helpful. If you need any help please let me know in the comment section. \nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
+          "link": "https://blog.suhailkakar.com/stop-using-while-importing-components-instead-use-this-method",
+          "publishedOn": "2021-08-16T04:42:00.000Z",
+          "wordCount": 395,
+          "title": "Stop Using ../../../ While Importing Components, Instead Use This Method"
+        },
         {
           "id": "https://blog.suhailkakar.com/how-i-increased-my-blogs-traffic-to-over-29000-page-views",
           "author": "Suhail Kakar",
@@ -1184,7 +1207,7 @@
           "description": "Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. \nIn this part, we will complete our simple chat app by building our front-end with React and Apollo Client. \nIf you haven't read the previous part, please read it here.\nStep 1: Create a React App\nTo recap, our project folder currently has a server folder in it. Let's create a client folder now for our React app.\nIn our client folder, we can create a new React app:\nnpx create-react-app my-app\n\nNow, your project folder should look something like this:\n\nStep 2: Install packages\nTo connect our React app to our GraphQL server, we need to install a few packages:\n@apollo/client:  to set up Apollo Client in our React app…",
           "link": "https://lo-victoria.com/graphql-for-beginners-build-real-time-chat-app-with-apollo-client-and-react",
           "publishedOn": "2021-08-13T14:04:03.000Z",
-          "wordCount": 1932,
+          "wordCount": 1935,
           "title": "GraphQL for Beginners: Build Real-Time Chat App with Apollo Client and React"
         },
         {
@@ -1193,7 +1216,7 @@
           "description": "Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. \nIn this part, we will start building a GraphQL server for a simple chat app with React and Apollo Client. \nSneak Peek:\n\nIf you haven't read the previous part, please read it here.\nSetting up GraphQL Server\nFirst, we need a GraphQL server to receive and send queries to our client.\nTo recap about GraphQL servers, feel free to read Part 2 of the series.\nStep 1: Initialize project\nMake sure you have Node.js installed on your machine. If not, install it here.\nThen, create a new project with the following commands in the terminal:\nmkdir project   // create project folder\nmkdir project/server    // create server folder…",
           "link": "https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server",
           "publishedOn": "2021-08-06T15:18:37.000Z",
-          "wordCount": 2044,
+          "wordCount": 2047,
           "title": "GraphQL for Beginners: Setting Up GraphQL Server"
         },
         {
@@ -1202,7 +1225,7 @@
           "description": "Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. At the end of this series, you will be able to build a simple chat app with GraphQL, React and Apollo.\nSneak Peek:\n\nIf you haven't read Part 1, please do so here.\nSubscriptions\nIn Part 1, we learnt about the 2 operations GraphQL supports: queries and mutations. The third type is known as subscriptions. \nSubscriptions are the operation used to push data from the server to the client on a specified event. Like queries, they fetch data and return it, but only when a certain change happens. Thus, subscriptions work by having an active connection to your GraphQL server (i.e. via WebSocket), where it will listen for a …",
           "link": "https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers",
           "publishedOn": "2021-07-30T14:26:46.000Z",
-          "wordCount": 1339,
+          "wordCount": 1342,
           "title": "GraphQL for Beginners: Subscriptions, Schemas and Servers"
         },
         {
@@ -1211,7 +1234,7 @@
           "description": "Welcome to GraphQL for Beginners! The primary goal of this series is to introduce the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. At the end of this series, you will have a simple chat app built with GraphQL, React and Apollo.\nSneak Peek:\n\nPrerequisites\nNo prior knowledge in GraphQL and Apollo needed\nAny code editor\nIntermediate-beginner experience with React, JavaScript\nFor Windows: Git and Git Bash installed\nOptional: Get GraphQL in VS Code extension for syntax highlighting\n\nClick on image to download the extension.\nIntroduction to GraphQL\nBefore we even start building the app, we need to learn the technologies we will be using. In particular, GraphQL.\nWhat is GraphQL?\nGraphQL is a query language for APIs. It was developed by Facebook…",
           "link": "https://lo-victoria.com/graphql-for-beginners-introduction",
           "publishedOn": "2021-07-23T14:00:15.000Z",
-          "wordCount": 1633,
+          "wordCount": 1636,
           "title": "GraphQL for Beginners: Introduction"
         }
       ]
