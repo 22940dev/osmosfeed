@@ -1,10 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T00:44:56.361Z</id>
+    <id>urn:2021-08-21T00:44:12.291Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T00:44:56.361Z</updated>
+    <updated>2021-08-21T00:44:12.291Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
+        <id>https://css-tricks.com/?p=350186</id>
+        <link href="https://css-tricks.com/disambiguating-tailwind/"/>
+        <updated>2021-08-20T19:59:47.000Z</updated>
+        <summary type="html"><![CDATA[I appreciated this bit of nuance from a post on Viget’s blog:
+There could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:
+1. Stock tailwind, ie. no changes to the 
+…
+The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
+        <id>611fd94c3bccf807612a4160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
+        <updated>2021-08-20T18:20:42.000Z</updated>
+        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
+        <id>611bf4f8e884de0752180979</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
+        <updated>2021-08-20T17:54:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
+        <id>611f9b083bccf807612a3df0</id>
+        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
+        <updated>2021-08-20T17:21:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using static protocol APIs to create conforming instances]]></title>
+        <id>https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances</id>
+        <link href="https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances"/>
+        <updated>2021-08-20T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[How we can now use Swift’s very convenient “dot syntax” to refer to protocol-conforming types, and how that improves some of SwiftUI’s styling APIs.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide To Set and Map in JavaScript]]></title>
+        <id>https://inshaweb.hashnode.dev/the-ultimate-guide-to-set-and-map-in-javascript</id>
+        <link href="https://inshaweb.hashnode.dev/the-ultimate-guide-to-set-and-map-in-javascript"/>
+        <updated>2021-08-20T15:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Hey there, JavaScript Developers👩‍💻
+In this article we'll dig deeper into the concepts of Set and Map. 
+What is a Set?
+A Set is a collection of unique values. That means the set can never have any duplicates and can hold any values of any data type. You can iterate through the elements of a set in insertion order.
+Okay, this sounds interesting. So the question is how to create a set?
+To create a set we write- new Set() and in the parentheses, we need to pass an iterable.
+const ordersSet= new Set(['Pasta','Pizza','Coffee','Pasta','Pizza']);
+
+console.log(ordersSet);  // {'Pasta', 'Pizza', 'Coffee'}
+
+Here in the above example, we see some duplicate set elements like Pasta and Pizza. When we log in to the console we get a set that has a size of 3. 
+You might think the elements were 5 before …]]></summary>
+        <author>
+            <name>Insha Ramin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Headless WordPress Site With Frontity]]></title>
+        <id>https://css-tricks.com/?p=346702</id>
+        <link href="https://css-tricks.com/creating-headless-wordpress-site-with-frontity/"/>
+        <updated>2021-08-20T14:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …
+The post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Beginner's Guide to Set Up Auth0 + React]]></title>
+        <id>https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react</id>
+        <link href="https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react"/>
+        <updated>2021-08-20T12:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, Hashnode's Auth0 hackathon is still ongoing. For those who have not used Auth0 before and just getting started on their hackathon projects to implement Auth0, here is a super quick step-by-step guide to set up and integrate it to a React app.
+Step 1: Sign Up For An Account
+Go to https://auth0.com/signup to create a free Auth0 account.
+
+Follow the sign-up steps. You can continue with the default tenant domain name and region they set for you, or customize it yourself.
+
+Tenant: represents the user domain that has access to the Auth0 application configurations, assets, connections, etc. The tenant domain name will be the URL used to access resources such as the Auth0 API.
+Step 2: Create an Application
+Now, you will be redirected to your Auth0 Dashboard. Let's start by clicking…]]></summary>
+        <author>
+            <name>Victoria Lo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack CMS: The Past, The Present and The Future]]></title>
+        <id>https://smashingmagazine.com/2021/08/history-future-jamstack-cms/</id>
+        <link href="https://smashingmagazine.com/2021/08/history-future-jamstack-cms/"/>
+        <updated>2021-08-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mike Neumegen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Google Like A Pro]]></title>
+        <id>https://blog.suhailkakar.com/how-to-use-google-like-a-pro</id>
+        <link href="https://blog.suhailkakar.com/how-to-use-google-like-a-pro"/>
+        <updated>2021-08-20T05:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Google is such a dominant force in the search engine industry that it is the default search engine for Android smartphones and web browsers such as Chrome. To put it frankly, Google has become one of the most widely utilized online resources for discovering everything from random facts and music videos to products and services.
+The sophisticated Google search methods and tips listed below can help you narrow your search results.
+1. Site:
+Using site: will search within a specific website. For example, if you want to find an article that is published only on Hackernoon, you can simply type 
+site:hackernoon.com article_keyword
+
+
+2. Asterisk *
+You can use * to fill missing words or phrases, like :
+How to integrate * in nodejs
+
+
+3. Quotation " "
+"" is used to search for words or phrases, like :
+"Why facebook created react"
+
+
+4. Related:
+You can use related: to sites that are similar to other sites, for example
+related:netflix.com
+
+
+5. link:
+Use link: to find a page that links to another page, like : 
+link:suhailkakar.com
+
+
+Conclusion ⌛
+I hope you found these tips helpful. If you need any help please let me know in the comment section. 
+Let's connect on  Twitter  and  LinkedIn  
+👋 Thanks for reading, See you next time]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning]]></title>
+        <id>611d56d3e884de07521810f9</id>
+        <link href="https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/"/>
+        <updated>2021-08-20T03:21:20.000Z</updated>
+        <summary type="html"><![CDATA[At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Font Style – How to Change Text Color and Size with an HTML Tag]]></title>
         <id>611e8bac3bccf807612a34df</id>
@@ -192,26 +356,6 @@ The post “We had 90% unused CSS because everybody was afraid to touch the old 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Site with Next.js and TailwindCSS]]></title>
-        <id>61135a3472231b077cdad609</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/"/>
-        <updated>2021-08-18T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Tips for Software Developers – How to Become a Better Tech Writer]]></title>
-        <id>610d63b33306a507d1bff79f</id>
-        <link href="https://www.freecodecamp.org/news/writing-tips-software-developers/"/>
-        <updated>2021-08-18T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby]]></title>
         <id>https://css-tricks.com/?p=346147</id>
         <link href="https://css-tricks.com/native-search-vs-jetpack-instant-search-in-headless-wordpress-with-gatsby/"/>
@@ -289,26 +433,6 @@ Developer Experience Engineering (e.g. building integrations
 The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change Screen Brightness on Windows 10 – Brightness Settings and How to Turn Brightness Down]]></title>
-        <id>611c1448e884de0752180af9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/"/>
-        <updated>2021-08-17T21:03:08.000Z</updated>
-        <summary type="html"><![CDATA[If your screen is too bright, it can give you eye problems – especially if you sit in front of a computer coding all day.  This is because a too-bright screen can cause eye strain and fatigue, which can lead to headaches and other maladies.  If you're a regular computer user,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code – Coding for Beginners and How to Learn Programming for Free]]></title>
-        <id>611b91d2e884de07521804a5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-coding-for-beginners-and-how-to-learn-programming-for-free/"/>
-        <updated>2021-08-17T18:06:09.000Z</updated>
-        <summary type="html"><![CDATA[These days, there are a lot resources out there for learning how to code. And many of them are readily available online for free – so choosing one can be overwhelming.  But there's definitely an upside: you don't need to attend a paid bootcamp or university anymore in order to learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -581,18 +705,6 @@ The post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Web Components in WordPress is Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=345687</id>
-        <link href="https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/"/>
-        <updated>2021-08-12T14:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Now that we’ve seen that web components and interactive web components are both easier than you think, let’s take a look at adding them to a content management system, namely WordPress.
-There are three major ways we can add them. …
-The post Using Web Components in WordPress is Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful Figma Plugins And Tools]]></title>
         <id>https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/</id>
         <link href="https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/"/>
@@ -600,19 +712,6 @@ The post Using Web Components in WordPress is Easier Than You Think appeared fir
         <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Janet John)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna see a whiter white?]]></title>
-        <id>https://css-tricks.com/?p=346388</id>
-        <link href="https://kidi.ng/wanna-see-a-whiter-white/"/>
-        <updated>2021-08-11T19:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Heck of a CSS trick here from Dongsung Kim. 
-There are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% 
-…
-The post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1061,7 +1160,7 @@ This is the free version of the React Native course provided by Maximilian Schwa
         <id>https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy</id>
         <link href="https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy"/>
         <updated>2021-08-02T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've covered in the past how to use the Adobe PDF Embed API with Eleventy ("Using PDFs with the Jamstack". While the Embed API is relatively simple to add to a page, I thought it would be kind of fun to build an Eleventy plugin to make it simpler. Last week, I released it: https://www.npmjs.com/package/eleventy-plugin-pdfembed.]]></summary>
+        <summary type="html"><![CDATA[I've covered in the past how to use the Adobe PDF Embed API with Eleventy ("Using PDFs with the Jamstack"). While the Embed API is relatively simple to add to a page, I thought it would be kind of fun to build an Eleventy plugin to make it simpler. Last week, I released it: https://www.npmjs.com/package/eleventy-plugin-pdfembed.]]></summary>
         <author>
             <name>Raymond Camden</name>
         </author>
@@ -1700,140 +1799,6 @@ But we'll go over it pretty quick, since it's still very common.
 px is an absolute unit that stands fo…]]></summary>
         <author>
             <name>Yuri Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
-        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
-        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
-        <updated>2021-07-22T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's why software engineers choose Linux over Windows for programming]]></title>
-        <id>https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming</id>
-        <link href="https://blog.suhailkakar.com/heres-why-software-engineers-choose-linux-over-windows-for-programming"/>
-        <updated>2021-07-22T03:24:08.000Z</updated>
-        <summary type="html"><![CDATA[I was a big fan of Windows OS, and have been using it for years because it is user-friendly, well-designed, and convenient. However, since I started programming I found that a Linux distro (such as Ubuntu, Manjaro, and Arch) is the best Operating System to start with.
-In this article, I am going to share, why I most of the software engineers choose Linux over Windows for programming
-Pre-installed Compilers
-The primary reason behind the popularity of Linux is the availability of compilers or interpreter. You don't have to download them yourself. On the other hand, Windows does not come with pre-installed compilers.
-Open Source
-Unlike Windows OS which is commercial, Linux is an open source software that is freely available to download. There are hundreds of Linux distributions available out of which almost five-hundred distro are in active development.
-Community Support
-All newcomers can find help on any of the Linux forums. If you are stuck somewhere in your development process or need help in your coding process, just Google it and you can find several Linux based helpful resources.
-Performance
-Linux is much powerful and versatile than Windows. It is light-weight OS, which makes it faster than Windows. You will notice a significant improvement in speed on a Linux distro when you start working it.
-Secure
-Linux is considered to be more secure than Windows. No antivirus is needed. Since it is open source, several developers are working on it and everyone can contribute code. It is likely that someone will find a vulnerability long before hackers can target a Linux distro. 
-Shell
-If Linux does not have what you need, you can still get all the functionalities that you need from the command line. Simply enter the command and it will atomically download and install the package. Which saves a lot of efforts.]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Websites to Learn Coding for Free in 2020]]></title>
-        <id>https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020</id>
-        <link href="https://blog.suhailkakar.com/top-5-websites-to-learn-coding-for-free-in-2020"/>
-        <updated>2021-07-21T16:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Learning to code has grown over the years from just a hobby to a career. Today, you can learn coding online, entirely for free. Gone are the days where knowing a programming language was reserved for the select few or cost quite a hefty amount of money.
-Even if you have no desire to go into the development field, learning a programming language can be very beneficial:
-It’ll help you better manage websites
-It’ll reduce reliance on an outside developer for your own projects
-It’ll give you the freedom to build apps, websites, and other projects with ease
-Whether you want to start your own career as a programmer, learn how to build websites, or create projects for fun, this post is for you. Here are some of the Websites to Learn Coding for Free
-5. Plural Sight
-
-Plural Sight, formally known as …]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐️ Tech Trivia Time ⭐️ 
-🔥 Day 2 🔥]]></title>
-        <id>https://yurilee.hashnode.dev/tech-trivia-time-day-2</id>
-        <link href="https://yurilee.hashnode.dev/tech-trivia-time-day-2"/>
-        <updated>2021-07-21T13:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to ⭐️ Tech Trivia Time ⭐️
-
-These are programming trivia questions I've hosted on Twitter every day. You don’t have to code at all, they're just little warm-up exercises to stimulate y'all brains 🤓 🧠
-The reason I'm doing this on Twitter is not to start fights in the comments, but so that other developers (including me) can learn from each others' answers and logic! 
-It's a great way to help others and to contribute to the community, while still learning!
-The idea here is to help each other better understand, and maybe to learn a new thing every day. This is not a competition to see who is the smartest!
-BE NICE!
-Contents
-Tech Trivia question
-Answer/explanation
-🔥 Day 2 🔥
-Hope y'all ready.🔥
-What will console output below? 
-for (i = 0; i < 5; i++) {
-    console.log(i);
-}
-
-console.l…]]></summary>
-        <author>
-            <name>Yuri Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐️ Tech Trivia Time⭐️ 
-🔥 Day 1 🔥]]></title>
-        <id>https://yurilee.hashnode.dev/tech-trivia-time-day-1</id>
-        <link href="https://yurilee.hashnode.dev/tech-trivia-time-day-1"/>
-        <updated>2021-07-21T13:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to ⭐️ Tech Trivia Time ⭐️
-
-These are programming trivia questions I've hosted on Twitter every day. You don’t have to code at all, they're just little warm-up exercises to stimulate y'all brains 🤓 🧠
-The reason I'm doing this on Twitter is not to start fights in the comments, but so that other developers (including me) can learn from each others' answers and logic! 
-It's a great way to help others and to contribute to the community, while still learning!
-The idea here is to help each other better understand, and maybe to learn a new thing every day. This is not a competition to see who is the smartest!
-BE NICE!
-Contents
-Tech Trivia question
-Answer/explanation
-🔥 Day 1 🔥
-This is the first TTT we're having so it'll be a simple one🔥
-What will console output below? 
-let sum = function(a, b) {
-    console.log(a + b);
-}
-
-console.log(sum(3, 2));
-
-
-🚨🚨🚨 ANSWER BELOW 🚨🚨🚨
-The code will return the number 5 and undefined. This is because the code didn't explicitly return any value! 
-It first logs (a + b), then it calls the function, which will return undefined:
-let sum = function(a, b) {
-    console.log(a + b);
-    //no return;
-} 
-
-console.log(sum(3, 2)); //returns 5 and undefined
-
-
-Hey, you!
-I write content about my programming learning journey, share resources, and do tutorial threads!
-Feel free to give me some feedback! 
-Find me on Twitter!]]></summary>
-        <author>
-            <name>Yuri Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
-        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
-        <updated>2021-07-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
