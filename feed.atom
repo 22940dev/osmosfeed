@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T00:44:12.291Z</id>
+    <id>urn:2021-08-22T00:44:20.615Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T00:44:12.291Z</updated>
+    <updated>2021-08-22T00:44:20.615Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use Go with MongoDB]]></title>
+        <id>https://freshman.tech/mongodb-golang/</id>
+        <link href="https://freshman.tech/mongodb-golang/"/>
+        <updated>2021-08-21T12:53:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published on the DigitalOcean Blog on April 8, 2020. Some minor details have been changed to bring it up to date.
+After relying on community developed solutions for many years, MongoDB announced that they were working on an official driver for Go. In March 2019, this new driver reached a production-ready status with the release of v1.0.0 and has been updated continually since then.]]></summary>
+        <author>
+            <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
         <id>https://css-tricks.com/?p=350186</id>
@@ -1710,95 +1721,6 @@ What is GraphQL?
 GraphQL is a query language for APIs. It was developed by Facebook…]]></summary>
         <author>
             <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attaching property wrappers to function arguments]]></title>
-        <id>https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments</id>
-        <link href="https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments"/>
-        <updated>2021-07-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[New in Swift 5.5: Property wrappers can now be applied directly to function arguments, just like how they can be used to add additional functionality to a property or local variable.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
-        <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
-        <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
-        <updated>2021-07-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEVONthink and Obsidian – The Perfect Pair of Tools for Note-Taking]]></title>
-        <id>https://www.stefanimhoff.de/devonthink-obsidian-for-note-taking/</id>
-        <link href="https://www.stefanimhoff.de/devonthink-obsidian-for-note-taking/"/>
-        <updated>2021-07-23T07:08:49.000Z</updated>
-        <summary type="html"><![CDATA[With the release of the mobile versions of Obsidian last week, my note-taking workflow got even more comfortable.
-The mobile versions are fantastic. They support all plugins of the Desktop version, even community plugins.
-A few of the plugins do make not a lot of sense, though (like Sliding Panes on a mobile phone) and I hope a future version brings the option to turn off specific extensions just on mobile.
-The mobile version has mobile-only settings, to customize the toolbar and quick action.
-
-Synchronization
-To sync between Desktop and mobile devices the Obsidian vaults have to be moved in an iCloud system folder.
-The synchronization is super fast (I assume thanks to Apple CloudKit). It takes 2-3 seconds to see a change reflected live on another device.
-
-My Updated Setup
-I moved my Obsid…]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 Useful JavaScript Tips That'll Help You Save Time]]></title>
-        <id>https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time</id>
-        <link href="https://blog.suhailkakar.com/21-useful-javascript-tips-thatll-help-you-save-time"/>
-        <updated>2021-07-23T04:26:50.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.
-While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used. Many developers believe that JavaScript is inefficient and finicky, so they have made many improvements to the language over the years.
-Here are the 21 JavaScript tricks that makes you a JavaScript pro
-Use logical AND / OR for conditions
-var xyz = 23;  
-xyz == 10 && runFunction(); // is the same thing as if (xyz == 23) runFunction(); 
-xyz == 5 || runFunction(); // is the same thing as if (xyz != …]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS units are confusing AF 😖]]></title>
-        <id>https://yurilee.hashnode.dev/css-units-are-confusing-af</id>
-        <link href="https://yurilee.hashnode.dev/css-units-are-confusing-af"/>
-        <updated>2021-07-22T13:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Welcome once again to my blog!
-If you know anything about CSS, you probably know that CSS units are confusing AF...
-em?? rem??😰
-Can't we just use px?
-ch????? What the HELL is this? 🤯
-
-Today we're going to briefly learn about CSS units, since they're so freaking confusing!
-In this blog post, I'll do my best to briefly explain each unit, and its best usage.
-Contents
-px   
-%
-em
-rem
-vw/vh
-ch
-🐝 px (absolute) 
-Best usage: small details, for example, border size or shadow
-Ah....yes. Everyone's first CSS unit 😆
-We're all guilty of using px for every single thing at the beginning of our learning journeys...💀
-
-Hopefully, now we know that px is probably not the best unit to use.
-But we'll go over it pretty quick, since it's still very common. 
-🧐 What is px?
-px is an absolute unit that stands fo…]]></summary>
-        <author>
-            <name>Yuri Lee</name>
         </author>
     </entry>
 </feed>
