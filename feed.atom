@@ -1,10 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T00:42:54.708Z</id>
+    <id>urn:2021-08-27T00:49:44.606Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T00:42:54.708Z</updated>
+    <updated>2021-08-27T00:49:44.606Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
+        <id>612203fb3bccf807612a5756</id>
+        <link href="https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/"/>
+        <updated>2021-08-26T23:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered if there is a method to delay your JavaScript code by a few seconds?  In this article, I will explain what the setTimeout() method is with code examples and how it differs from setInterval().  What is setTimeout() in JavaScript?setTimeout() is a method that will execute]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing for the Unexpected]]></title>
+        <id>https://css-tricks.com/?p=350573</id>
+        <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
+        <updated>2021-08-26T23:07:31.000Z</updated>
+        <summary type="html"><![CDATA[When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …
+The post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Font – CSS Font Family Example (Serif and Sans Serif Characters)]]></title>
+        <id>6117b37a72231b077cdafea8</id>
+        <link href="https://www.freecodecamp.org/news/html-font-css-font-family-example-serif-and-sans-serif-characters/"/>
+        <updated>2021-08-26T22:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right font is an important first step in making your website usable and accessible.  How text is formatted affects how readable your designs and webpages are.  You can modify how your HTML text appears in many ways using CSS. You can select the type of font you want]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Left Join – Example Join Statement Syntax]]></title>
+        <id>6107c0083306a507d1bfc549</id>
+        <link href="https://www.freecodecamp.org/news/sql-left-join-example-join-statement-syntax/"/>
+        <updated>2021-08-26T20:29:12.000Z</updated>
+        <summary type="html"><![CDATA[In a Relational Database, tables are often related to each other in a way that allows their information to only be written once in the whole database. Then, when you need to analyze the data, you'll need to combine the info from those related tables. To do this in SQL,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently III]]></title>
+        <id>https://css-tricks.com/?p=350298</id>
+        <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iii/"/>
+        <updated>2021-08-26T19:35:21.000Z</updated>
+        <summary type="html"><![CDATA[The perfect link — Rian Rietveld defines them: “When you click on them, they take you somewhere else.” Not much code in here (we’ve got that), just a lot of practical accessibility advice. For example, the alt text 
+…
+The post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-08-26T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Would you like to talk to a chatbot that speaks like your favorite character, fictional or non-fictional? Let's build one!  In case you've seen my previous tutorial on this topic, stick with me as this version features lots of updates. You can follow along with this tutorial using the code]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Delete Branch – How to Remove a Local or Remote Branch]]></title>
+        <id>6125f93b3bccf807612a7b84</id>
+        <link href="https://www.freecodecamp.org/news/git-delete-branch-how-to-remove-a-local-or-remote-branch/"/>
+        <updated>2021-08-26T17:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Git is a popular version control system and an essential tool in a web developer's toolkit.  Branches are a powerful and integral part of working with Git.  In this article, you will learn the basics about how to remove local and remote branches in Git.  What are Branches in Git?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript in Spanish – Full Course for Beginners]]></title>
+        <id>612439163bccf807612a6e69</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-in-spanish-full-course-for-beginners/"/>
+        <updated>2021-08-26T16:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Welcome! If you speak Spanish and you want you learn JavaScript, you're in the right place. freeCodeCamp just published a free 9-hour JavaScript course for beginners. You will learn everything you need to know to get started with JavaScript, a key programming language for web development and many other applications.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Splash Screen to Your Flutter App]]></title>
+        <id>611f3dde3bccf807612a37c3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-a-splash-screen-in-flutter-app/"/>
+        <updated>2021-08-26T16:30:17.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we're going to learn how to integrate a splash screen in a Flutter app. But first, why is having a splash screen in your app essential? What is a Splash Screen?A splash screen is an initial screen that gets displayed right when the user launches the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.filter() Tutorial – How to Iterate Through Elements in an Array]]></title>
+        <id>6123a7673bccf807612a64bf</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/"/>
+        <updated>2021-08-26T16:07:48.000Z</updated>
+        <summary type="html"><![CDATA[The Array.filter() method is arguably the most important and widely used method for iterating over an array in JavaScript. The way the filter() method works is very simple. It entails filtering out one or more items (a subset) from a larger collection of items (a superset) based on some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design for Safety, An Excerpt]]></title>
+        <id>https://alistapart.com/article/design-for-safety-excerpt/</id>
+        <link href="https://alistapart.com/article/design-for-safety-excerpt/"/>
+        <updated>2021-08-26T15:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.
+This chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)
+The process for inclusive safety
+When you are designing for …]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made a Generator for SVG Loaders With Sass and SMIL Options]]></title>
+        <id>https://css-tricks.com/?p=350223</id>
+        <link href="https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/"/>
+        <updated>2021-08-26T14:35:03.000Z</updated>
+        <summary type="html"><![CDATA[While learning Vue.js, I started building free web tools that involved the exploration of SVG, with the goal of learning something about both! Let’s take a look at one of those tools: a generator that makes SVG loaders and …
+The post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make a Discord Chat Bot That Talks Like Rick Sanchez]]></title>
+        <id>61279c123bccf807612a8bda</id>
+        <link href="https://www.freecodecamp.org/news/make-a-discord-bot-that-talks-like-rick-sanchez/"/>
+        <updated>2021-08-26T13:59:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use artificial intelligence to make a Discord chat bot talk like your favorite character. It could be a Rick and Morty character, Harry Potter, Peppa Pig, or someone else. We just released a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async sequences, streams, and Combine]]></title>
+        <id>https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine</id>
+        <link href="https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine"/>
+        <updated>2021-08-26T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[How Swift’s AsyncSequence and AsyncStream APIs can be used to build asynchronous sequences, and how they relate to Apple’s Combine framework.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pushing Back Against Privacy Infringement On The Web]]></title>
+        <id>https://smashingmagazine.com/2021/08/against-privacy-infringement-web/</id>
+        <link href="https://smashingmagazine.com/2021/08/against-privacy-infringement-web/"/>
+        <updated>2021-08-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Berjon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hallmark Of The Totalitarian]]></title>
+        <id>https://www.stefanimhoff.de/quotes/hallmark-of-the-totalitarian/</id>
+        <link href="https://www.stefanimhoff.de/quotes/hallmark-of-the-totalitarian/"/>
+        <updated>2021-08-26T07:09:53.000Z</updated>
+        <summary type="html"><![CDATA[The hallmark of the totalitarian is his insistence that his is the only right way.
+Dr. Joost A. M. Meerloo, The Rape of the Mind: The Psychology of Thought Control, Menticide, and Brainwashing]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hallmark Of The Totalitarian]]></title>
+        <id>https://www.stefanimhoff.de/quotes/hallmark-of-the-totalitarian/</id>
+        <link href="https://www.stefanimhoff.de/quotes/hallmark-of-the-totalitarian/"/>
+        <updated>2021-08-26T07:09:53.000Z</updated>
+        <summary type="html"><![CDATA[The hallmark of the totalitarian is his insistence that his is the only right way.
+Dr. Joost A. M. Meerloo, The Rape of the Mind: The Psychology of Thought Control, Menticide, and Brainwashing]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
         <id>https://css-tricks.com/?p=350311</id>
@@ -26,46 +205,6 @@ The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You c
         <link href="https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/"/>
         <updated>2021-08-25T21:39:37.000Z</updated>
         <summary type="html"><![CDATA[In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a JSON File? Example JavaScript Code]]></title>
-        <id>612633433bccf807612a7bf4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/"/>
-        <updated>2021-08-25T20:04:19.000Z</updated>
-        <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Raspberry Pi? Specs and Models (2021 Guide)]]></title>
-        <id>611e7d553bccf807612a33ec</id>
-        <link href="https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/"/>
-        <updated>2021-08-25T16:17:20.000Z</updated>
-        <summary type="html"><![CDATA[IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is JavaScript? JavaScript Code Explained in Plain English]]></title>
-        <id>61064a8d3306a507d1bfbff9</id>
-        <link href="https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/"/>
-        <updated>2021-08-25T15:44:41.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript was created over 26 years ago and is currently one of the most popular programming languages. But what is JavaScript?  JavaScript is used with HTML and CSS to create dynamic and interactive web pages and mobile applications. We often call it one of the building blocks of web development.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨]]></title>
-        <id>6063b8f89618b008528a9d7d</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/"/>
-        <updated>2021-08-25T15:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS units EM, REM, VW and VH by working through some practical examples. We'll also see how to make responsive websites with these units.  Let's start. 💖 Table of ContentsWhy learn relative units?What are REM Units?How to make responsive websites with]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -109,36 +248,6 @@ This will generate a simple package.json and now we need to install s…]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an Outlier? Definition and How to Find Outliers in Statistics]]></title>
-        <id>611f54d33bccf807612a38c4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-outlier-definition-and-how-to-find-outliers-in-statistics/"/>
-        <updated>2021-08-24T20:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Outliers are an important part of a dataset. They can hold useful information about your data.  Outliers can give helpful insights into the data you're studying, and they can have an effect on statistical results. This can potentially help you disover inconsistencies and detect any errors in your statistical processes.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Block Unwanted Content From Web Pages Using uBlock Origin]]></title>
-        <id>6114599172231b077cdae0ec</id>
-        <link href="https://www.freecodecamp.org/news/how-to-block-content-from-web-pages-using-ublock-origin/"/>
-        <updated>2021-08-24T19:39:53.000Z</updated>
-        <summary type="html"><![CDATA[You can use extensions in your browser to remove parts of a webpage you don't want to see. Removing annoyances, distractions, and irrelevant content is a great way to stay focused and remain efficient while you consume information on the internet. There are many extensions that add this functionality to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Monitor Machine Learning Projects on Your Mobile Device📱]]></title>
-        <id>611255c472231b077cdac90c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-monitor-ml-projects-on-mobile-devices/"/>
-        <updated>2021-08-24T19:20:03.000Z</updated>
-        <summary type="html"><![CDATA[What if you could monitor your Colab, Kaggle, or AzureML Machine Learning projects on your mobile phone? You'd be able to check in on your models on the fly – even while taking a walk🚶.  If you are an ML developer, you know how training models can easily take a long]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrollbar Reflowing]]></title>
         <id>https://css-tricks.com/?p=350486</id>
         <link href="https://css-tricks.com/scrollbar-reflowing/"/>
@@ -161,26 +270,6 @@ Join us for a special event where we’ll highlight business
 The post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Function Examples – How to Declare and Invoke with Parameters]]></title>
-        <id>6120b2f13bccf807612a4826</id>
-        <link href="https://www.freecodecamp.org/news/python-function-examples-how-to-declare-and-invoke-with-parameters-2/"/>
-        <updated>2021-08-24T19:04:21.000Z</updated>
-        <summary type="html"><![CDATA[Python has a bunch of helpful built-in functions you can use to do all sorts of stuff. And each one performs a specific task.  But did you know that Python also allows you to define your own functions?  This article will show you how to create and call your own]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sacrificial Architecture – How to Make Tough Decisions to Abandon and Rebuild Systems]]></title>
-        <id>60cf7e594dc1a607ed7b5de0</id>
-        <link href="https://www.freecodecamp.org/news/sacrificial-architecture-make-tough-decisions-to-abandon-and-rebuild-systems/"/>
-        <updated>2021-08-24T19:02:30.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with an application, sometimes it no longer makes sense to try to continue and improve what already exists. Instead, you need to rethink, restructure, and rebuild.  Making the decision to give up all the work you and others have put into the existing system is a difficult]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -544,30 +633,6 @@ Pattern/component libra…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“We had 90% unused CSS because everybody was afraid to touch the old stuff”]]></title>
-        <id>https://css-tricks.com/?p=348288</id>
-        <link href="https://css-tricks.com/we-had-90-unused-css-because-everybody-was-afraid-to-touch-the-old-stuff/"/>
-        <updated>2021-08-18T22:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Over at the JS Party podcast:
-[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And now 
-…
-The post “We had 90% unused CSS because everybody was afraid to touch the old stuff” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby]]></title>
-        <id>https://css-tricks.com/?p=346147</id>
-        <link href="https://css-tricks.com/native-search-vs-jetpack-instant-search-in-headless-wordpress-with-gatsby/"/>
-        <updated>2021-08-18T14:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Have you already tried using WordPress headlessly with Gatsby? If you haven’t, you might check this article around the new Gatsby source plugin for WordPress; gatsby-source-wordpress is the official source plugin introduced in March 2021 as a part of the …
-The post Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Paulina Hetman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating An Interactive Gantt Chart Component With Vanilla JavaScript]]></title>
         <id>https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/</id>
         <link href="https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/"/>
@@ -620,20 +685,6 @@ Let's connect on  Twitter  and  LinkedIn
 👋 Thanks for reading, See you next time]]></summary>
         <author>
             <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DX, to Whom?]]></title>
-        <id>https://css-tricks.com/?p=346697</id>
-        <link href="https://css-tricks.com/dx-to-whom/"/>
-        <updated>2021-08-17T21:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Dave points to Sarah’s post on Developer Experience (DX) at Netlify. Part of what Sarah did there is lay out what the role means. It’s a three-part thing:
-Integrations Engineering (e.g. features)
-Developer Experience Engineering (e.g. building integrations 
-…
-The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1539,53 +1590,6 @@ There is support for ES3, ES4, ES5 and ES6
 No support for compiling additio…]]></summary>
         <author>
             <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
-        <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
-        <updated>2021-07-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Design Resources for Developers]]></title>
-        <id>https://blog.suhailkakar.com/best-design-resources-for-developers</id>
-        <link href="https://blog.suhailkakar.com/best-design-resources-for-developers"/>
-        <updated>2021-07-28T03:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Are you searching for the best design resources? This is a collection that every developer should bookmark since it contains the greatest resources for creating an eye-catching and aesthetically enhanced project.
-Introduction
-Every developer's job entails some kind of product design. It's not just about having a good appearance; it's also about having engaging visuals and a good overall presentation. Rather of spending time and money on a lengthy design process, it is preferable to leverage resources that offer ready-to-use components and features for a fantastic, amazing, and outstanding product.
-Table of Contents
-UI Graphics
-Fonts
-Colors
-Icons
-Logos
-Favicons
-Icon Fonts
-Stock Photos
-Stock Videos
-Stock Music & Sound Effects
-Vectors & Clipart
-Product & Image Mockups
-HTML & CSS Templates
-CSS…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Throwing and asynchronous Swift properties]]></title>
-        <id>https://www.swiftbysundell.com/articles/throwing-async-properties</id>
-        <link href="https://www.swiftbysundell.com/articles/throwing-async-properties"/>
-        <updated>2021-07-27T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[How Swift 5.5 enables computed properties to become either throwing or asynchronous, and what sort of situations that these new capabilities could become useful in.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
         </author>
     </entry>
 </feed>
