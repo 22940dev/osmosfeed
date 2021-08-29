@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T00:43:00.217Z</id>
+    <id>urn:2021-08-29T00:48:24.633Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T00:43:00.217Z</updated>
+    <updated>2021-08-29T00:48:24.634Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1533,102 +1533,6 @@ In Part 1, we learnt about the 2 operations GraphQL supports: queries and mutati
 Subscriptions are the operation used to push data from the server to the client on a specified event. Like queries, they fetch data and return it, but only when a certain change happens. Thus, subscriptions work by having an active connection to your GraphQL server (i.e. via WebSocket), where it will listen for a …]]></summary>
         <author>
             <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript's freaking arguments object 😡]]></title>
-        <id>https://yurilee.hashnode.dev/javascripts-freaking-arguments-object</id>
-        <link href="https://yurilee.hashnode.dev/javascripts-freaking-arguments-object"/>
-        <updated>2021-07-30T12:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to my blog post, yet again...🥲
-You're probably here because you're confused about this arguments object shit. 
-I don't blame you, this shit was confusing for me too😅 I spent like days  trying to understand it. 
-
-BUT don't freak out!! My confusion is exactly why I'm writing a blog post. Easy version. For dummies like me to understand.
-So don't worry, I got you 😆
-
-Contents
-🔠 Vocabulary
-🤔 Wtf is arguments object?
-👀 When to use?
-📏 arguments and length property
-👆 Assign values with arguments
-🤓 strict mode
-😎 non-strict mode
-🔠 Vocabulary
-🚨 If you're familiar with function terms, you don't need to read this 🚨
-Terms you should know:
-arguments (not the object) are values that are passed when you call your function. 
-For example, look at the code below:
-function example(a, b) {
- …]]></summary>
-        <author>
-            <name>Yuri Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
-        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
-        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
-        <updated>2021-07-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Tomorrow - A New Look for Your Code Editor]]></title>
-        <id>https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor</id>
-        <link href="https://blog.suhailkakar.com/introducing-tomorrow-a-new-look-for-your-code-editor"/>
-        <updated>2021-07-30T07:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Visual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year. 
-A week ago I have created my own theme (  Tomorrow  ), This theme was inspired by One Dark Pro and Material Theme. 
-
-Installation
-Open  Extensions sidebar panel in VS Code.  View → Extensions
-Search for  Tomorrow  - find the one by  Suhail Kakar
-Click  Install  to install it.
-Code > Preferences > Color Theme >  Tomorrow
-Recommended Settings
-If you want to give the same look as the above picture for your Code Editor you need to paste the below code into your VS Code Settings JSON
-{
-  "editor.fontSize": 17,
-  "editor.fontWeight": "500",
-  "editor.fontLigatures": true,
-  "editor.lineHeigh…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Open-Source: How To Contribute As A Beginner]]></title>
-        <id>https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner</id>
-        <link href="https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner"/>
-        <updated>2021-07-29T14:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Contributing to open-source is a great way to improve your programming skills, help others and learn how to work in a collaborative environment.
-However, many people are put off by the complexity of the projects. They also think that contributing to open-source is all about coding.
-But that is not true! You can contribute to open source projects in other ways, such as:
-Writing documentation
-Creating supporting materials
-Reviewing code
-Translating to other languages
-Structure and re-structure the code and project structure
-Thus, in this article, you will learn how to make your first open-source contributions with the help of Hashnode documentation. Hashnode is a blogging platform that open-sourced their documentation, which is a great place to start your open-source journey.
-About Open Sour…]]></summary>
-        <author>
-            <name>Catalin Pit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voice Content and Usability]]></title>
-        <id>https://alistapart.com/article/voice-content-and-usability/</id>
-        <link href="https://alistapart.com/article/voice-content-and-usability/"/>
-        <updated>2021-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.
-Computers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…]]></summary>
-        <author>
-            <name>by</name>
         </author>
     </entry>
 </feed>
