@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T00:48:24.633Z</id>
+    <id>urn:2021-08-30T00:45:09.720Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T00:48:24.634Z</updated>
+    <updated>2021-08-30T00:45:09.720Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Trending projects on GitHub for JavaScript developers]]></title>
+        <id>https://blog.suhailkakar.com/7-trending-projects-on-github-for-javascript-developers</id>
+        <link href="https://blog.suhailkakar.com/7-trending-projects-on-github-for-javascript-developers"/>
+        <updated>2021-08-29T06:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Web Development for Beginners - A Curriculum
+Azure Cloud Advocates at Microsoft are created a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre-and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment, and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+Link: https://github.com/microsoft/Web-Dev-For-Beginners
+
+Three JS - JavaScript 3D library
+The aim of the project is to create an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current build only includes a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available in the examples.
+Link: https://github.com/mrdoob/three.js
+
+D3 JS - Bring data t…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My tiny side project has had more impact than my decade in the software industry]]></title>
         <id>https://css-tricks.com/?p=350782</id>
@@ -1465,74 +1483,6 @@ This inclusive, remote-friendly conference will take place for the first time th
         <summary type="html"><![CDATA[How to create a React Tree, a React Tree View, or a React Tree List by using React Table Library ...]]></summary>
         <author>
             <name>RWieruch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewriting the GNU Coreutils in Rust]]></title>
-        <id>https://freshman.tech/rust-coreutils/</id>
-        <link href="https://freshman.tech/rust-coreutils/"/>
-        <updated>2021-07-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article was originally published on LWN.net on June 8, 2021.
-As movement toward memory-safe languages, and Rust in particular, continues to grow, it is worth looking at one of the larger scale efforts to port C code that has existed for decades to Rust. The uutils project aims to rewrite all of the individual utilities included in the GNU Coreutils project in Rust. Originally created by Jordi Boggiano in 2013, the project aims to provide drop-in replacements for the Coreutils programs, adding the data-race protection and memory safety that Rust provides.]]></summary>
-        <author>
-            <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
-        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
-        <updated>2021-07-31T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Create A Youtube Clone Using React Native  - Part 1]]></title>
-        <id>https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1</id>
-        <link href="https://blog.suhailkakar.com/lets-create-a-youtube-clone-using-react-native-part-1"/>
-        <updated>2021-07-31T04:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-YouTube is a free video-sharing website that makes watching video clips easy. You may even make your own videos and post them to enjoy with others. YouTube, which was founded in 2005, is currently one of the most popular apps on the Internet, with over 6 billion hours of video watched each month.
-React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android. It’s based on React, Facebook’s JavaScript library for building user interfaces, but instead of targeting the browser, it targets mobile platforms. 
-Table of Contents
-In this part (1) we are going to 
-Download and Install Node JS
-Install Expo CLI
-Initialize our app with React Native Expo
-Change Folder Structure
-Create a bottom Tab navigation
-Installing Node JS
-Node.js i…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Page Level URL Fetching with Eleventy]]></title>
-        <id>https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy</id>
-        <link href="https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy"/>
-        <updated>2021-07-30T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let me begin by being very clear. This is not a very good idea. I just got back from a much delayed honeymoon with my wife (apparently right before the mask mandates all come crashing back) and haven't written code for a while so perhaps I was a bit desperate to create something useless. That being said, working on this did let me kick the tires a bit on a few Eleventy things and that's always a good idea.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL for Beginners: Subscriptions, Schemas and Servers]]></title>
-        <id>https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers</id>
-        <link href="https://lo-victoria.com/graphql-for-beginners-subscriptions-schemas-and-servers"/>
-        <updated>2021-07-30T14:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. At the end of this series, you will be able to build a simple chat app with GraphQL, React and Apollo.
-Sneak Peek:
-
-If you haven't read Part 1, please do so here.
-Subscriptions
-In Part 1, we learnt about the 2 operations GraphQL supports: queries and mutations. The third type is known as subscriptions. 
-Subscriptions are the operation used to push data from the server to the client on a specified event. Like queries, they fetch data and return it, but only when a certain change happens. Thus, subscriptions work by having an active connection to your GraphQL server (i.e. via WebSocket), where it will listen for a …]]></summary>
-        <author>
-            <name>Victoria Lo</name>
         </author>
     </entry>
 </feed>
