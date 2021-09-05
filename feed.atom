@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T00:47:08.682Z</id>
+    <id>urn:2021-09-05T00:49:47.823Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T00:47:08.682Z</updated>
+    <updated>2021-09-05T00:49:47.823Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://css-tricks.com/?p=350649</id>
         <link href="https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"/>
         <updated>2021-09-03T22:16:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherit isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
+        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherent isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
 The post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -1414,38 +1414,6 @@ mkdir project/server    // create server folder…]]></summary>
         <summary type="html"><![CDATA[What Swift’s @unknown attribute does, and why the compiler tells us to use it when switching on certain enums.]]></summary>
         <author>
             <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
-        <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
-        <updated>2021-08-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustainable Web Design, An Excerpt]]></title>
-        <id>https://alistapart.com/article/sustainable-web-design-excerpt/</id>
-        <link href="https://alistapart.com/article/sustainable-web-design-excerpt/"/>
-        <updated>2021-08-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. 
-But on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. 
-This shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…]]></summary>
-        <author>
-            <name>by</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Disabled Buttons]]></title>
-        <id>https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/</id>
-        <link href="https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/"/>
-        <updated>2021-08-05T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
