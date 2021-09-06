@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T00:49:47.823Z</id>
+    <id>urn:2021-09-06T00:51:41.011Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T00:49:47.823Z</updated>
+    <updated>2021-09-06T00:51:41.011Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1342,78 +1342,6 @@ Does it follow that I reject all authority? Far from me such a thought. In the m
         <summary type="html"><![CDATA[How to use conditional classnames in React with JSX and the HTML class attribute ...]]></summary>
         <author>
             <name>RWieruch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Include HTML Inside of HTML - Just Like React Components]]></title>
-        <id>https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components</id>
-        <link href="https://blog.suhailkakar.com/include-html-inside-of-html-just-like-react-components"/>
-        <updated>2021-08-07T03:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Yes, you can include HTML inside of HTML, just like a react / angular component. In this short article, I am going to walk you through, how to include HTML inside of HTML. 
-Creating files
-Go ahead and create a new HTML file and add the following simple code inside of it
-<!-- index.html -->
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Include HTML inside of HTML</title>
-</head>
-<body>
-
-</body>
-</html>
-
-now create a new file and name it nav.html ( You can name it anything since this will be the component that we will include in index.html). Once created you can either write your component or paste this simple navbar code
-<!-- nav.html -->
-
-<!D…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check out Begin]]></title>
-        <id>https://www.raymondcamden.com/2021/08/06/check-out-begin</id>
-        <link href="https://www.raymondcamden.com/2021/08/06/check-out-begin"/>
-        <updated>2021-08-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In general, when I learn something new I like to share it here on my blog, and typically I wait till I have something of a decent handle on the topic. I have to be honest here and say that that isn't quite the case here. I'm still very early on my exploration of Begin and I wanted to share some initial thoughts.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL for Beginners: Setting Up GraphQL Server]]></title>
-        <id>https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server</id>
-        <link href="https://lo-victoria.com/graphql-for-beginners-setting-up-graphql-server"/>
-        <updated>2021-08-06T15:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. 
-In this part, we will start building a GraphQL server for a simple chat app with React and Apollo Client. 
-Sneak Peek:
-
-If you haven't read the previous part, please read it here.
-Setting up GraphQL Server
-First, we need a GraphQL server to receive and send queries to our client.
-To recap about GraphQL servers, feel free to read Part 2 of the series.
-Step 1: Initialize project
-Make sure you have Node.js installed on your machine. If not, install it here.
-Then, create a new project with the following commands in the terminal:
-mkdir project   // create project folder
-mkdir project/server    // create server folder…]]></summary>
-        <author>
-            <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using ‘@unknown default’ within switch statements]]></title>
-        <id>https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement</id>
-        <link href="https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement"/>
-        <updated>2021-08-06T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[What Swift’s @unknown attribute does, and why the compiler tells us to use it when switching on certain enums.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
         </author>
     </entry>
 </feed>
