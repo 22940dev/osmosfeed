@@ -12,12 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351402",
+          "author": "Chris Coyier",
+          "description": "There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …\nThe post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/early-days-for-css-scoping/",
+          "publishedOn": "2021-09-06T18:47:19.000Z",
+          "wordCount": 724,
+          "title": "Early Days for CSS Scoping"
+        },
+        {
           "id": "https://css-tricks.com/?p=350649",
           "author": "Chris Coyier",
           "description": "I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherent isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …\nThe post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9",
           "publishedOn": "2021-09-03T22:16:47.000Z",
-          "wordCount": 952,
+          "wordCount": 932,
           "title": "AWS Lambdas: Easy, Easier, Easiest"
         },
         {
@@ -26,7 +35,7 @@
           "description": "We’ve already discussed how creating web components is easier than you think, but there’s another aspect of the specification that we haven’t discussed yet and it’s a way to customize (nay, supercharge) a built-in element. It’s similar to …\nThe post Supercharging Built-In Elements With Web Components “is” Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/supercharging-built-in-elements-with-web-components-is-easier-than-you-think/",
           "publishedOn": "2021-09-03T14:21:38.000Z",
-          "wordCount": 1852,
+          "wordCount": 1883,
           "title": "Supercharging Built-In Elements With Web Components “is” Easier Than You Think"
         },
         {
@@ -71,7 +80,7 @@
           "description": "Nathan Hardy shares when things “clicked”:\nReflecting back on this time, I think there are a few key concepts that were vital to things finally all making sense and fitting together. These were:\n• The Box Model (e.g. box-sizing, height, width, margin, padding)\n• Layout \n…\nThe post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://engineering.kablamo.com.au/posts/2021/my-first-css",
           "publishedOn": "2021-09-01T23:25:45.000Z",
-          "wordCount": 1194,
+          "wordCount": 1170,
           "title": "What I Wish I Knew About CSS When Starting Out As A Front-Ender"
         },
         {
@@ -136,15 +145,6 @@
           "publishedOn": "2021-08-27T14:42:16.000Z",
           "wordCount": 2018,
           "title": "The Fixed Background Attachment Hack"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350573",
-          "author": "Chris Coyier",
-          "description": "When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …\nThe post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://alistapart.com/article/designing-for-the-unexpected/",
-          "publishedOn": "2021-08-26T23:07:31.000Z",
-          "wordCount": 4512,
-          "title": "Designing for the Unexpected"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
+          "author": "hello@smashingmagazine.com (Robin Marx)",
+          "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
+          "link": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
+          "publishedOn": "2021-09-06T11:00:00.000Z",
+          "wordCount": 9729,
+          "title": "HTTP/3: Practical Deployment Options (Part 3)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a19cca97-b411-44a6-a8be-e1468a0df78a/http3-practical-deployment-options-part3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
           "author": "hello@smashingmagazine.com (Berwyn Powell)",
           "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
           "link": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
           "publishedOn": "2021-09-03T11:30:00.000Z",
-          "wordCount": 3566,
+          "wordCount": 3569,
           "title": "Reducing Carbon Emissions On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdef7e38-4e37-4177-a7b3-d74860c7724f/reducing-carbon-emissions-on-web.jpg",
@@ -173,7 +187,7 @@
           "description": "Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.",
           "link": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
           "publishedOn": "2021-09-02T12:00:00.000Z",
-          "wordCount": 2438,
+          "wordCount": 2433,
           "title": "Interactive Learning Tools For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f13aec3-8dd5-4085-afce-c752db3abfb6/interactive-learning-tools-front-end-developers.jpg",
@@ -187,7 +201,7 @@
           "description": "What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.",
           "link": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
           "publishedOn": "2021-09-01T10:30:00.000Z",
-          "wordCount": 5582,
+          "wordCount": 5579,
           "title": "A Deep Dive Into The Wonderful World Of SVG Displacement Filtering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/92af7db6-94b4-4e48-8e20-875af2d5e024/deep-dive-svg-displacement-filtering.jpg",
@@ -215,7 +229,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
           "publishedOn": "2021-08-31T08:00:00.000Z",
-          "wordCount": 2415,
+          "wordCount": 2408,
           "title": "Stories Of September (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdfaaaac-a4fb-475b-997c-ac45db998da0/sep-21-finding-the-balance-preview-opt.png",
@@ -229,7 +243,7 @@
           "description": "There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/",
           "publishedOn": "2021-08-30T10:00:00.000Z",
-          "wordCount": 3700,
+          "wordCount": 3695,
           "title": "Refactoring CSS: Optimizing Size And Performance (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa4e0eab-b23c-42ac-a622-b2ca8a02edd0/refactoring-css-optimizing-size-performance-part3.jpg",
@@ -243,7 +257,7 @@
           "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
           "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
           "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3124,
+          "wordCount": 3117,
           "title": "Compound Components In React",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
@@ -257,7 +271,7 @@
           "description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
           "link": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
           "publishedOn": "2021-08-26T08:00:00.000Z",
-          "wordCount": 3772,
+          "wordCount": 3771,
           "title": "Pushing Back Against Privacy Infringement On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
@@ -271,7 +285,7 @@
           "description": "In this article, Leonardo explains how to use a \"multi-monorepo\" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.",
           "link": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
           "publishedOn": "2021-08-25T07:10:00.000Z",
-          "wordCount": 3563,
+          "wordCount": 3553,
           "title": "Creating A Public/Private Multi-Monorepo For PHP Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a223ab2b-d926-4fec-a422-bed6e7b02178/01-architecture.png",
@@ -285,7 +299,7 @@
           "description": "In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.",
           "link": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
           "publishedOn": "2021-08-24T13:00:00.000Z",
-          "wordCount": 3228,
+          "wordCount": 3235,
           "title": "How To Automate Documentation Workflow For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68266575-8f47-415b-9c91-7004a02944ee/action-github-1.png",
@@ -313,7 +327,7 @@
           "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
           "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
           "publishedOn": "2021-08-20T08:00:00.000Z",
-          "wordCount": 4603,
+          "wordCount": 4597,
           "title": "Jamstack CMS: The Past, The Present and The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
@@ -327,7 +341,7 @@
           "description": "Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.",
           "link": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "publishedOn": "2021-08-19T10:00:00.000Z",
-          "wordCount": 5340,
+          "wordCount": 5347,
           "title": "How To Build An Ethical User Research Practice At Any Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72fbade7-8284-47ba-93d7-0f8a7aefdb7e/ethical-user-research-practice.jpg",
@@ -341,7 +355,7 @@
           "description": "In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.",
           "link": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
           "publishedOn": "2021-08-18T08:00:00.000Z",
-          "wordCount": 3323,
+          "wordCount": 3321,
           "title": "Creating An Interactive Gantt Chart Component With Vanilla JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bcf1248-c58e-47f4-a94f-3cbac5c60b45/interactive-gantt-chart-component-vanillajs.jpg",
@@ -355,7 +369,7 @@
           "description": "Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/08/open-source-icons/",
           "publishedOn": "2021-08-17T07:25:00.000Z",
-          "wordCount": 1863,
+          "wordCount": 1875,
           "title": "Free Open-Source Icons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/337b471a-0798-410d-9670-1d63c5bebfdc/05-tourism.jpg",
@@ -369,7 +383,7 @@
           "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
           "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
           "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2950,
           "title": "How To Develop Your Business’ Technology Roadmap",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
@@ -383,7 +397,7 @@
           "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
           "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6657,
+          "wordCount": 6659,
           "title": "Useful Figma Plugins And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
@@ -411,7 +425,7 @@
           "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
           "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
           "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5033,
+          "wordCount": 5047,
           "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
@@ -468,6 +482,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5f9c986d740569d1a4ca1a04",
+          "author": null,
+          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2021-09-06T07:04:00.000Z",
+          "wordCount": 6433,
+          "title": "700 Free Online Programming &amp; Computer Science Courses You Can Start This September"
+        },
         {
           "id": "61320541d6679a07b7d416a2",
           "author": null,
@@ -548,15 +571,6 @@
           "publishedOn": "2021-09-01T16:41:26.000Z",
           "wordCount": 1372,
           "title": "JavaScript Array.find() Tutorial – How to Iterate Through Elements in an Array"
-        },
-        {
-          "id": "612e1ae2d6679a07b7d3f4c4",
-          "author": null,
-          "description": "Machines or computers only understand numbers. And these numbers need to be represented and processed in a way that lets machines solve problems by learning from the data instead of learning from predefined instructions (as in the case of programming). All types of programming use mathematics at some level. Machine",
-          "link": "https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/",
-          "publishedOn": "2021-09-01T15:47:54.000Z",
-          "wordCount": 1451,
-          "title": "How Machine Learning Uses Linear Algebra to Solve Data Problems"
         }
       ]
     },
@@ -629,15 +643,6 @@
           "publishedOn": "2021-08-19T16:39:45.000Z",
           "wordCount": 158,
           "title": "The Real Division Between People"
-        },
-        {
-          "id": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
-          "author": null,
-          "description": "Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:\nOne of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.\nCarl Sagan, The Demon-Haunted World: Science as a Candle in the Dark\nMikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:\nDoes it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …",
-          "link": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
-          "publishedOn": "2021-08-08T06:12:05.000Z",
-          "wordCount": 370,
-          "title": "Authority Cannot Replace Critical Thinking"
         }
       ]
     },
@@ -699,15 +704,6 @@
           "publishedOn": "2021-08-15T08:00:00.000Z",
           "wordCount": 593,
           "title": "Link Bundle #5"
-        },
-        {
-          "id": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
-          "author": null,
-          "description": "Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:\nOne of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.\nCarl Sagan, The Demon-Haunted World: Science as a Candle in the Dark\nMikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:\nDoes it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …",
-          "link": "https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/",
-          "publishedOn": "2021-08-08T06:12:05.000Z",
-          "wordCount": 370,
-          "title": "Authority Cannot Replace Critical Thinking"
         }
       ]
     },
@@ -717,12 +713,21 @@
       "siteUrl": "https://www.raymondcamden.com/",
       "articles": [
         {
+          "id": "https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit",
+          "author": null,
+          "description": "My frequent readers (do I have those?) will know I've got a thing for building random Twitter bots. I just like randomness in general. A few days ago I was thinking about an API I had run across, the Dungeons and Dragon's API. This is a free, simple to use API that returns information related to D & D. Pretty much every aspect ofthe ruleset is available via the API. Part of the API is deep information about monsters.",
+          "link": "https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit",
+          "publishedOn": "2021-09-06T18:00:00.000Z",
+          "wordCount": 1442,
+          "title": "Making Monsters Fight for Fun and Profit (minus the profit)"
+        },
+        {
           "id": "https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer",
           "author": null,
           "description": "I've been blogging quite a bit about how to integrate Adobe's PDF Services with the Jamstack (11ty specifically but applicable to any generator) and today's I think is pretty cool. One of the features of our PDF API is the ability to convert documents into PDF. I thought it would be interesting to use that as a way to provide a consistent document viewing experience using PDF and the free PDF Embed API. Here's what I came up, and as always, comments and suggestions are welcome!",
           "link": "https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer",
           "publishedOn": "2021-08-30T18:00:00.000Z",
-          "wordCount": 1721,
+          "wordCount": 1740,
           "title": "Using PDFs with the Jamstack - Building a Document Viewer"
         },
         {
@@ -731,7 +736,7 @@
           "description": "Today's post is based on an interesting question I ran into on StackOverflow: How do I use LiquidJS Layout Blocks in Eleventy? The person asking the question was trying to accomplish the following:",
           "link": "https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts",
           "publishedOn": "2021-08-19T18:00:00.000Z",
-          "wordCount": 1322,
+          "wordCount": 1341,
           "title": "Using Liquid Blocks in Eleventy Layouts"
         },
         {
@@ -740,7 +745,7 @@
           "description": "Over a year ago I wrote up my experience on adding Algolia to my blog (\"Adding Algolia Search to Eleventy and Netlify - Part Two\". This process was different then my initial post on the topic (\"Adding Algolia Search to Eleventy and Netlify\") as I had to set up things a bit differently to handle the large size of my site.",
           "link": "https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog",
           "publishedOn": "2021-08-11T18:00:00.000Z",
-          "wordCount": 900,
+          "wordCount": 919,
           "title": "More Work on Algolia and My Blog"
         },
         {
@@ -749,7 +754,7 @@
           "description": "This afternoon I was going through my \"blog ideas\" list and cleaning up entries I've changed my mind on. I came across something I added many months ago - using the Fetch API to upload multiple files at once. The reason it's stuck in my \"todo\" pile for so long is that I wasn't aware of a good service I could use to post my files against. I've done it before in Node.js and I know it's something I could do locally in an hour, but honestly I just didn't want to. That probably sounds a bit lazy but it's honest. Today though I came across httpbin.org, an online service that lets you hit it with various types of HTTP methods and even supports file uploads. (Obviously it doesn't make those files available, it just reports back on the upload.) Even better, it supports CORS which means I could use CodePen. So with no more excuses at my disposal, today I finally built a simple demo.",
           "link": "https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch",
           "publishedOn": "2021-08-08T18:00:00.000Z",
-          "wordCount": 1002,
+          "wordCount": 1021,
           "title": "Uploading Multiple Files with Fetch"
         }
       ]
@@ -805,15 +810,6 @@
           "publishedOn": "2021-08-16T11:50:46.000Z",
           "wordCount": 1361,
           "title": "Freelance Developer: Charge by Time, not Value"
-        },
-        {
-          "id": "https://www.robinwieruch.de/react-conditional-classname",
-          "author": null,
-          "description": "How to use conditional classnames in React with JSX and the HTML class attribute ...",
-          "link": "https://www.robinwieruch.de/react-conditional-classname",
-          "publishedOn": "2021-08-08T05:52:46.000Z",
-          "wordCount": 476,
-          "title": "Conditional ClassName in React"
         }
       ]
     },
@@ -835,12 +831,21 @@
       "siteUrl": "https://www.swiftbysundell.com",
       "articles": [
         {
+          "id": "https://www.swiftbysundell.com/sponsor/paste-september-2021",
+          "author": null,
+          "description": "Thanks a lot to Paste for sponsoring Swift by Sundell.",
+          "link": "https://www.swiftbysundell.com/sponsor/paste-september-2021",
+          "publishedOn": "2021-09-06T11:50:00.000Z",
+          "wordCount": 177,
+          "title": "Sponsor: Paste"
+        },
+        {
           "id": "https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions",
           "author": null,
           "description": "How Swift 5.5 enables us to conditionally compile postfix member expressions using compiler directives, and what kinds of situations that this new feature could be useful in.",
           "link": "https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions",
           "publishedOn": "2021-09-03T10:00:00.000Z",
-          "wordCount": 952,
+          "wordCount": 940,
           "title": "Conditional compilation within Swift expressions"
         },
         {
@@ -858,7 +863,7 @@
           "description": "How Swift’s AsyncSequence and AsyncStream APIs can be used to build asynchronous sequences, and how they relate to Apple’s Combine framework.",
           "link": "https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine",
           "publishedOn": "2021-08-26T13:15:00.000Z",
-          "wordCount": 1763,
+          "wordCount": 1751,
           "title": "Async sequences, streams, and Combine"
         },
         {
@@ -876,7 +881,7 @@
           "description": "How we can now use Swift’s very convenient “dot syntax” to refer to protocol-conforming types, and how that improves some of SwiftUI’s styling APIs.",
           "link": "https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances",
           "publishedOn": "2021-08-20T16:05:00.000Z",
-          "wordCount": 678,
+          "wordCount": 672,
           "title": "Using static protocol APIs to create conforming instances"
         },
         {
@@ -885,7 +890,7 @@
           "description": "Various techniques that let us define fully dynamic colors that adapt to the user’s selected color scheme, using either SwiftUI or UIKit.",
           "link": "https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift",
           "publishedOn": "2021-08-15T10:00:00.000Z",
-          "wordCount": 1468,
+          "wordCount": 1456,
           "title": "Defining dynamic colors in Swift"
         }
       ]
@@ -907,7 +912,7 @@
           "description": "Welcome to my blog, dude! 😆\n\nToday, we're going to take a look at some basic Mac Terminal/Linux commands in my experience. \nSo, don't roast me friends😅  I'm a n00b at this stuff, so I haven't used shit like cat, grep, pbcopy or pbpaste yet.\n\nWithout further ado, let's get fuckin started!!\n✨ Contents ✨\npwd\nls\nmkdir\ncd\ntouch\nrm\ncp\nmv\nman\nsudo\n1. pwd 🗺📍 \nYou can use the pwd command to find out your current location in the filesystem/name of the folder currently open in your terminal window. \nThe output of pwd will look something like this:\n\nAfter executing the pwd command, the terminal tells us that we're in the folder called Yuri inside of the folder Users at root.\n2. ls 📝 \nThe ls command is used to list all the folders/files under the location specified, or if not specified, under the …",
           "link": "https://yurilee.hashnode.dev/10-basic-mac-terminallinux-commands",
           "publishedOn": "2021-08-16T09:26:37.000Z",
-          "wordCount": 1182,
+          "wordCount": 1183,
           "title": "10 Basic Mac Terminal/Linux commands"
         }
       ]
@@ -918,12 +923,21 @@
       "siteUrl": "https://blog.suhailkakar.com",
       "articles": [
         {
+          "id": "https://blog.suhailkakar.com/top-10-visual-studio-code-extensions-that-every-developer-should-use-it",
+          "author": "Suhail Kakar",
+          "description": "Visual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year.\nIn this guide, we’ll explore the top 20 VS Code extensions that every developer should know in 2021.\nBracket Pair Colorizer\nIf you are working on big projects where functions and components become very complicated, bracket pair colorizer is the one who can help you\nThis extension allows matching brackets to be identified with colors. The user can define which characters to match, and which colors to use. It is one of the must-have extensions for all developers. \nLink : https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer\n\nAuto Rename Tag\nFor web developers, Auto Renam…",
+          "link": "https://blog.suhailkakar.com/top-10-visual-studio-code-extensions-that-every-developer-should-use-it",
+          "publishedOn": "2021-09-06T05:25:27.000Z",
+          "wordCount": 791,
+          "title": "Top 10 Visual Studio Code Extensions That Every Developer Should Use It"
+        },
+        {
           "id": "https://blog.suhailkakar.com/an-ultimate-guide-to-gatsby-everything-you-need-to-know-before-starting-with-gatsby",
           "author": "Suhail Kakar",
           "description": "Gatsby websites are getting popular day by day. Nowadays most of the popular websites use Gatsby because of its speed, SEO and etc, and if you don't know anything about Gatsby, It is probably worth learning it in 2021. \nTable of contents\nWhat is Gatsby?\nWhat are Static Sites?\nWhy you should consider using Gatsby?\nSEO\nPlugins\nSpeed\nTemplates\nWhy should you avoid Gatsby?\nBuild Time\nDynamic Websites\nComplex sites\nSet Up Your First Gatsby Website\nInstalling Gatsby CLI\nStarter Templates\nRun your app locally\nDeploying Website To Netlify\nConclusion\nWhat is Gatsby?\nGatsbyJS is a React-based, GraphQL powered static site generator. Gatsby is an open-source framework that combines functionality from React, GraphQL, and Webpack into a single tool for building static websites and apps. Although the ter…",
           "link": "https://blog.suhailkakar.com/an-ultimate-guide-to-gatsby-everything-you-need-to-know-before-starting-with-gatsby",
           "publishedOn": "2021-09-02T04:58:01.000Z",
-          "wordCount": 1262,
+          "wordCount": 1263,
           "title": "An Ultimate Guide To Gatsby - Everything You Need To Know Before Starting with Gatsby"
         },
         {
@@ -932,7 +946,7 @@
           "description": "If you've been studying JavaScript or web development in general but still feel inadequate in your knowledge of the topic. Perhaps you're having trouble remembering or applying all you've learned. This is the article for you.\n\nGoogle shows 7,930,000,000 results on \"Why JavaScript is hard to learn\", Many developers don't learn JavaScript and jump to some other alternative language ( Though each language has its own specialty ) because they think JavaScript is hard. But you shouldn't be among those developers. In this article, you are going to learn about \"How can you learn JavaScript\". \nFollow a Well-structured Curriculum\nAs a self-taught developer, it's your responsibility to find a standard structure to follow. Avoid learning anything that comes your way at all costs. You must stick to a …",
           "link": "https://blog.suhailkakar.com/5-quick-and-effective-ways-to-learn-javascript",
           "publishedOn": "2021-09-01T05:05:10.000Z",
-          "wordCount": 770,
+          "wordCount": 771,
           "title": "5 Quick and Effective Ways to Learn JavaScript"
         },
         {
@@ -941,7 +955,7 @@
           "description": "Web Development for Beginners - A Curriculum\nAzure Cloud Advocates at Microsoft are created a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre-and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment, and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.\nLink: https://github.com/microsoft/Web-Dev-For-Beginners\n\nThree JS - JavaScript 3D library\nThe aim of the project is to create an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current build only includes a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available in the examples.\nLink: https://github.com/mrdoob/three.js\n\nD3 JS - Bring data t…",
           "link": "https://blog.suhailkakar.com/7-trending-projects-on-github-for-javascript-developers",
           "publishedOn": "2021-08-29T06:45:25.000Z",
-          "wordCount": 614,
+          "wordCount": 615,
           "title": "7 Trending projects on GitHub for JavaScript developers"
         },
         {
@@ -950,7 +964,7 @@
           "description": "As a developer, we all know a little about Git and GitHub but there are some developers who still have doubt and question about Git and GitHub. Therefore in this article, I am going to break everything down regarding Git and GitHub, so that you can understand it clearly. \nTable of contents\nIntroduction\nInstallation\nLinux\nDebian / Ubuntu (apt-get)\nFedora (dnf/yum)\nWindows\nMac\nBasic GitHub terms\nBasic Git Command\nDemonstration\nGitHub special repository\nConclusion \nIntroduction\nGit is a source code management technology used by DevOps. It is a free and open-source version control system that is used to efficiently manage small to extremely big projects.\nGit is a version control system. Version control is a file manager that maintains track of changes to your projects over time and keeps a com…",
           "link": "https://blog.suhailkakar.com/an-ultimate-guide-to-git-and-github",
           "publishedOn": "2021-08-27T08:26:40.000Z",
-          "wordCount": 1300,
+          "wordCount": 1301,
           "title": "An Ultimate Guide to Git and Github"
         },
         {
@@ -959,7 +973,7 @@
           "description": "Application Programming Interface is the abbreviation for API. An API is a software interface that enables two apps to communicate with one another. In other words, an API is a messenger that sends your request to the provider and then returns the response to you.\n💡 Fun Fact: 60% of eBay transactions are via their API\nIn this tutorial, we’ll be building a RESTful CRUD (Create, Retrieve, Update, Delete) API with Node.js, Express, and MongoDB.\nCreating the application\nOn your Desktop ( or any other place ) create a new folder named nodejs-api and open it in any Code Editor (for this Tutorial I am using VS Code).  Once you done open terminal ( You can either use VS Code terminal or external terminal ) and run \nnpm init -y\n\nThis will generate a simple package.json and now we need to install s…",
           "link": "https://blog.suhailkakar.com/building-a-restful-crud-api-with-node-js-express-and-mongodb",
           "publishedOn": "2021-08-25T05:15:55.000Z",
-          "wordCount": 1317,
+          "wordCount": 1318,
           "title": "Building a Restful CRUD API with Node JS, Express, and MongoDB"
         },
         {
@@ -968,7 +982,7 @@
           "description": "Introduction\nconsole.log() is a debugging tool that can assist you to figure out what your code is doing. You may follow along as your code executes by displaying a message that contains either descriptive text that tells you what's going on or the values of certain variables.\nRemoving all console.log() from your project before production can be very difficult, Here is how to remove all console.log() from your project in less than a minute. \nStep 1\nOpen your project in VS Code ( Since we are using Regex, It is easier to use it in VS Code )\nStep 2\nClick on the search icon on VS Code sidebar. It will open the search option\n\nStep 3\nIn search placeholder type console.log.*$ and select Use Regex option which can be found on the upper right corner of the search panel that’s designated by the icon .*\n\nStep 4\nOnce you searched for all the console.log(), Click on replace to remove all console.log()\nand BOOM 💥 Now you don't have any console.log() in your project\nConclusion ⌛\nI hope you found this short helpful. If you need any help please let me know in the comment section. \nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
           "link": "https://blog.suhailkakar.com/remove-all-consolelog-from-your-project-in-less-than-a-minute",
           "publishedOn": "2021-08-22T07:26:40.000Z",
-          "wordCount": 397,
+          "wordCount": 398,
           "title": "Remove all console.log() from your project in less than a minute"
         },
         {
@@ -977,7 +991,7 @@
           "description": "Google is such a dominant force in the search engine industry that it is the default search engine for Android smartphones and web browsers such as Chrome. To put it frankly, Google has become one of the most widely utilized online resources for discovering everything from random facts and music videos to products and services.\nThe sophisticated Google search methods and tips listed below can help you narrow your search results.\n1. Site:\nUsing site: will search within a specific website. For example, if you want to find an article that is published only on Hackernoon, you can simply type \nsite:hackernoon.com article_keyword\n\n\n2. Asterisk *\nYou can use * to fill missing words or phrases, like :\nHow to integrate * in nodejs\n\n\n3. Quotation \" \"\n\"\" is used to search for words or phrases, like :\n\"Why facebook created react\"\n\n\n4. Related:\nYou can use related: to sites that are similar to other sites, for example\nrelated:netflix.com\n\n\n5. link:\nUse link: to find a page that links to another page, like : \nlink:suhailkakar.com\n\n\nConclusion ⌛\nI hope you found these tips helpful. If you need any help please let me know in the comment section. \nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
           "link": "https://blog.suhailkakar.com/how-to-use-google-like-a-pro",
           "publishedOn": "2021-08-20T05:04:07.000Z",
-          "wordCount": 388,
+          "wordCount": 389,
           "title": "How To Use Google Like A Pro"
         },
         {
@@ -986,7 +1000,7 @@
           "description": "Are you searching for the best design resources? This is a collection that every developer should bookmark since it contains the greatest resources for creating an eye-catching and aesthetically enhanced project.\nIntroduction\nEvery developer's job entails some kind of product design. It's not just about having a good appearance; it's also about having engaging visuals and a good overall presentation. Rather than spending time and money on a lengthy design process, it is preferable to leverage resources that offer ready-to-use components and features for a fantastic, amazing, and outstanding product.\nPart one of these resources can be found here\nTable of contents\nAccessibility resources\nChecklists\nGuidelines\nIndustry leaders, educators, and consultants\nOnline courses\nPattern/component libra…",
           "link": "https://blog.suhailkakar.com/design-resources-for-developers-ii",
           "publishedOn": "2021-08-19T06:11:24.000Z",
-          "wordCount": 2713,
+          "wordCount": 2714,
           "title": "Design Resources for Developers - II"
         },
         {
@@ -995,7 +1009,7 @@
           "description": "Chrome is a fantastic browser — it's quick, well-designed, and jam-packed with useful features – but that's only the beginning. Chrome's true strength lies in its vast library of add-ons, which provide it with a never-ending supply of new features and capabilities.\nIn this article, I am going to introduce you top extensions that you might not know about them. \n10. Fake Filler\nFake Filler is a form filler that fills all inputs on a page with scam/dummy data.\n\n9. ColorPick Eyedropper\nA zoomed eyedropper & color chooser tool that allows you to select color values from web pages and more.\n\n8. Site Palette\nA must-have tool for designers and front-end developers to grab colors for any website.\n\n7. WhatFont\nThe easiest way to identify fonts on web pages.\n\n6. Responsive Viewer\nShow multiple screens once, Responsive design tester\n\n5. PerfectPixel\nAdds a semi-transparent image overlay over the top of the developed HTML to easily perform pixel-perfect comparisons between them, useful for replicating UI designs.\n\n4. Imageye\nFind and download all images on a web page. With Imageye you can find, browse and download all the images present on a web page.\n\n3. Stylebot\nChange the appearance of the web instantly.\n\n2. Page Ruler Redux\nA Web Developer\\Designer ruler to get perfect pixel dimensions and positioning to measure elements on any web page.\n\n1. Web Developer\nAdds a toolbar button with various web developer tools.\n\nConclusion ⌛\nI hope you found this short list helpful. If you need any help please let me know in the comment section. \nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
           "link": "https://blog.suhailkakar.com/top-chrome-extensions-that-you-wish-you-knew-it-earlier",
           "publishedOn": "2021-08-18T04:46:37.000Z",
-          "wordCount": 455,
+          "wordCount": 456,
           "title": "Top Chrome Extensions That You Wish You Knew It Earlier"
         },
         {
@@ -1004,7 +1018,7 @@
           "description": "Introduction 📚\nWhen you go to GitHub and see some other developers code, most of them are importing their components like this👇\nimport Button from \"../../../components/Buttons/Button\"\n\nThis is called relative import. Relative import will start with either ./,/ or ../.\nI am not telling that this is the wrong way and even there is no issue if you import like that, but if you have a very big and complex project, relative imports will look a lot messy similar to this. \nimport Button from \"../../../../../../components/Buttons/Button\"\n\nHowever, there is a very better and cleaner way to import these components. This method is called absolute import. An absolute import will look this like 👇\nimport Button from \"components/Buttons/Button\"\n\nAdding absolute imports to React Apps (CRA) 💡\nOpen your project in any code editor and create a new file in your project's root directory named jsconfig.json. Once you created the file paste the below JSON inside of it. \n{\n  \"compilerOptions\": {\n    \"baseUrl\": \"src\"\n  }\n}\n\nThis will instruct Webpack to use the src directory as a base one.\nConclusion ⌛\nI hope you found this short article helpful. If you need any help please let me know in the comment section. \nLet's connect on  Twitter  and  LinkedIn  \n👋 Thanks for reading, See you next time",
           "link": "https://blog.suhailkakar.com/stop-using-while-importing-components-instead-use-this-method",
           "publishedOn": "2021-08-16T04:42:00.000Z",
-          "wordCount": 395,
+          "wordCount": 396,
           "title": "Stop Using ../../../ While Importing Components, Instead Use This Method"
         },
         {
@@ -1013,17 +1027,8 @@
           "description": "The most typical question asked by new bloggers is, \"How can I gain more visitors to my blog?\"\nIt's been around 20 days since I started blogging on Hashnode ( My main blog ), DEV, and Devdojo, and I reached more than 29,000 page views. Since then, I've been getting a lot of questions about how I increased my traffic, therefore I'll put it all out in this article. \n\n\n\nAs you can see, I received  11,109 visitors in DEV, 15,149 visitors in Hashnode, and 2,817 in Devdojo which is a total of 29,075. And the strategies that I used are\n1. Publishing articles consistently\nI published a new blog article every day ( or at least 1 article per two days ) and I've never gone more than a week without blogging. \nAfter doing some research, I discovered that the more often I published an article, the more …",
           "link": "https://blog.suhailkakar.com/how-i-increased-my-blogs-traffic-to-over-29000-page-views",
           "publishedOn": "2021-08-11T03:41:46.000Z",
-          "wordCount": 722,
+          "wordCount": 723,
           "title": "How I Increased My Blogs Traffic To Over 29,000 Page Views In My First 20 Days Blogging | Hashnode + Dev + Devdojo"
-        },
-        {
-          "id": "https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021",
-          "author": "Suhail Kakar",
-          "description": "JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript. While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used.\nHere you can find the completed JavaScript cheat sheet 👇 \nArrays\nFunctions\nDescription\n\n\nconcat()\nConcatenate different arrays into one.\n\n\njoin()\nJoins all the elements of one array as a string\n\n\nindexof()\nReturns the index (first position) of an element in the array\n\n\nlastindexof()\nReturns the last position of an element in the array\n\n\nsort()\nAlphabetic sort of array elements\n\n\nreverse()\nSort e…",
-          "link": "https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021",
-          "publishedOn": "2021-08-08T12:11:02.000Z",
-          "wordCount": 1769,
-          "title": "JavaScript Cheat Sheet For Beginners - 2021"
         }
       ]
     },

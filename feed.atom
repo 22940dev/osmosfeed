@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-06T00:51:41.011Z</id>
+    <id>urn:2021-09-07T00:45:07.112Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-06T00:51:41.011Z</updated>
+    <updated>2021-09-07T00:45:07.112Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Early Days for CSS Scoping]]></title>
+        <id>https://css-tricks.com/?p=351402</id>
+        <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
+        <updated>2021-09-06T18:47:19.000Z</updated>
+        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
+The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Monsters Fight for Fun and Profit (minus the profit)]]></title>
+        <id>https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit</id>
+        <link href="https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit"/>
+        <updated>2021-09-06T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My frequent readers (do I have those?) will know I've got a thing for building random Twitter bots. I just like randomness in general. A few days ago I was thinking about an API I had run across, the Dungeons and Dragon's API. This is a free, simple to use API that returns information related to D & D. Pretty much every aspect ofthe ruleset is available via the API. Part of the API is deep information about monsters.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sponsor: Paste]]></title>
+        <id>https://www.swiftbysundell.com/sponsor/paste-september-2021</id>
+        <link href="https://www.swiftbysundell.com/sponsor/paste-september-2021"/>
+        <updated>2021-09-06T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks a lot to Paste for sponsoring Swift by Sundell.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP/3: Practical Deployment Options (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/</id>
+        <link href="https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/"/>
+        <updated>2021-09-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Marx)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[700 Free Online Programming &amp; Computer Science Courses You Can Start This September]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-09-06T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Visual Studio Code Extensions That Every Developer Should Use It]]></title>
+        <id>https://blog.suhailkakar.com/top-10-visual-studio-code-extensions-that-every-developer-should-use-it</id>
+        <link href="https://blog.suhailkakar.com/top-10-visual-studio-code-extensions-that-every-developer-should-use-it"/>
+        <updated>2021-09-06T05:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year.
+In this guide, we’ll explore the top 20 VS Code extensions that every developer should know in 2021.
+Bracket Pair Colorizer
+If you are working on big projects where functions and components become very complicated, bracket pair colorizer is the one who can help you
+This extension allows matching brackets to be identified with colors. The user can define which characters to match, and which colors to use. It is one of the must-have extensions for all developers. 
+Link : https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+Auto Rename Tag
+For web developers, Auto Renam…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambdas: Easy, Easier, Easiest]]></title>
         <id>https://css-tricks.com/?p=350649</id>
@@ -287,16 +356,6 @@ The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Machine Learning Uses Linear Algebra to Solve Data Problems]]></title>
-        <id>612e1ae2d6679a07b7d3f4c4</id>
-        <link href="https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/"/>
-        <updated>2021-09-01T15:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Machines or computers only understand numbers. And these numbers need to be represented and processed in a way that lets machines solve problems by learning from the data instead of learning from predefined instructions (as in the case of programming). All types of programming use mathematics at some level. Machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some Typography Links VII]]></title>
         <id>https://css-tricks.com/?p=350569</id>
         <link href="https://css-tricks.com/some-typography-links-vii/"/>
@@ -564,17 +623,6 @@ George Carlin]]></summary>
 George Carlin]]></summary>
         <author>
             <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing for the Unexpected]]></title>
-        <id>https://css-tricks.com/?p=350573</id>
-        <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
-        <updated>2021-08-26T23:07:31.000Z</updated>
-        <summary type="html"><![CDATA[When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …
-The post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1266,82 +1314,6 @@ In simple terms, it's a piece of software offering its services to other program
         <summary type="html"><![CDATA[This afternoon I was going through my "blog ideas" list and cleaning up entries I've changed my mind on. I came across something I added many months ago - using the Fetch API to upload multiple files at once. The reason it's stuck in my "todo" pile for so long is that I wasn't aware of a good service I could use to post my files against. I've done it before in Node.js and I know it's something I could do locally in an hour, but honestly I just didn't want to. That probably sounds a bit lazy but it's honest. Today though I came across httpbin.org, an online service that lets you hit it with various types of HTTP methods and even supports file uploads. (Obviously it doesn't make those files available, it just reports back on the upload.) Even better, it supports CORS which means I could use CodePen. So with no more excuses at my disposal, today I finally built a simple demo.]]></summary>
         <author>
             <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Cheat Sheet For Beginners - 2021]]></title>
-        <id>https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021</id>
-        <link href="https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021"/>
-        <updated>2021-08-08T12:11:02.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript. While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used.
-Here you can find the completed JavaScript cheat sheet 👇 
-Arrays
-Functions
-Description
-
-
-concat()
-Concatenate different arrays into one.
-
-
-join()
-Joins all the elements of one array as a string
-
-
-indexof()
-Returns the index (first position) of an element in the array
-
-
-lastindexof()
-Returns the last position of an element in the array
-
-
-sort()
-Alphabetic sort of array elements
-
-
-reverse()
-Sort e…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authority Cannot Replace Critical Thinking]]></title>
-        <id>https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/</id>
-        <link href="https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/"/>
-        <updated>2021-08-08T06:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:
-One of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.
-Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark
-Mikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:
-Does it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authority Cannot Replace Critical Thinking]]></title>
-        <id>https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/</id>
-        <link href="https://www.stefanimhoff.de/quotes/authority-cannot-replace-critical-thinking/"/>
-        <updated>2021-08-08T06:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Carl Sagan stated that scientific knowledge is only achieved by evidence and experiment, not by authority. Authority has no place in science:
-One of the great commandments of science is, Mistrust arguments from authority. … Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else.
-Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark
-Mikhail Bakunin on why a wise person never conditionally accepts authority but instead selects the authority of a specific topic based on the comparison of different opinions:
-Does it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect …]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conditional ClassName in React]]></title>
-        <id>https://www.robinwieruch.de/react-conditional-classname</id>
-        <link href="https://www.robinwieruch.de/react-conditional-classname"/>
-        <updated>2021-08-08T05:52:46.000Z</updated>
-        <summary type="html"><![CDATA[How to use conditional classnames in React with JSX and the HTML class attribute ...]]></summary>
-        <author>
-            <name>RWieruch</name>
         </author>
     </entry>
 </feed>
