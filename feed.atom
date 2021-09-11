@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-10T00:51:28.667Z</id>
+    <id>urn:2021-09-11T00:45:41.272Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-10T00:51:28.667Z</updated>
+    <updated>2021-09-11T00:45:41.272Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Just in Time” CSS]]></title>
+        <id>https://css-tricks.com/?p=351562</id>
+        <link href="https://css-tricks.com/just-in-time-css/"/>
+        <updated>2021-09-10T20:32:51.000Z</updated>
+        <summary type="html"><![CDATA[I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:
+<div class="C(#fff) P(20px)"text
+</div
+And it will generate CSS like:
+.C\(\#333\) {
+  color: #333;
+
+…
+The post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions 101: Deep Dive into Workflow Attributes]]></title>
+        <id>https://lo-victoria.com/github-actions-101-deep-dive-into-workflow-attributes</id>
+        <link href="https://lo-victoria.com/github-actions-101-deep-dive-into-workflow-attributes"/>
+        <updated>2021-09-10T15:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to Part 2 of the GitHub Actions series. A series where we will walk through everything you need to know about GitHub Actions, from the basics to creating your own customized workflow.
+If you have missed Part 1, please read it here before proceeding to Part 2.
+In this part, let's dive deeper into some attributes and useful things you need to know to customize a good workflow.
+Job dependencies
+Recap: Each workflow must have 1 job, each job has a unique identifier, they run in parallel by default.
+As discussed in the previous part of this series, jobs are executed in parallel by default. In the example below, job1 and job2 will be run simultaneously.
+jobs:
+   job1: # unique identifier
+      # job stuff here
+
+   job2: # unique identifier
+      # job stuff here
+
+However, using…]]></summary>
+        <author>
+            <name>Victoria Lo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun Times Styling Checkbox States]]></title>
+        <id>https://css-tricks.com/?p=351034</id>
+        <link href="https://css-tricks.com/fun-times-styling-checkbox-states/"/>
+        <updated>2021-09-10T14:53:24.000Z</updated>
+        <summary type="html"><![CDATA[We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.
+Although designing checkboxes is not that complicated, we also don’t …
+The post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EyeDropper API Dropped]]></title>
+        <id>https://css-tricks.com/?p=351697</id>
+        <link href="https://css-tricks.com/eyedropper-api-dropped/"/>
+        <updated>2021-09-10T14:47:11.000Z</updated>
+        <summary type="html"><![CDATA[I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). 
+🎨 Loving the new `EyeDropper` Web API: 
+“`js
+await new EyeDropper().open();
+// Returns the picked color, e.g.,
+…
+The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Excellent Editorial]]></title>
+        <id>https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/</id>
+        <link href="https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/"/>
+        <updated>2021-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add An Advanced File Uploader To Your React.js App - Upload Care]]></title>
+        <id>https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-upload-care</id>
+        <link href="https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-upload-care"/>
+        <updated>2021-09-10T05:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+In this article, we are going to integrate Upload Care ( An Advanced File Uploader ) which includes drag-and-drop image uploader, direct link image uploader and etc.. in our react.js app. 
+Creating a react app
+The first step is to create a simple react app which you can do just by running the command below in your terminal. 
+npx create-react-app upload-care
+
+This might take a while and it depends on your computer specs but once it is done go to the new directory which is created ( In our case upload-care ) and run npm start or yarn start. This command will start the development server for your react app. Now open this directory (In our case upload-care) in any code editor
+Cleaning up the project
+Once you opened the directory in your code editor, You can see that there are many fil…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frameworks Helping Image Usage]]></title>
         <id>https://css-tricks.com/?p=350644</id>
@@ -472,31 +569,6 @@ Is this a promotional article? Absolutely not. I do not promote Hashnode because
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Links on Performance IV]]></title>
-        <id>https://css-tricks.com/?p=350934</id>
-        <link href="https://css-tricks.com/links-on-performance-iv/"/>
-        <updated>2021-09-02T22:28:51.000Z</updated>
-        <summary type="html"><![CDATA[HTTP Caching is a Superpower — Hugh Haworth covers how the Cache-Control header is an awfully potent ingredient in web performance. I mis-read the title at first and was waiting to read about HTML caching. Hugh covers it a bit 
-…
-The post Links on Performance IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I completely ignored the front-end development scene for 6 months. It was fine.]]></title>
-        <id>https://css-tricks.com/?p=350723</id>
-        <link href="https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months-it-was-fine/"/>
-        <updated>2021-09-02T22:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever fretted that front-end web development moves so fast that if you stepped away for a while, you’d be lost coming back? Rachel Smith has:
-The hectic pace of needing to learn one thing after the next 
-…
-The post I completely ignored the front-end development scene for 6 months. It was fine. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Podcast: “The magic of Augmented Reality”, with special guest Roxana Jula]]></title>
         <id>https://www.swiftbysundell.com/podcast/104</id>
         <link href="https://www.swiftbysundell.com/podcast/104"/>
@@ -504,17 +576,6 @@ The post I completely ignored the front-end development scene for 6 months. It w
         <summary type="html"><![CDATA[Roxana Jula joins John to discuss Apple’s various tools, frameworks, and APIs for building Augmented Reality experiences. How to get started building AR-based apps, what’s the current state of AR on Apple’s platforms, and how might that change if Apple were to introduce dedicated AR hardware in the future?]]></summary>
         <author>
             <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I work really hard on my Open Graph images, people will share my blog posts.]]></title>
-        <id>https://css-tricks.com/?p=350830</id>
-        <link href="https://www.zachleat.com/web/automatic-opengraph/"/>
-        <updated>2021-09-02T14:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Zach did that thing where each of his blog posts has a special URL with the design of social image card that is screenshat by a headless browser (like Puppeteer) and used as a true meta Open Graph image, meaning …
-The post If I work really hard on my Open Graph images, people will share my blog posts. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1334,26 +1395,6 @@ Imagine you visit a Web site and you want to browse it for some content. You wan
         <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Janet John)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Work on Algolia and My Blog]]></title>
-        <id>https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog</id>
-        <link href="https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog"/>
-        <updated>2021-08-11T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over a year ago I wrote up my experience on adding Algolia to my blog ("Adding Algolia Search to Eleventy and Netlify - Part Two". This process was different then my initial post on the topic ("Adding Algolia Search to Eleventy and Netlify") as I had to set up things a bit differently to handle the large size of my site.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Smashing Workshops on Front-End & Design]]></title>
-        <id>https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/</id>
-        <link href="https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/"/>
-        <updated>2021-08-11T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
