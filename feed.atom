@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-11T00:45:41.272Z</id>
+    <id>urn:2021-09-12T00:49:40.518Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T00:45:41.272Z</updated>
+    <updated>2021-09-12T00:49:40.518Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[But If Not]]></title>
+        <id>https://www.stefanimhoff.de/quotes/but-if-not/</id>
+        <link href="https://www.stefanimhoff.de/quotes/but-if-not/"/>
+        <updated>2021-09-11T10:05:20.000Z</updated>
+        <summary type="html"><![CDATA[[…] Civil disobedience is the refusal to abide by an order of the government or of the state or even of the court that your conscience tells you is unjust. Civil disobedience is based on a commitment to conscience. In other words, one who practices civil disobedience is obedient to what he considers a higher law.
+And there comes a time when a moral man can’t obey a law which his conscience tells him is unjust. And I tell you this morning, my friends, that history has moved on, and great moments have often come forth because there were those individuals, in every age in and every generation, who were willing to say I will be obedient to a higher law.
+These men were saying I must be disobedient to a king in order to be obedient to the King. And those people who so often criticize those of us…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But If Not]]></title>
+        <id>https://www.stefanimhoff.de/quotes/but-if-not/</id>
+        <link href="https://www.stefanimhoff.de/quotes/but-if-not/"/>
+        <updated>2021-09-11T10:05:20.000Z</updated>
+        <summary type="html"><![CDATA[[…] Civil disobedience is the refusal to abide by an order of the government or of the state or even of the court that your conscience tells you is unjust. Civil disobedience is based on a commitment to conscience. In other words, one who practices civil disobedience is obedient to what he considers a higher law.
+And there comes a time when a moral man can’t obey a law which his conscience tells him is unjust. And I tell you this morning, my friends, that history has moved on, and great moments have often come forth because there were those individuals, in every age in and every generation, who were willing to say I will be obedient to a higher law.
+These men were saying I must be disobedient to a king in order to be obedient to the King. And those people who so often criticize those of us…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Just in Time” CSS]]></title>
         <id>https://css-tricks.com/?p=351562</id>
         <link href="https://css-tricks.com/just-in-time-css/"/>
         <updated>2021-09-10T20:32:51.000Z</updated>
         <summary type="html"><![CDATA[I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:
-<div class="C(#fff) P(20px)"text
+<div class="C(#333) P(20px)"text
 </div
 And it will generate CSS like:
 .C\(\#333\) {
@@ -1355,46 +1379,6 @@ To connect our React app to our GraphQL server, we need to install a few package
 @apollo/client:  to set up Apollo Client in our React app…]]></summary>
         <author>
             <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optional chaining '?.' in JavaScript]]></title>
-        <id>https://inshaweb.hashnode.dev/optional-chaining-in-javascript</id>
-        <link href="https://inshaweb.hashnode.dev/optional-chaining-in-javascript"/>
-        <updated>2021-08-13T06:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey Readers 👋
-In this article, we’ll learn about the optional chaining (?.) that simplifies the way to access values through nested objects.
-What the heck is Optional chaining?  🥴
-The optional chaining ?.  is a recent addition to the language which is a secure way to access nested object properties, even if an intermediate property doesn’t exist. 
-With the optional chaining if a certain property doesn't exist then undefined is returned immediately.
-The optional chaining ?. syntax has three forms:
-obj?.prop – returns obj.prop if obj exists, otherwise undefined.
-obj?.[prop] – returns obj[prop] if obj exists, otherwise undefined.
-obj.method?.() – calls obj.method() if obj.method exists, otherwise returns undefined
-To understand the concept better let's have a look at a few of the use cases.…]]></summary>
-        <author>
-            <name>Insha Ramin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to designing accessible, WCAG-compliant focus indicators]]></title>
-        <id>https://sarasoueidan.com/blog/focus-indicators/</id>
-        <link href="https://sarasoueidan.com/blog/focus-indicators/"/>
-        <updated>2021-08-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is a modified, text-only excerpt from my Practical Accessibility video course. I wanted to share this guide to designing accessible focus indicators because focus styles are a recurring discussion I have with designers I work with on most projects, so I thought it would be useful to provide this guide as a helpful reference. This guide is aimed at both designers who want to learn about accessibility considerations for designing focus indicators, as well as developers who want to implement them.
-Imagine you visit a Web site and you want to browse it for some content. You want to buy something; or maybe book a flight somewhere. And as you move your cursor onto the page, it suddenly disappears. Your hand may be still on the mouse, and you’re moving the mouse across the screen and ac…]]></summary>
-        <author>
-            <name>Blog on SaraSoueidan.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Figma Plugins And Tools]]></title>
-        <id>https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/</id>
-        <link href="https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/"/>
-        <updated>2021-08-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Janet John)</name>
         </author>
     </entry>
 </feed>
