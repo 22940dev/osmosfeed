@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-12T00:49:40.518Z</id>
+    <id>urn:2021-09-13T00:50:01.682Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-12T00:49:40.518Z</updated>
+    <updated>2021-09-13T00:50:01.682Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1357,28 +1357,6 @@ The European Commission tries to outlaw and ban memes, because humor is an effec
 The Joe Rogan E…]]></summary>
         <author>
             <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL for Beginners: Build Real-Time Chat App with Apollo Client and React]]></title>
-        <id>https://lo-victoria.com/graphql-for-beginners-build-real-time-chat-app-with-apollo-client-and-react</id>
-        <link href="https://lo-victoria.com/graphql-for-beginners-build-real-time-chat-app-with-apollo-client-and-react"/>
-        <updated>2021-08-13T14:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to GraphQL for Beginners! A beginner-friendly series introducing the basic concepts of GraphQL and how to connect it to a front-end framework like React using Apollo. 
-In this part, we will complete our simple chat app by building our front-end with React and Apollo Client. 
-If you haven't read the previous part, please read it here.
-Step 1: Create a React App
-To recap, our project folder currently has a server folder in it. Let's create a client folder now for our React app.
-In our client folder, we can create a new React app:
-npx create-react-app my-app
-
-Now, your project folder should look something like this:
-
-Step 2: Install packages
-To connect our React app to our GraphQL server, we need to install a few packages:
-@apollo/client:  to set up Apollo Client in our React app…]]></summary>
-        <author>
-            <name>Victoria Lo</name>
         </author>
     </entry>
 </feed>
