@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-17T00:53:20.701Z</id>
+    <id>urn:2021-09-18T00:47:09.117Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T00:53:20.701Z</updated>
+    <updated>2021-09-18T00:47:09.117Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
+        <id>https://css-tricks.com/?p=352082</id>
+        <link href="https://www.joshwcomeau.com/css/designing-shadows/"/>
+        <updated>2021-09-17T22:49:39.000Z</updated>
+        <summary type="html"><![CDATA[My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …
+The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
+        <id>613f3cc7852f4307d372c7e4</id>
+        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
+        <updated>2021-09-17T18:22:47.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Science Unleashed, Chapter 1: Connections]]></title>
+        <id>https://css-tricks.com/?p=350843</id>
+        <link href="https://css-tricks.com/computer-science-unleashed-chapter-1-connections/"/>
+        <updated>2021-09-17T15:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Humans crave connections, and the advent of the digital revolution has empowered us to be more connected than ever before. The Internet has unleashed upon billions of people unprecedented economic and political freedom, as well as powerful means of control and domination. Yet, the vast majority of us are oblivious to its inner workings.
+The post Computer Science Unleashed, Chapter 1: Connections appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Wladston Viana Ferreira Filho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Combine’s share operator to avoid duplicate work]]></title>
+        <id>https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work</id>
+        <link href="https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work"/>
+        <updated>2021-09-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How the share operator enables a Combine publisher to be reused without requiring duplicate work to be performed for each subscriber.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions 101: Actions, Actions, Actions]]></title>
+        <id>https://lo-victoria.com/github-actions-101-actions-actions-actions</id>
+        <link href="https://lo-victoria.com/github-actions-101-actions-actions-actions"/>
+        <updated>2021-09-17T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to Part 3 of the GitHub Actions series. A series where we will walk through everything you need to know about GitHub Actions, from the basics to creating your own customized workflow.
+In this previous part, we learned about Environment Variables and how they can be used in a workflow. A reader then asked about secrets so let me quickly follow-up the great question in this part, then move onto actions.
+If you have missed Part 2, please read it here.
+Secrets
+Secrets are encrypted environment variables. It allows you to use sensitive information   for your workflow. You can create secrets for a repository, organization on environment.
+Once a secret is created and stored, it cannot be viewed or edited. To change a secret, you would need to delete it and create a new one with …]]></summary>
+        <author>
+            <name>Victoria Lo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetize Open-Source Software With Gatsby Functions And Stripe]]></title>
+        <id>https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/</id>
+        <link href="https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/"/>
+        <updated>2021-09-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
         <id>613f6bc9852f4307d372ca83</id>
@@ -112,16 +179,6 @@ The post Shadow Roots and Inheritance appeared first on CSS-Tricks. You can supp
         <link href="https://www.freecodecamp.org/news/html-file-text-editor-how-to-open-web-page-code-in-windows-notepad/"/>
         <updated>2021-09-16T15:08:00.000Z</updated>
         <summary type="html"><![CDATA[Notepad is a built-in text editor that comes pre-installed on Windows machines of all versions – XP, Windows 7, Windows 8, Windows 10, and so on.  It is the default Windows text editor. You can think of Notepad as your VS Code or favorite text editor with fewer capabilities.  Coding with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript toLowerCase() – How to Convert a String to Lowercase and Uppercase in JS]]></title>
-        <id>6141d9cf852f4307d372e031</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tolowercase-how-to-convert-a-string-to-lowercase-and-uppercase-in-js/"/>
-        <updated>2021-09-16T15:07:34.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how to convert a string to lowercase and uppercase characters.  We'll also go over how to make only the first letter in a word uppercase and how to make the first letter of every word in a sentence uppercase.  Let's get started!  How to use the toLowerCase(]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -492,34 +549,6 @@ jobs:
 However, using…]]></summary>
         <author>
             <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fun Times Styling Checkbox States]]></title>
-        <id>https://css-tricks.com/?p=351034</id>
-        <link href="https://css-tricks.com/fun-times-styling-checkbox-states/"/>
-        <updated>2021-09-10T14:53:24.000Z</updated>
-        <summary type="html"><![CDATA[We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.
-Although designing checkboxes is not that complicated, we also don’t …
-The post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EyeDropper API Dropped]]></title>
-        <id>https://css-tricks.com/?p=351697</id>
-        <link href="https://css-tricks.com/eyedropper-api-dropped/"/>
-        <updated>2021-09-10T14:47:11.000Z</updated>
-        <summary type="html"><![CDATA[I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). 
-🎨 Loving the new `EyeDropper` Web API: 
-“`js
-await new EyeDropper().open();
-// Returns the picked color, e.g.,
-…
-The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -1321,36 +1350,6 @@ The nine most terrifying words in the English language are: I’m from the Gover
 Ronald Reagan, The President’s News Conference, August 12, 1986]]></summary>
         <author>
             <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
-        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
-        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
-        <updated>2021-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devin Harold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Resources for Developers - II]]></title>
-        <id>https://blog.suhailkakar.com/design-resources-for-developers-ii</id>
-        <link href="https://blog.suhailkakar.com/design-resources-for-developers-ii"/>
-        <updated>2021-08-19T06:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Are you searching for the best design resources? This is a collection that every developer should bookmark since it contains the greatest resources for creating an eye-catching and aesthetically enhanced project.
-Introduction
-Every developer's job entails some kind of product design. It's not just about having a good appearance; it's also about having engaging visuals and a good overall presentation. Rather than spending time and money on a lengthy design process, it is preferable to leverage resources that offer ready-to-use components and features for a fantastic, amazing, and outstanding product.
-Part one of these resources can be found here
-Table of contents
-Accessibility resources
-Checklists
-Guidelines
-Industry leaders, educators, and consultants
-Online courses
-Pattern/component libra…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
         </author>
     </entry>
 </feed>
