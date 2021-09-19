@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-18T00:47:09.117Z</id>
+    <id>urn:2021-09-19T00:48:29.320Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-18T00:47:09.117Z</updated>
+    <updated>2021-09-19T00:48:29.320Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1240,116 +1240,6 @@ Here in the above example, we see some duplicate set elements like Pasta and Piz
 You might think the elements were 5 before …]]></summary>
         <author>
             <name>Insha Ramin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Quick Beginner's Guide to Set Up Auth0 + React]]></title>
-        <id>https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react</id>
-        <link href="https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react"/>
-        <updated>2021-08-20T12:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone, Hashnode's Auth0 hackathon is still ongoing. For those who have not used Auth0 before and just getting started on their hackathon projects to implement Auth0, here is a super quick step-by-step guide to set up and integrate it to a React app.
-Step 1: Sign Up For An Account
-Go to https://auth0.com/signup to create a free Auth0 account.
-
-Follow the sign-up steps. You can continue with the default tenant domain name and region they set for you, or customize it yourself.
-
-Tenant: represents the user domain that has access to the Auth0 application configurations, assets, connections, etc. The tenant domain name will be the URL used to access resources such as the Auth0 API.
-Step 2: Create an Application
-Now, you will be redirected to your Auth0 Dashboard. Let's start by clicking…]]></summary>
-        <author>
-            <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack CMS: The Past, The Present and The Future]]></title>
-        <id>https://smashingmagazine.com/2021/08/history-future-jamstack-cms/</id>
-        <link href="https://smashingmagazine.com/2021/08/history-future-jamstack-cms/"/>
-        <updated>2021-08-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mike Neumegen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Google Like A Pro]]></title>
-        <id>https://blog.suhailkakar.com/how-to-use-google-like-a-pro</id>
-        <link href="https://blog.suhailkakar.com/how-to-use-google-like-a-pro"/>
-        <updated>2021-08-20T05:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Google is such a dominant force in the search engine industry that it is the default search engine for Android smartphones and web browsers such as Chrome. To put it frankly, Google has become one of the most widely utilized online resources for discovering everything from random facts and music videos to products and services.
-The sophisticated Google search methods and tips listed below can help you narrow your search results.
-1. Site:
-Using site: will search within a specific website. For example, if you want to find an article that is published only on Hackernoon, you can simply type 
-site:hackernoon.com article_keyword
-
-
-2. Asterisk *
-You can use * to fill missing words or phrases, like :
-How to integrate * in nodejs
-
-
-3. Quotation " "
-"" is used to search for words or phrases, like :
-"Why facebook created react"
-
-
-4. Related:
-You can use related: to sites that are similar to other sites, for example
-related:netflix.com
-
-
-5. link:
-Use link: to find a page that links to another page, like : 
-link:suhailkakar.com
-
-
-Conclusion ⌛
-I hope you found these tips helpful. If you need any help please let me know in the comment section. 
-Let's connect on  Twitter  and  LinkedIn  
-👋 Thanks for reading, See you next time]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Liquid Blocks in Eleventy Layouts]]></title>
-        <id>https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts</id>
-        <link href="https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts"/>
-        <updated>2021-08-19T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today's post is based on an interesting question I ran into on StackOverflow: How do I use LiquidJS Layout Blocks in Eleventy? The person asking the question was trying to accomplish the following:]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Division Between People]]></title>
-        <id>https://www.stefanimhoff.de/quotes/the-real-division-between-people/</id>
-        <link href="https://www.stefanimhoff.de/quotes/the-real-division-between-people/"/>
-        <updated>2021-08-19T16:39:45.000Z</updated>
-        <summary type="html"><![CDATA[The real division and conflict are not between Liberals and Conservatives as we always hear in the media. It is between those who want a strong, central government that controls the life of its citizens on the one side and those who want a transparent, slim government and strong, self-reliant citizens on the other side.
-The real division is not between conservatives and revolutionaries but between authoritarians and libertarians.
-George Orwell
-Those two views of life are not compatible and will always conflict. You can find out what you are with The Political Compass test.
-In a News Conference in 1986 Ronald Reagan said probably the most famous quote for every Libertarian:
-The nine most terrifying words in the English language are: I’m from the Government, and I’m here to help.
-Ronald Reagan, The President’s News Conference, August 12, 1986]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Division Between People]]></title>
-        <id>https://www.stefanimhoff.de/quotes/the-real-division-between-people/</id>
-        <link href="https://www.stefanimhoff.de/quotes/the-real-division-between-people/"/>
-        <updated>2021-08-19T16:39:45.000Z</updated>
-        <summary type="html"><![CDATA[The real division and conflict are not between Liberals and Conservatives as we always hear in the media. It is between those who want a strong, central government that controls the life of its citizens on the one side and those who want a transparent, slim government and strong, self-reliant citizens on the other side.
-The real division is not between conservatives and revolutionaries but between authoritarians and libertarians.
-George Orwell
-Those two views of life are not compatible and will always conflict. You can find out what you are with The Political Compass test.
-In a News Conference in 1986 Ronald Reagan said probably the most famous quote for every Libertarian:
-The nine most terrifying words in the English language are: I’m from the Government, and I’m here to help.
-Ronald Reagan, The President’s News Conference, August 12, 1986]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
         </author>
     </entry>
 </feed>
