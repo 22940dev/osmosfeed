@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-19T00:48:29.320Z</id>
+    <id>urn:2021-09-20T00:51:53.192Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T00:48:29.320Z</updated>
+    <updated>2021-09-20T00:51:53.192Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Supporting Multiple Authors in an Eleventy Blog - Follow-Up]]></title>
+        <id>https://www.raymondcamden.com/2021/09/19/supporting-multiple-authors-in-an-eleventy-blog-follow-up</id>
+        <link href="https://www.raymondcamden.com/2021/09/19/supporting-multiple-authors-in-an-eleventy-blog-follow-up"/>
+        <updated>2021-09-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[About a year ago I wrote up a blog post demonstrating how to set up an Eleventy blog that supports multiple authors (Supporting Multiple Authors in an Eleventy Blog). While you should definitely read that post first, the gist of it goes like this:]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
         <id>https://css-tricks.com/?p=352082</id>
@@ -1209,37 +1219,6 @@ Let's connect on  Twitter  and  LinkedIn
 After relying on community developed solutions for many years, MongoDB announced that they were working on an official driver for Go. In March 2019, this new driver reached a production-ready status with the release of v1.0.0 and has been updated continually since then.]]></summary>
         <author>
             <name>ayo@freshman.tech (Ayooluwa Isaiah)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using static protocol APIs to create conforming instances]]></title>
-        <id>https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances</id>
-        <link href="https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances"/>
-        <updated>2021-08-20T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[How we can now use Swift’s very convenient “dot syntax” to refer to protocol-conforming types, and how that improves some of SwiftUI’s styling APIs.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide To Set and Map in JavaScript]]></title>
-        <id>https://inshaweb.hashnode.dev/the-ultimate-guide-to-set-and-map-in-javascript</id>
-        <link href="https://inshaweb.hashnode.dev/the-ultimate-guide-to-set-and-map-in-javascript"/>
-        <updated>2021-08-20T15:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Hey there, JavaScript Developers👩‍💻
-In this article we'll dig deeper into the concepts of Set and Map. 
-What is a Set?
-A Set is a collection of unique values. That means the set can never have any duplicates and can hold any values of any data type. You can iterate through the elements of a set in insertion order.
-Okay, this sounds interesting. So the question is how to create a set?
-To create a set we write- new Set() and in the parentheses, we need to pass an iterable.
-const ordersSet= new Set(['Pasta','Pizza','Coffee','Pasta','Pizza']);
-
-console.log(ordersSet);  // {'Pasta', 'Pizza', 'Coffee'}
-
-Here in the above example, we see some duplicate set elements like Pasta and Pizza. When we log in to the console we get a set that has a size of 3. 
-You might think the elements were 5 before …]]></summary>
-        <author>
-            <name>Insha Ramin</name>
         </author>
     </entry>
 </feed>
