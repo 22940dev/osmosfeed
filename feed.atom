@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-25T00:47:14.432Z</id>
+    <id>urn:2021-09-26T00:50:41.652Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-25T00:47:14.432Z</updated>
+    <updated>2021-09-26T00:50:41.652Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Previewing SwiftUI views in landscape]]></title>
+        <id>https://www.swiftbysundell.com/articles/previewing-swiftui-views-in-landscape</id>
+        <link href="https://www.swiftbysundell.com/articles/previewing-swiftui-views-in-landscape"/>
+        <updated>2021-09-25T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[How to preview a SwiftUI view in landscape using Xcode 13, and how to enable that new feature to be used within projects that also support previous iOS versions.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Systems for z-index]]></title>
         <id>https://css-tricks.com/?p=352287</id>
@@ -37,6 +47,16 @@ The post The Self Provisioning Runtime appeared first on CSS-Tricks. You can sup
         <summary type="html"><![CDATA[Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a (Manual) Related Posts Feature in Eleventy]]></title>
+        <id>https://www.raymondcamden.com/2021/09/24/creating-a-manual-related-posts-feature-in-eleventy</id>
+        <link href="https://www.raymondcamden.com/2021/09/24/creating-a-manual-related-posts-feature-in-eleventy"/>
+        <updated>2021-09-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Something I miss from my old blog-ware was the ability to define blog post relationships. While editing a post, I could easily select posts I wanted to create a connection with. When the blog post was rendered, these related entries were shown at the end in a consistent manner. These relationships were bidirectional so if post A linked to C, when rendering C I'd render a link to A as a related post. I was curious how this could be done with Eleventy.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
         </author>
     </entry>
     <entry>
@@ -1115,77 +1135,6 @@ Know the business context of the app, the purpose it serves for the compa…]]><
         <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ultimate Guide to Git and Github]]></title>
-        <id>https://blog.suhailkakar.com/an-ultimate-guide-to-git-and-github</id>
-        <link href="https://blog.suhailkakar.com/an-ultimate-guide-to-git-and-github"/>
-        <updated>2021-08-27T08:26:40.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, we all know a little about Git and GitHub but there are some developers who still have doubt and question about Git and GitHub. Therefore in this article, I am going to break everything down regarding Git and GitHub, so that you can understand it clearly. 
-Table of contents
-Introduction
-Installation
-Linux
-Debian / Ubuntu (apt-get)
-Fedora (dnf/yum)
-Windows
-Mac
-Basic GitHub terms
-Basic Git Command
-Demonstration
-GitHub special repository
-Conclusion 
-Introduction
-Git is a source code management technology used by DevOps. It is a free and open-source version control system that is used to efficiently manage small to extremely big projects.
-Git is a version control system. Version control is a file manager that maintains track of changes to your projects over time and keeps a com…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Don’t Believe Anything the Government Tells Me]]></title>
-        <id>https://www.stefanimhoff.de/quotes/i-do-not-believe-anything-the-government-tells-me/</id>
-        <link href="https://www.stefanimhoff.de/quotes/i-do-not-believe-anything-the-government-tells-me/"/>
-        <updated>2021-08-27T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I have certain rules I live by. My first rule: I don’t believe anything the government tells me. Nothing. Zero.
-George Carlin]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Don’t Believe Anything the Government Tells Me]]></title>
-        <id>https://www.stefanimhoff.de/quotes/i-do-not-believe-anything-the-government-tells-me/</id>
-        <link href="https://www.stefanimhoff.de/quotes/i-do-not-believe-anything-the-government-tells-me/"/>
-        <updated>2021-08-27T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I have certain rules I live by. My first rule: I don’t believe anything the government tells me. Nothing. Zero.
-George Carlin]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design for Safety, An Excerpt]]></title>
-        <id>https://alistapart.com/article/design-for-safety-excerpt/</id>
-        <link href="https://alistapart.com/article/design-for-safety-excerpt/"/>
-        <updated>2021-08-26T15:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.
-This chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)
-The process for inclusive safety
-When you are designing for …]]></summary>
-        <author>
-            <name>by</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Async sequences, streams, and Combine]]></title>
-        <id>https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine</id>
-        <link href="https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine"/>
-        <updated>2021-08-26T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[How Swift’s AsyncSequence and AsyncStream APIs can be used to build asynchronous sequences, and how they relate to Apple’s Combine framework.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
         </author>
     </entry>
 </feed>
