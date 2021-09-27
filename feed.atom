@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-26T00:50:41.652Z</id>
+    <id>urn:2021-09-27T00:48:32.039Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T00:50:41.652Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:48:32.040Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
+        <updated>2021-09-26T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
+Fixed: project root npm install error
+Added: unit test library
+Chore: Dependency updates
+Thank you: @CaptNo1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Web 3.0 - Everything you need to know about Web 3.0 before learning it]]></title>
+        <id>https://blog.suhailkakar.com/the-ultimate-guide-to-web-3</id>
+        <link href="https://blog.suhailkakar.com/the-ultimate-guide-to-web-3"/>
+        <updated>2021-09-26T12:34:15.000Z</updated>
+        <summary type="html"><![CDATA[You've probably heard about Web3 unless you've been living under a rock. Web 3.0 is the next step in the web's growth, and it aims to make the internet more intelligent. Before learning more about Web3, let's understand the evolution of the web first.  
+Over the last few years, the World Wide Web has developed, bringing with it new tools and strategies. Web 1.0, 2.0, and 3.0 are typical names for these stages. Now let's understand each of their stags. 
+Web 1.0
+It is the first stage in the evolution of the web, which is also referred as the read-only web. Web 1.0 websites were not as dynamic and interactive as it is now. The primary goal of the websites was to make the information available to the general public. As servers were improved, average connection speeds rose, and developers gaine…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Previewing SwiftUI views in landscape]]></title>
         <id>https://www.swiftbysundell.com/articles/previewing-swiftui-views-in-landscape</id>
@@ -1110,31 +1137,6 @@ Link: https://github.com/mrdoob/three.js
 D3 JS - Bring data t…]]></summary>
         <author>
             <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tips to Easily Get Familiarize With Any Codebase]]></title>
-        <id>https://lo-victoria.com/5-tips-to-easily-get-familiarize-with-any-codebase</id>
-        <link href="https://lo-victoria.com/5-tips-to-easily-get-familiarize-with-any-codebase"/>
-        <updated>2021-08-27T14:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are starting a new job or contributing to an open source project, there are times when you will need to quickly ramp up and get familiar with a large code base. In this article, let's discuss some tips to get started with becoming familiar with any code base easily.
-1. Understand the Business
-Before even jumping into the codebase, I recommend understanding the 'macros' aka the business behind the product you're going to be responsible for. No need to understand every single intricacies about the company, but at least information around these few points:
-Understand the value the company is giving to its customers
-Know what software are currently in development (and which one you're likely to be working on)
-Know the business context of the app, the purpose it serves for the compa…]]></summary>
-        <author>
-            <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Components In React]]></title>
-        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
-        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
-        <updated>2021-08-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
         </author>
     </entry>
 </feed>
