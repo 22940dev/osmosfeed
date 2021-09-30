@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-29T00:47:02.480Z</id>
+    <id>urn:2021-09-30T00:53:30.941Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-29T00:47:02.480Z</updated>
+    <updated>2021-09-30T00:53:30.941Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Count – How to Select, Sum, and Average Rows in SQL]]></title>
+        <id>612cbfe4b5177808226d4a4b</id>
+        <link href="https://www.freecodecamp.org/news/sql-count-how-to-select-sum-and-average-rows-in-sql/"/>
+        <updated>2021-09-29T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, there are two built-in functions to sum or average the data in your table.  In this article I will show you how to use the SUM and AVG functions in SQL using code examples.  How to use the SUM function in SQLIf you need to add a group]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Accordion Menu Using HTML, CSS and JavaScript]]></title>
+        <id>615440ac64aefe07d3fa0855</id>
+        <link href="https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/"/>
+        <updated>2021-09-29T19:45:33.000Z</updated>
+        <summary type="html"><![CDATA[You can use HTML, CSS and JavaScript to create stylish and dynamic web elements. And one useful element you can build is an accordion menu. Accordion menus expand and collapse when a user clicks a button. It's a great way to not have to show all the info about a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Comment – How to Comment Out a Line or Tag in HTML]]></title>
+        <id>6154412664aefe07d3fa085b</id>
+        <link href="https://www.freecodecamp.org/news/html-comment-how-to-comment-out-a-line-or-tag-in-html/"/>
+        <updated>2021-09-29T17:03:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to add single and multi-line comments to your HTML documents.  You'll also see why comments are considered a good practice when writing HTML code.  Let's get started!  The HTML Comment Tag The general syntax for an HTML comment looks like this:  <!-- I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Node.js Still Relevant and Worth Learning?]]></title>
+        <id>https://catalins.tech/is-nodejs-still-relevant-and-worth-learning</id>
+        <link href="https://catalins.tech/is-nodejs-still-relevant-and-worth-learning"/>
+        <updated>2021-09-29T16:55:28.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I want to talk about Node.js and, more specifically - if it's still relevant and worth learning.
+But before going further, let's refresh our minds on Node. In official terms, Node.js is a JavaScript runtime that runs on Chrome's V8 engine. Still a bit complicated? In simpler terms, Node.js allows developers to run JavaScript on the Back-end. That is, you can build web servers with JavaScript.
+Before Node.js, you could only run JavaScript in the browser, and it was used to make websites interactive. But you could not run JavaScript in other places; it was only on the client-side.
+When Node.js was released in 2009, it changed that! It allowed developers to write JavaScript applications and run them natively on their machines for the first time.
+What makes Node.js so great?
+S…]]></summary>
+        <author>
+            <name>Catalin Pit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #7]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-7/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-7/"/>
+        <updated>2021-09-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Squid Game    [N] – This Korean TV Show is thrilling and shocking.
+Money Heist    [N] – The first half of the last season is available.
+Sex Education    [N] – The 3rd season of this funny TV Show started.
+Academy of Ideas: How to Escape from a Sick Society
+After Skool: The Dangers of Victimhood – Jordan Peterson – Another talk of Jordan Peterson beautifully animated.
+My University Sacrificed Ideas for Ideology. So Today I Quit.. Portland State Sacrificed Ideas for Ideology. So Peter Boghossian Quit
+Foundation for Economic Education: The Suicide Squad is Actually… Realistic??
+A fantastic interview with Amanda Knox, who was wrongfully convicted for murder, on Joe Rogan.
+Bret and Heather talk about their new Book A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of M…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link Bundle #7]]></title>
+        <id>https://www.stefanimhoff.de/links/bundle-7/</id>
+        <link href="https://www.stefanimhoff.de/links/bundle-7/"/>
+        <updated>2021-09-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Squid Game    [N] – This Korean TV Show is thrilling and shocking.
+Money Heist    [N] – The first half of the last season is available.
+Sex Education    [N] – The 3rd season of this funny TV Show started.
+Academy of Ideas: How to Escape from a Sick Society
+After Skool: The Dangers of Victimhood – Jordan Peterson – Another talk of Jordan Peterson beautifully animated.
+My University Sacrificed Ideas for Ideology. So Today I Quit.. Portland State Sacrificed Ideas for Ideology. So Peter Boghossian Quit
+Foundation for Economic Education: The Suicide Squad is Actually… Realistic??
+A fantastic interview with Amanda Knox, who was wrongfully convicted for murder, on Joe Rogan.
+Bret and Heather talk about their new Book A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of M…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Streams Everywhere (and Fetch for Node.js)]]></title>
+        <id>https://css-tricks.com/?p=352723</id>
+        <link href="https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/"/>
+        <updated>2021-09-29T14:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …
+The post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Dev Shortcuts in iOS 15]]></title>
+        <id>https://css-tricks.com/?p=352627</id>
+        <link href="https://css-tricks.com/front-end-dev-shortcuts-in-ios-15/"/>
+        <updated>2021-09-29T14:51:22.000Z</updated>
+        <summary type="html"><![CDATA[I was pretty stoked when Chris shared a way to “View Source” on mobile. Sure, it’s not the same as a built-in feature but it allows iOS users like myself a way to peek at a site’s code the …
+The post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Modern Image Formats: AVIF And WebP]]></title>
+        <id>https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/</id>
+        <link href="https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/"/>
+        <updated>2021-09-29T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Addy Osmani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar]]></title>
         <id>614e7e50ccc97307eb2bc3e5</id>
@@ -18,7 +131,7 @@
     <entry>
         <title type="html"><![CDATA[So many little design helper sites!]]></title>
         <id>https://css-tricks.com/?p=352669</id>
-        <link href="https://css-tricks.com/__trashed/"/>
+        <link href="https://css-tricks.com/so-many-little-design-helper-sites/"/>
         <updated>2021-09-28T21:00:04.000Z</updated>
         <summary type="html"><![CDATA[I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. 
 
@@ -143,16 +256,6 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Closed Principle – The Software Development Concept Explained in Plain English]]></title>
-        <id>6148802f9456b407b870f041</id>
-        <link href="https://www.freecodecamp.org/news/open-closed-principle/"/>
-        <updated>2021-09-27T19:43:06.000Z</updated>
-        <summary type="html"><![CDATA[There are many articles about the Open-Closed Principle, but I can never find one that explains it in a way that really works for me.  So here, hopefully, is a good one – with a non trivial and real life example, what changes to support, and a description of the trade]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tonic (Component Framework)]]></title>
         <id>https://css-tricks.com/?p=352621</id>
         <link href="https://css-tricks.com/tonic-component-framework/"/>
@@ -161,26 +264,6 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
 The post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Share Your Knowledge as a Developer]]></title>
-        <id>61508279ccc97307eb2bca3f</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-share-your-knowledge-as-a-developer/"/>
-        <updated>2021-09-27T17:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Sharing your knowledge can help you improve your skills and level up your career as a developer. Many developers are already doing it, and if you aren't, this article is for you. In it, I will show you why you should share your coding expertise by looking at five extraordinary]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the DOM? Document Object Model Meaning in JavaScript]]></title>
-        <id>613f3cd3852f4307d372c7e8</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/"/>
-        <updated>2021-09-27T16:23:19.000Z</updated>
-        <summary type="html"><![CDATA[If you have just started learning JavaScript, you might have heard of the DOM. But what is it exactly? In this article, I will explain what the DOM is and provide some JavaScript code examples.  We will take a look at how to select elements from an HTML document, how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -232,21 +315,21 @@ It is the first stage in the evolution of the web, which is also referred as the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Image from React Component (JPG or PNG)]]></title>
-        <id>https://www.robinwieruch.de/react-component-to-image</id>
-        <link href="https://www.robinwieruch.de/react-component-to-image"/>
+        <title type="html"><![CDATA[PDF from React Component]]></title>
+        <id>https://www.robinwieruch.de/react-component-to-pdf</id>
+        <link href="https://www.robinwieruch.de/react-component-to-pdf"/>
         <updated>2021-09-26T05:52:46.000Z</updated>
-        <summary type="html"><![CDATA[How to generate an image from a React component by extracting it as JPG or PNG ...]]></summary>
+        <summary type="html"><![CDATA[How to print a PDF from a React component and download it as PDF by generating ...]]></summary>
         <author>
             <name>RWieruch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PDF from React Component]]></title>
-        <id>https://www.robinwieruch.de/react-component-to-pdf</id>
-        <link href="https://www.robinwieruch.de/react-component-to-pdf"/>
+        <title type="html"><![CDATA[Image from React Component (JPG or PNG)]]></title>
+        <id>https://www.robinwieruch.de/react-component-to-image</id>
+        <link href="https://www.robinwieruch.de/react-component-to-image"/>
         <updated>2021-09-26T05:52:46.000Z</updated>
-        <summary type="html"><![CDATA[How to generate a PDF from a React component by extracting a part of your visible React application ...]]></summary>
+        <summary type="html"><![CDATA[How to generate an image from a React component by extracting it as JPG or PNG ...]]></summary>
         <author>
             <name>RWieruch</name>
         </author>
@@ -422,17 +505,6 @@ The post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. Yo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter’s div Soup and Uglyfied CSS, Explained]]></title>
-        <id>https://css-tricks.com/?p=352388</id>
-        <link href="https://giuseppegurgone.com/twitter-html/"/>
-        <updated>2021-09-22T21:09:12.000Z</updated>
-        <summary type="html"><![CDATA[When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …
-The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
         <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
         <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
@@ -440,17 +512,6 @@ The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-
         <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Logging in a Node.js Application With Pino-logger]]></title>
-        <id>https://css-tricks.com/?p=352074</id>
-        <link href="https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/"/>
-        <updated>2021-09-22T14:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …
-The post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sarthak Duggal</name>
         </author>
     </entry>
     <entry>
@@ -1134,40 +1195,6 @@ As a self-taught developer, it's your responsibility to find a standard structur
         <summary type="html"><![CDATA[By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Old Man on the Bench]]></title>
-        <id>https://www.stefanimhoff.de/the-old-man-on-the-bench/</id>
-        <link href="https://www.stefanimhoff.de/the-old-man-on-the-bench/"/>
-        <updated>2021-08-31T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When my daily routines were changed by force by the Corona crisis, I picked up a new habit: Walking. Each day I walked around lakes and through forests in the morning, during lunchtime, or in the evening.
-One day in the spring I saw an old man, sitting on a bench next to a lake in the forest. His foldable bike next to the bench, a binocular in his hands, he was watching birds.
-The weeks went by and I saw him again and again. Our encounters started with a nod, then a short greeting, each time I passed by the bench. And one day he lifted his hand, signalizing me he would like to say something. I don’t remember what he wanted to talk about, maybe how nice the weather was or that he was happy it stopped raining.
-Weeks passed and we greeted each other and sometimes we talked for a few minutes.
-…]]></summary>
-        <author>
-            <name>Stefan Imhoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stories Of September (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/</id>
-        <link href="https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/"/>
-        <updated>2021-08-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using PDFs with the Jamstack - Building a Document Viewer]]></title>
-        <id>https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer</id>
-        <link href="https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer"/>
-        <updated>2021-08-30T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been blogging quite a bit about how to integrate Adobe's PDF Services with the Jamstack (11ty specifically but applicable to any generator) and today's I think is pretty cool. One of the features of our PDF API is the ability to convert documents into PDF. I thought it would be interesting to use that as a way to provide a consistent document viewing experience using PDF and the free PDF Embed API. Here's what I came up, and as always, comments and suggestions are welcome!]]></summary>
-        <author>
-            <name>Raymond Camden</name>
         </author>
     </entry>
 </feed>
