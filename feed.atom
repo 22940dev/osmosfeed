@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-01T00:52:34.009Z</id>
+    <id>urn:2021-10-02T00:47:49.467Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-01T00:52:34.009Z</updated>
+    <updated>2021-10-02T00:47:49.467Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Links on React and JavaScript II]]></title>
+        <id>https://css-tricks.com/?p=352717</id>
+        <link href="https://css-tricks.com/links-on-react-and-javascript-ii/"/>
+        <updated>2021-10-01T21:09:25.000Z</updated>
+        <summary type="html"><![CDATA[How To Use The Vite Build Tool with React — Vite is hot, in part, because it’s based on esbuild and wickedly fast. It’s from Evan You of Vue fame, but it’s not a Vue-specific tool. Here, NARUHODO covers how 
+…
+The post Links on React and JavaScript II appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the platform]]></title>
+        <id>https://css-tricks.com/?p=352867</id>
+        <link href="https://elisehe.in/2021/08/22/using-the-platform"/>
+        <updated>2021-10-01T18:50:43.000Z</updated>
+        <summary type="html"><![CDATA[I'm certainly not dogmatic about it, but I think if you can pull of a project with literally zero build process, it feels good while working on it and feels very good when you come back to it months/years later and can just pick up and go.
+The post Using the platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve the Problem of Multiple Inheritance in Java]]></title>
+        <id>613f8a73852f4307d372cc55</id>
+        <link href="https://www.freecodecamp.org/news/how-to-solve-multiple-inheritance-in-java/"/>
+        <updated>2021-10-01T14:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Java is one of the most popular object-oriented programming languages in use today.  Because it is platform-independent, you will find Java applications on every type of device and every operating system. And because Java is relatively easy to learn, it is one of the first languages that many programmers pick]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programmatic navigation in SwiftUI]]></title>
+        <id>https://www.swiftbysundell.com/articles/swiftui-programmatic-navigation</id>
+        <link href="https://www.swiftbysundell.com/articles/swiftui-programmatic-navigation"/>
+        <updated>2021-10-01T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[How we can take direct control over SwiftUI’s navigation system, which enables us to dynamically show and hide views within either a TabView or NavigationView.]]></summary>
+        <author>
+            <name>Swift by Sundell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With Built-in GraphQL Directives]]></title>
+        <id>https://css-tricks.com/?p=352798</id>
+        <link href="https://css-tricks.com/working-with-built-in-graphql-directives/"/>
+        <updated>2021-10-01T14:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Directives are one of GraphQL’s best — and most unspoken — features.
+Let’s explore working with GraphQL’s built-in schema and operation directives that all GraphQL spec compliant APIs must implement. They are extremely useful if you are working with a …
+The post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jamie Barton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions 101 Finale: Build Your Custom Action]]></title>
+        <id>https://lo-victoria.com/github-actions-101-finale-build-your-custom-action</id>
+        <link href="https://lo-victoria.com/github-actions-101-finale-build-your-custom-action"/>
+        <updated>2021-10-01T14:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to Part 5 (Finale) of the GitHub Actions series. A series where we will walk through everything you need to know about GitHub Actions, from the basics to creating your own customized workflow and actions.
+In this previous part, we have built a complete CI/CD workflow by incorporating everything we have learned from Part 1 to Part 3.
+If you have missed any parts, be sure to follow along from the top by checking out the series here.
+In this final part of the series, let's build our own custom action and deploy it to use in a workflow.
+About Custom Actions
+Some requirements to know when building a custom action:
+Must have metadata file called action.yml or action.yaml, which contains the inputs, outputs and entry point of our action
+Repository must be public to share or publ…]]></summary>
+        <author>
+            <name>Victoria Lo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch]]></title>
+        <id>https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/</id>
+        <link href="https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/"/>
+        <updated>2021-10-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miracle Onyemna)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessibility Best Practices for Mobile App Development]]></title>
         <id>611b08a4e884de075217ff23</id>
@@ -246,16 +328,6 @@ The post So many little design helper sites! appeared first on CSS-Tricks. You c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Publish an HTML Website on Netlify or GitHub Pages]]></title>
-        <id>613c75b1852f4307d372b9ab</id>
-        <link href="https://www.freecodecamp.org/news/publish-your-website-netlify-github/"/>
-        <updated>2021-09-28T17:36:52.000Z</updated>
-        <summary type="html"><![CDATA[You have finished creating your HTML website and you're feeling proud of your hard work. But there is one thing that is still missing: you have no idea how to publish your website. In this tutorial, you will learn how to publish an HTML website using two popular platforms – Netlify]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS Browser Choice]]></title>
         <id>https://css-tricks.com/?p=352681</id>
         <link href="https://css-tricks.com/ios-browser-choice/"/>
@@ -425,17 +497,6 @@ The post Comparing Methods for Appending and Inserting With JavaScript appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our Learning Partner: Frontend Masters]]></title>
-        <id>https://css-tricks.com/?p=351975</id>
-        <link href="https://css-tricks.com/our-learning-partner-frontend-masters-2/"/>
-        <updated>2021-09-24T14:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Frontend Masters has been our learning partner for a couple of years now. I love it. If you need structured learning to up your web development skills, Frontend Masters is the place. It works so well because we don’t offer …
-The post Our Learning Partner: Frontend Masters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Actions 101: Develop a CI/CD Workflow]]></title>
         <id>https://lo-victoria.com/github-actions-101-develop-a-cicd-workflow</id>
         <link href="https://lo-victoria.com/github-actions-101-develop-a-cicd-workflow"/>
@@ -469,29 +530,6 @@ Wait…]]></summary>
         <summary type="html"><![CDATA[You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Your Page Title on a Google Search Engine Results Page?]]></title>
-        <id>https://css-tricks.com/?p=352279</id>
-        <link href="https://css-tricks.com/what-is-your-page-title-on-a-google-search-engine-results-page/"/>
-        <updated>2021-09-23T18:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Whatever Google wants it to be. I always thought it was exactly what your <title> element was. Perhaps in lieu of that, what the first <h1> on the page is. But recently I noticed some pages on this site that …
-The post What is Your Page Title on a Google Search Engine Results Page? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working With GraphQL Caching]]></title>
-        <id>https://css-tricks.com/?p=352381</id>
-        <link href="https://css-tricks.com/working-with-graphql-caching/"/>
-        <updated>2021-09-23T14:32:01.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve recently started working with GraphQL, or reviewed its pros and cons, you’ve no doubt heard things like “GraphQL doesn’t support caching” or “GraphQL doesn’t care about caching.” And for most, that is a big deal.
-The official …
-The post Working With GraphQL Caching appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jamie Barton</name>
         </author>
     </entry>
     <entry>
@@ -1111,67 +1149,6 @@ Is this a promotional article? Absolutely not. I do not promote Hashnode because
         <summary type="html"><![CDATA[Roxana Jula joins John to discuss Apple’s various tools, frameworks, and APIs for building Augmented Reality experiences. How to get started building AR-based apps, what’s the current state of AR on Apple’s platforms, and how might that change if Apple were to introduce dedicated AR hardware in the future?]]></summary>
         <author>
             <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Learning Tools For Front-End Developers]]></title>
-        <id>https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/</id>
-        <link href="https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/"/>
-        <updated>2021-09-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ultimate Guide To Gatsby - Everything You Need To Know Before Starting with Gatsby]]></title>
-        <id>https://blog.suhailkakar.com/an-ultimate-guide-to-gatsby-everything-you-need-to-know-before-starting-with-gatsby</id>
-        <link href="https://blog.suhailkakar.com/an-ultimate-guide-to-gatsby-everything-you-need-to-know-before-starting-with-gatsby"/>
-        <updated>2021-09-02T04:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby websites are getting popular day by day. Nowadays most of the popular websites use Gatsby because of its speed, SEO and etc, and if you don't know anything about Gatsby, It is probably worth learning it in 2021. 
-Table of contents
-What is Gatsby?
-What are Static Sites?
-Why you should consider using Gatsby?
-SEO
-Plugins
-Speed
-Templates
-Why should you avoid Gatsby?
-Build Time
-Dynamic Websites
-Complex sites
-Set Up Your First Gatsby Website
-Installing Gatsby CLI
-Starter Templates
-Run your app locally
-Deploying Website To Netlify
-Conclusion
-What is Gatsby?
-GatsbyJS is a React-based, GraphQL powered static site generator. Gatsby is an open-source framework that combines functionality from React, GraphQL, and Webpack into a single tool for building static websites and apps. Although the ter…]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find Open Source Projects To Contribute As A Beginner]]></title>
-        <id>https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner</id>
-        <link href="https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner"/>
-        <updated>2021-09-01T14:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Finding an open-source project to contribute can be a frustrating process. Especially when you are a beginner and all projects look overwhelming.
-As a result, in this article, you will see a couple of ways and resources to find Open Source projects to contribute.
-Ways to contribute to a project
-
-
-Before continuing further, let's talk about a common misconception. Many developers have the misconception that contributing to open source is all about programming. 
-Thankfully, that is false, and there are many other ways to contribute to open-source. Some of the ways you can contribute are as follows:
-Writing and improving the documentation
-Creating tutorials and supporting material
-Organising issues on Github
-Translating the documentation and supporting material to other languages
-Reviewing co…]]></summary>
-        <author>
-            <name>Catalin Pit</name>
         </author>
     </entry>
 </feed>
