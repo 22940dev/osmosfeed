@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-02T00:47:49.467Z</id>
+    <id>urn:2021-10-03T00:54:03.134Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-02T00:47:49.467Z</updated>
+    <updated>2021-10-03T00:54:03.134Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Political Polarization]]></title>
+        <id>https://www.stefanimhoff.de/quotes/political-polarization/</id>
+        <link href="https://www.stefanimhoff.de/quotes/political-polarization/"/>
+        <updated>2021-10-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In his farewell speech at the end of his presidency, George Washington warned of the dangers of political polarization:
+This spirit, unfortunately, is inseparable from our nature, having its root in the strongest passions of the human mind. It exists under different shapes in all governments, more or less stifled, controlled, or repressed; but, in those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy. The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism […] It serves always to distract the public councils and enfeeble the public administration. It agitates the community wi…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Political Polarization]]></title>
+        <id>https://www.stefanimhoff.de/quotes/political-polarization/</id>
+        <link href="https://www.stefanimhoff.de/quotes/political-polarization/"/>
+        <updated>2021-10-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In his farewell speech at the end of his presidency, George Washington warned of the dangers of political polarization:
+This spirit, unfortunately, is inseparable from our nature, having its root in the strongest passions of the human mind. It exists under different shapes in all governments, more or less stifled, controlled, or repressed; but, in those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy. The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism […] It serves always to distract the public councils and enfeeble the public administration. It agitates the community wi…]]></summary>
+        <author>
+            <name>Stefan Imhoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide To Solidity - Blockchain Development]]></title>
+        <id>https://blog.suhailkakar.com/a-beginners-guide-to-solidity-blockchain-development</id>
+        <link href="https://blog.suhailkakar.com/a-beginners-guide-to-solidity-blockchain-development"/>
+        <updated>2021-10-02T05:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Solidity is an object-oriented, high-level programming language for creating smart contracts on the blockchain that automate transactions. The language was created by participants to the Ethereum project when it was proposed in 2014. This language is mostly used to make smart contracts on the Ethereum blockchain.
+According to its documentation, "Solidity is a curly-bracket language. It is influenced by C++, Python, and JavaScript, and is designed to target the Ethereum Virtual Machine (EVM)."
+Solidity is also considered a dialect of JavaScript. This implies that if you know JavaScript, learning Solidity should be simple. Before learning more about solidity let's understand some basic terms of blockchain.
+Table of Contents
+Ethereum Virtual Machine
+Smart Contract
+Environment Setup
+Reserved K…]]></summary>
+        <author>
+            <name>Suhail Kakar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on React and JavaScript II]]></title>
         <id>https://css-tricks.com/?p=352717</id>
@@ -895,19 +934,19 @@ However, using…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add An Advanced File Uploader To Your React.js App - Upload Care]]></title>
-        <id>https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-upload-care</id>
-        <link href="https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-upload-care"/>
+        <title type="html"><![CDATA[Add An Advanced File Uploader To Your React.js App - Uploadcare]]></title>
+        <id>https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-uploadcare</id>
+        <link href="https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-uploadcare"/>
         <updated>2021-09-10T05:08:29.000Z</updated>
         <summary type="html"><![CDATA[Overview
-In this article, we are going to integrate Upload Care ( An Advanced File Uploader ) which includes drag-and-drop image uploader, direct link image uploader and etc.. in our react.js app. 
+In this article, we are going to integrate Uploadcare ( An Advanced File Uploader ) which includes drag-and-drop image uploader, direct link image uploader and etc.. in our react.js app. 
 Creating a react app
 The first step is to create a simple react app which you can do just by running the command below in your terminal. 
 npx create-react-app upload-care
 
 This might take a while and it depends on your computer specs but once it is done go to the new directory which is created ( In our case upload-care ) and run npm start or yarn start. This command will start the development server for your react app. Now open this directory (In our case upload-care) in any code editor
 Cleaning up the project
-Once you opened the directory in your code editor, You can see that there are many fil…]]></summary>
+Once you opened the directory in your code editor, You can see that there are many file…]]></summary>
         <author>
             <name>Suhail Kakar</name>
         </author>
@@ -1103,52 +1142,6 @@ Before we get started, these following prerequisites are recommended to follow a
 Basic unders…]]></summary>
         <author>
             <name>Victoria Lo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing Carbon Emissions On The Web]]></title>
-        <id>https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/</id>
-        <link href="https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/"/>
-        <updated>2021-09-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Berwyn Powell)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conditional compilation within Swift expressions]]></title>
-        <id>https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions</id>
-        <link href="https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions"/>
-        <updated>2021-09-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Swift 5.5 enables us to conditionally compile postfix member expressions using compiler directives, and what kinds of situations that this new feature could be useful in.]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My First 6 Months as a Developer Advocate at Hashnode]]></title>
-        <id>https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode</id>
-        <link href="https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode"/>
-        <updated>2021-09-03T05:36:23.000Z</updated>
-        <summary type="html"><![CDATA[It feels like it was yesterday when I started working as a Developer Advocate at Hashnode. Time flies when you enjoy what you do!
-Thus, in this article, I want to discuss how I received the role and what it's like to be a Developer Advocate.
-Why am I writing this article
-
-
-First of all, I received the job by putting my work online and by networking. Thus, I want to show the power of social media. Secondly, many people asked me about what it's like to work as a Developer Advocate. So, I want to share my experience with them.
-Is this a promotional article? Absolutely not. I do not promote Hashnode because I work there. I work at Hashnode because I love the product. Whether I work at Hashnode or not, it does not change how I feel about Hashnode, the blogging platform. First and foremost, I am…]]></summary>
-        <author>
-            <name>Catalin Pit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: “The magic of Augmented Reality”, with special guest Roxana Jula]]></title>
-        <id>https://www.swiftbysundell.com/podcast/104</id>
-        <link href="https://www.swiftbysundell.com/podcast/104"/>
-        <updated>2021-09-02T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Roxana Jula joins John to discuss Apple’s various tools, frameworks, and APIs for building Augmented Reality experiences. How to get started building AR-based apps, what’s the current state of AR on Apple’s platforms, and how might that change if Apple were to introduce dedicated AR hardware in the future?]]></summary>
-        <author>
-            <name>Swift by Sundell</name>
         </author>
     </entry>
 </feed>

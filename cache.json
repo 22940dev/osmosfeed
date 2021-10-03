@@ -36,7 +36,7 @@
           "description": "How To Use The Vite Build Tool with React — Vite is hot, in part, because it’s based on esbuild and wickedly fast. It’s from Evan You of Vue fame, but it’s not a Vue-specific tool. Here, NARUHODO covers how \n…\nThe post Links on React and JavaScript II appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/links-on-react-and-javascript-ii/",
           "publishedOn": "2021-10-01T21:09:25.000Z",
-          "wordCount": 753,
+          "wordCount": 759,
           "title": "Links on React and JavaScript II"
         },
         {
@@ -45,7 +45,7 @@
           "description": "I'm certainly not dogmatic about it, but I think if you can pull of a project with literally zero build process, it feels good while working on it and feels very good when you come back to it months/years later and can just pick up and go.\nThe post Using the platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://elisehe.in/2021/08/22/using-the-platform",
           "publishedOn": "2021-10-01T18:50:43.000Z",
-          "wordCount": 3309,
+          "wordCount": 3344,
           "title": "Using the platform"
         },
         {
@@ -178,7 +178,7 @@
           "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
           "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
           "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4894,
+          "wordCount": 4892,
           "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
@@ -192,7 +192,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2462,
+          "wordCount": 2464,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -206,7 +206,7 @@
           "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
           "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
           "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5044,
+          "wordCount": 5045,
           "title": "Using Modern Image Formats: AVIF And WebP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
@@ -220,7 +220,7 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3875,
+          "wordCount": 3862,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
@@ -234,7 +234,7 @@
           "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
           "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
           "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4951,
+          "wordCount": 4945,
           "title": "Let’s Dive Into Cypress For End-to-End Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
@@ -304,7 +304,7 @@
           "description": "Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.",
           "link": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
           "publishedOn": "2021-09-21T11:30:00.000Z",
-          "wordCount": 4152,
+          "wordCount": 4146,
           "title": "How To Build Your Own Mouseless Development Environment",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5c58e67b-deff-4745-b162-f60f468469ac/mouseless-development-environment.jpg",
@@ -332,7 +332,7 @@
           "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
           "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
           "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3952,
+          "wordCount": 3957,
           "title": "Are Imposter Domains Re-Publishing Your Website?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
@@ -346,7 +346,7 @@
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
           "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2576,
+          "wordCount": 2580,
           "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
@@ -360,7 +360,7 @@
           "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
           "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
           "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4510,
+          "wordCount": 4518,
           "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
@@ -402,7 +402,7 @@
           "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
           "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
           "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2081,
+          "wordCount": 2079,
           "title": "The Power Of Pen And Paper Sketching",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
@@ -416,7 +416,7 @@
           "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
           "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 2997,
+          "wordCount": 2999,
           "title": "Orchestrating Complexity With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
@@ -430,7 +430,7 @@
           "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
           "link": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 2049,
+          "wordCount": 2044,
           "title": "Web Design Done Well: Excellent Editorial",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7af3bbbe-821b-4e3c-870a-f8290ed52212/web-design-done-well-excellent-editorial.jpg",
@@ -444,7 +444,7 @@
           "description": "When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.",
           "link": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-09-09T10:30:00.000Z",
-          "wordCount": 2055,
+          "wordCount": 2056,
           "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47c6e5fc-73b3-41fe-afb7-b640b860efa0/useswr-react-hook-library-incremental-static-regeneration-nextjs.jpg",
@@ -486,7 +486,7 @@
           "description": "Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.",
           "link": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
           "publishedOn": "2021-09-07T10:00:00.000Z",
-          "wordCount": 4048,
+          "wordCount": 4034,
           "title": "What’s New With DevTools: Cross-Browser Edition",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e0eef0e-e4b0-45b6-8afd-1d1a60b7c53b/devtools-cross-browsers.jpg",
@@ -500,24 +500,10 @@
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
           "link": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
           "publishedOn": "2021-09-06T11:00:00.000Z",
-          "wordCount": 9720,
+          "wordCount": 9717,
           "title": "HTTP/3: Practical Deployment Options (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a19cca97-b411-44a6-a8be-e1468a0df78a/http3-practical-deployment-options-part3.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
-          "author": "hello@smashingmagazine.com (Berwyn Powell)",
-          "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
-          "link": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
-          "publishedOn": "2021-09-03T11:30:00.000Z",
-          "wordCount": 3553,
-          "title": "Reducing Carbon Emissions On The Web",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdef7e38-4e37-4177-a7b3-d74860c7724f/reducing-carbon-emissions-on-web.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -654,7 +640,7 @@
           "description": "Squid Game    [N] – This Korean TV Show is thrilling and shocking.\nMoney Heist    [N] – The first half of the last season is available.\nSex Education    [N] – The 3rd season of this funny TV Show started.\nAcademy of Ideas: How to Escape from a Sick Society\nAfter Skool: The Dangers of Victimhood – Jordan Peterson – Another talk of Jordan Peterson beautifully animated.\nMy University Sacrificed Ideas for Ideology. So Today I Quit.. Portland State Sacrificed Ideas for Ideology. So Peter Boghossian Quit\nFoundation for Economic Education: The Suicide Squad is Actually… Realistic??\nA fantastic interview with Amanda Knox, who was wrongfully convicted for murder, on Joe Rogan.\nBret and Heather talk about their new Book A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of M…",
           "link": "https://www.stefanimhoff.de/links/bundle-7/",
           "publishedOn": "2021-09-29T16:00:00.000Z",
-          "wordCount": 415,
+          "wordCount": 417,
           "title": "Link Bundle #7"
         },
         {
@@ -673,6 +659,15 @@
       "feedUrl": "https://www.stefanimhoff.de/feed-quotes.xml",
       "siteUrl": "https://www.stefanimhoff.de",
       "articles": [
+        {
+          "id": "https://www.stefanimhoff.de/quotes/political-polarization/",
+          "author": null,
+          "description": "In his farewell speech at the end of his presidency, George Washington warned of the dangers of political polarization:\nThis spirit, unfortunately, is inseparable from our nature, having its root in the strongest passions of the human mind. It exists under different shapes in all governments, more or less stifled, controlled, or repressed; but, in those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy. The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism […] It serves always to distract the public councils and enfeeble the public administration. It agitates the community wi…",
+          "link": "https://www.stefanimhoff.de/quotes/political-polarization/",
+          "publishedOn": "2021-10-02T08:00:00.000Z",
+          "wordCount": 385,
+          "title": "Political Polarization"
+        },
         {
           "id": "https://www.stefanimhoff.de/quotes/but-if-not/",
           "author": null,
@@ -699,12 +694,21 @@
       "siteUrl": "https://www.stefanimhoff.de",
       "articles": [
         {
+          "id": "https://www.stefanimhoff.de/quotes/political-polarization/",
+          "author": null,
+          "description": "In his farewell speech at the end of his presidency, George Washington warned of the dangers of political polarization:\nThis spirit, unfortunately, is inseparable from our nature, having its root in the strongest passions of the human mind. It exists under different shapes in all governments, more or less stifled, controlled, or repressed; but, in those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy. The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism […] It serves always to distract the public councils and enfeeble the public administration. It agitates the community wi…",
+          "link": "https://www.stefanimhoff.de/quotes/political-polarization/",
+          "publishedOn": "2021-10-02T08:00:00.000Z",
+          "wordCount": 385,
+          "title": "Political Polarization"
+        },
+        {
           "id": "https://www.stefanimhoff.de/links/bundle-7/",
           "author": null,
           "description": "Squid Game    [N] – This Korean TV Show is thrilling and shocking.\nMoney Heist    [N] – The first half of the last season is available.\nSex Education    [N] – The 3rd season of this funny TV Show started.\nAcademy of Ideas: How to Escape from a Sick Society\nAfter Skool: The Dangers of Victimhood – Jordan Peterson – Another talk of Jordan Peterson beautifully animated.\nMy University Sacrificed Ideas for Ideology. So Today I Quit.. Portland State Sacrificed Ideas for Ideology. So Peter Boghossian Quit\nFoundation for Economic Education: The Suicide Squad is Actually… Realistic??\nA fantastic interview with Amanda Knox, who was wrongfully convicted for murder, on Joe Rogan.\nBret and Heather talk about their new Book A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of M…",
           "link": "https://www.stefanimhoff.de/links/bundle-7/",
           "publishedOn": "2021-09-29T16:00:00.000Z",
-          "wordCount": 415,
+          "wordCount": 417,
           "title": "Link Bundle #7"
         },
         {
@@ -929,24 +933,6 @@
           "publishedOn": "2021-09-06T11:50:00.000Z",
           "wordCount": 177,
           "title": "Sponsor: Paste"
-        },
-        {
-          "id": "https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions",
-          "author": null,
-          "description": "How Swift 5.5 enables us to conditionally compile postfix member expressions using compiler directives, and what kinds of situations that this new feature could be useful in.",
-          "link": "https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions",
-          "publishedOn": "2021-09-03T10:00:00.000Z",
-          "wordCount": 911,
-          "title": "Conditional compilation within Swift expressions"
-        },
-        {
-          "id": "https://www.swiftbysundell.com/podcast/104",
-          "author": null,
-          "description": "Roxana Jula joins John to discuss Apple’s various tools, frameworks, and APIs for building Augmented Reality experiences. How to get started building AR-based apps, what’s the current state of AR on Apple’s platforms, and how might that change if Apple were to introduce dedicated AR hardware in the future?",
-          "link": "https://www.swiftbysundell.com/podcast/104",
-          "publishedOn": "2021-09-02T17:35:00.000Z",
-          "wordCount": 267,
-          "title": "Podcast: “The magic of Augmented Reality”, with special guest Roxana Jula"
         }
       ]
     },
@@ -978,12 +964,21 @@
       "siteUrl": "https://blog.suhailkakar.com",
       "articles": [
         {
+          "id": "https://blog.suhailkakar.com/a-beginners-guide-to-solidity-blockchain-development",
+          "author": "Suhail Kakar",
+          "description": "Solidity is an object-oriented, high-level programming language for creating smart contracts on the blockchain that automate transactions. The language was created by participants to the Ethereum project when it was proposed in 2014. This language is mostly used to make smart contracts on the Ethereum blockchain.\nAccording to its documentation, \"Solidity is a curly-bracket language. It is influenced by C++, Python, and JavaScript, and is designed to target the Ethereum Virtual Machine (EVM).\"\nSolidity is also considered a dialect of JavaScript. This implies that if you know JavaScript, learning Solidity should be simple. Before learning more about solidity let's understand some basic terms of blockchain.\nTable of Contents\nEthereum Virtual Machine\nSmart Contract\nEnvironment Setup\nReserved K…",
+          "link": "https://blog.suhailkakar.com/a-beginners-guide-to-solidity-blockchain-development",
+          "publishedOn": "2021-10-02T05:35:09.000Z",
+          "wordCount": 1260,
+          "title": "A Beginner's Guide To Solidity - Blockchain Development"
+        },
+        {
           "id": "https://blog.suhailkakar.com/the-ultimate-guide-to-web-3",
           "author": "Suhail Kakar",
           "description": "You've probably heard about Web3 unless you've been living under a rock. Web 3.0 is the next step in the web's growth, and it aims to make the internet more intelligent. Before learning more about Web3, let's understand the evolution of the web first.  \nOver the last few years, the World Wide Web has developed, bringing with it new tools and strategies. Web 1.0, 2.0, and 3.0 are typical names for these stages. Now let's understand each of their stags. \nWeb 1.0\nIt is the first stage in the evolution of the web, which is also referred as the read-only web. Web 1.0 websites were not as dynamic and interactive as it is now. The primary goal of the websites was to make the information available to the general public. As servers were improved, average connection speeds rose, and developers gaine…",
           "link": "https://blog.suhailkakar.com/the-ultimate-guide-to-web-3",
           "publishedOn": "2021-09-26T12:34:15.000Z",
-          "wordCount": 1027,
+          "wordCount": 1025,
           "title": "The Ultimate Guide to Web 3.0 - Everything you need to know about Web 3.0 before learning it"
         },
         {
@@ -992,7 +987,7 @@
           "description": "It is not necessary to spend a lot of money to create a professional-looking dashboard for your website or app. That's why, in this post, we will look at some of the great react admin panels that you can utilize in your next project. This selection of the top free admin templates will assist you in launching your project with a minimal financial commitment.\nCoreUI\n\nCoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer the ultimate user experience. \n Download /    Live Demo\nBlack\n\nBlack Dashboard React is a beautiful Bootstrap 4, Reacstrap and React (create-react-app) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize…",
           "link": "https://blog.suhailkakar.com/top-free-react-dashboards-to-use-for-your-next-project",
           "publishedOn": "2021-09-21T06:49:46.000Z",
-          "wordCount": 712,
+          "wordCount": 710,
           "title": "Top Free React Dashboards to Use for Your Next Project"
         },
         {
@@ -1001,7 +996,7 @@
           "description": "Learning to code can be challenging and perplexing, especially if you don't know where to begin. The greatest approach to improve your programming abilities is to use them to create coding projects.\nHere are the finest programming projects to boost your confidence and make you a better developer, whether you're a novice or returning to coding. I've also mentioned the technologies that can be used in each project, but feel free to use any of your favorite programming languages or frameworks.\nCalculator app\n\nThe program that we all use on a daily basis is the calculator. The calculator is a project that is both simple and practical.  As a reference, you can  view  Adeola Adeoti's calculator app, the source code of his app can be found  here. \nWhat you will learn\nCreating a calculator app can…",
           "link": "https://blog.suhailkakar.com/10-projects-you-can-do-to-become-a-frontend-master",
           "publishedOn": "2021-09-16T06:29:51.000Z",
-          "wordCount": 1127,
+          "wordCount": 1125,
           "title": "10+ Projects You Can Do to Become a Frontend Master"
         },
         {
@@ -1010,17 +1005,17 @@
           "description": "Deploying an application created with a framework like React, Vue, or Angular differs significantly from deploying a website built with HTML, CSS, and JavaScript. Choosing a hosting provider for your app is very important, as your website performance depends on it. Here are some popular and free hosting services, that you can use to deploy your react app. \nNetlify\nIt's the one I utilize for the majority of my projects. Netlify is a fantastic web development tool that is designed to help you increase your productivity as much as possible. Developers can use the platform to create, test, and deploy websites. Netlify is an incredibly rapid solution to assure that websites and apps are considerably more performant, scalable, and secure.\n\nVercel\nVercel is a static site and frontend framework pl…",
           "link": "https://blog.suhailkakar.com/6-ways-to-host-your-react-js-app-for-free",
           "publishedOn": "2021-09-13T16:41:07.000Z",
-          "wordCount": 593,
+          "wordCount": 591,
           "title": "6 Ways to Host Your React JS App For Free"
         },
         {
-          "id": "https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-upload-care",
+          "id": "https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-uploadcare",
           "author": "Suhail Kakar",
-          "description": "Overview\nIn this article, we are going to integrate Upload Care ( An Advanced File Uploader ) which includes drag-and-drop image uploader, direct link image uploader and etc.. in our react.js app. \nCreating a react app\nThe first step is to create a simple react app which you can do just by running the command below in your terminal. \nnpx create-react-app upload-care\n\nThis might take a while and it depends on your computer specs but once it is done go to the new directory which is created ( In our case upload-care ) and run npm start or yarn start. This command will start the development server for your react app. Now open this directory (In our case upload-care) in any code editor\nCleaning up the project\nOnce you opened the directory in your code editor, You can see that there are many fil…",
-          "link": "https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-upload-care",
+          "description": "Overview\nIn this article, we are going to integrate Uploadcare ( An Advanced File Uploader ) which includes drag-and-drop image uploader, direct link image uploader and etc.. in our react.js app. \nCreating a react app\nThe first step is to create a simple react app which you can do just by running the command below in your terminal. \nnpx create-react-app upload-care\n\nThis might take a while and it depends on your computer specs but once it is done go to the new directory which is created ( In our case upload-care ) and run npm start or yarn start. This command will start the development server for your react app. Now open this directory (In our case upload-care) in any code editor\nCleaning up the project\nOnce you opened the directory in your code editor, You can see that there are many file…",
+          "link": "https://blog.suhailkakar.com/add-an-advanced-file-uploader-to-your-reactjs-app-uploadcare",
           "publishedOn": "2021-09-10T05:08:29.000Z",
-          "wordCount": 797,
-          "title": "Add An Advanced File Uploader To Your React.js App - Upload Care"
+          "wordCount": 786,
+          "title": "Add An Advanced File Uploader To Your React.js App - Uploadcare"
         },
         {
           "id": "https://blog.suhailkakar.com/top-10-visual-studio-code-extensions-that-every-developer-should-use-it",
@@ -1028,7 +1023,7 @@
           "description": "Visual Studio Code is by far one of the most popular code editors for web, mobile, and hardware developers. More than 2,600,000 people use VS Code every month, up by over 160% in the last year.\nIn this guide, we’ll explore the top 20 VS Code extensions that every developer should know in 2021.\nBracket Pair Colorizer\nIf you are working on big projects where functions and components become very complicated, bracket pair colorizer is the one who can help you\nThis extension allows matching brackets to be identified with colors. The user can define which characters to match, and which colors to use. It is one of the must-have extensions for all developers. \nLink : https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer\n\nAuto Rename Tag\nFor web developers, Auto Renam…",
           "link": "https://blog.suhailkakar.com/top-10-visual-studio-code-extensions-that-every-developer-should-use-it",
           "publishedOn": "2021-09-06T05:25:27.000Z",
-          "wordCount": 791,
+          "wordCount": 789,
           "title": "Top 10 Visual Studio Code Extensions That Every Developer Should Use It"
         }
       ]
@@ -1107,15 +1102,6 @@
           "publishedOn": "2021-09-14T07:18:27.000Z",
           "wordCount": 1436,
           "title": "14 Best Web Developer Portfolios To Get Inspiration"
-        },
-        {
-          "id": "https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode",
-          "author": "Catalin Pit",
-          "description": "It feels like it was yesterday when I started working as a Developer Advocate at Hashnode. Time flies when you enjoy what you do!\nThus, in this article, I want to discuss how I received the role and what it's like to be a Developer Advocate.\nWhy am I writing this article\n\n\nFirst of all, I received the job by putting my work online and by networking. Thus, I want to show the power of social media. Secondly, many people asked me about what it's like to work as a Developer Advocate. So, I want to share my experience with them.\nIs this a promotional article? Absolutely not. I do not promote Hashnode because I work there. I work at Hashnode because I love the product. Whether I work at Hashnode or not, it does not change how I feel about Hashnode, the blogging platform. First and foremost, I am…",
-          "link": "https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode",
-          "publishedOn": "2021-09-03T05:36:23.000Z",
-          "wordCount": 1318,
-          "title": "My First 6 Months as a Developer Advocate at Hashnode"
         }
       ]
     },
