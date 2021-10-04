@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-03T00:54:03.134Z</id>
+    <id>urn:2021-10-04T00:54:30.237Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-03T00:54:03.134Z</updated>
+    <updated>2021-10-04T00:54:30.237Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]]]></title>
+        <id>5f9c98a3740569d1a4ca1b33</id>
+        <link href="https://www.freecodecamp.org/news/best-online-courses/"/>
+        <updated>2021-10-03T04:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS prefers-color-scheme user query and order of preference]]></title>
+        <id>https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/</id>
+        <link href="https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/"/>
+        <updated>2021-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I spent some time in Reeder app this morning, catching up with RSS and the latest articles published by my favorite blogs.
+I was reading Scott O’Hara’s article about using JavaScript to detect high contrast and dark modes, which includes a small, very useful script to do exactly what the title says. The output of that script at first looked like it was a “false positive”. But some further investigation led me to learn something new about the prefers-color-scheme CSS user query.
+
+Scott’s article includes a Codepen to demonstrate the output of the script. The script will check and detect if you currently have high contrast mode or dark mode enabled, and will output the result of the check.
+See the Pen 
+  JavaScript to detect media queries by Scott (@scottohara)
+  on CodePen.
+
+
+Since JavaScri…]]></summary>
+        <author>
+            <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Political Polarization]]></title>
         <id>https://www.stefanimhoff.de/quotes/political-polarization/</id>
@@ -334,16 +363,6 @@ But then I …
 The post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML / CSS Tutorial - Build a Recipe Website]]></title>
-        <id>6153616d64aefe07d3fa049a</id>
-        <link href="https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/"/>
-        <updated>2021-09-28T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel that will teach you how to build a recipe website. John Smilga developed this course. He is one of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -1122,26 +1141,6 @@ Auto Rename Tag
 For web developers, Auto Renam…]]></summary>
         <author>
             <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions 101: Creating Your First Workflow]]></title>
-        <id>https://lo-victoria.com/github-actions-101-creating-your-first-workflow</id>
-        <link href="https://lo-victoria.com/github-actions-101-creating-your-first-workflow"/>
-        <updated>2021-09-03T14:43:29.000Z</updated>
-        <summary type="html"><![CDATA[As technology constantly evolves, developers are seeking new ways to have more efficient development workflows. GitHub Actions allows developers to automate, customize, and execute their software development workflows from the repository itself. Hence, it is easy to integrate CI/CD, perform tests and customize any workflow using GitHub Actions.
-In this series, let's walk through everything you need to know about GitHub Actions, from the basics to creating your own customized workflow.
-At the end of the series, you will be able to:
-Understand how GitHub Action works
-Create your first action
-Create your first workflow
-More about actions and workflows
-Develop a basic CI/CD workflow
-Prerequisites
-Before we get started, these following prerequisites are recommended to follow along:
-Basic unders…]]></summary>
-        <author>
-            <name>Victoria Lo</name>
         </author>
     </entry>
 </feed>
